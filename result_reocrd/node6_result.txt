@@ -1,0 +1,4322 @@
+Epoch 0 Testing loss: 1.5467140674591064
+test: Accuracy 4741/10000 (47%)
+Epoch 0 Testing loss: 1.8980324268341064
+test: Accuracy 4152/10000 (42%)
+Epoch 1 Testing loss: 1.356380820274353
+test: Accuracy 5524/10000 (55%)
+Epoch 2 Testing loss: 2.101839303970337
+test: Accuracy 4553/10000 (46%)
+Epoch 3 Testing loss: 1.1049617528915405
+test: Accuracy 6441/10000 (64%)
+Epoch 4 Testing loss: 0.901906430721283
+test: Accuracy 6980/10000 (70%)
+Epoch 5 Testing loss: 0.8001587986946106
+test: Accuracy 7248/10000 (72%)
+Epoch 6 Testing loss: 0.7544525265693665
+test: Accuracy 7508/10000 (75%)
+Epoch 7 Testing loss: 0.7502295970916748
+test: Accuracy 7473/10000 (75%)
+Epoch 8 Testing loss: 1.7863028049468994
+test: Accuracy 5660/10000 (57%)
+Epoch 9 Testing loss: 0.9416510462760925
+test: Accuracy 7219/10000 (72%)
+Epoch 10 Testing loss: 0.6797182559967041
+test: Accuracy 7791/10000 (78%)
+Epoch 11 Testing loss: 0.7987727522850037
+test: Accuracy 7438/10000 (74%)
+Epoch 12 Testing loss: 0.8359349370002747
+test: Accuracy 7451/10000 (75%)
+Epoch 13 Testing loss: 1.090668797492981
+test: Accuracy 6960/10000 (70%)
+Epoch 14 Testing loss: 0.7355090975761414
+test: Accuracy 7663/10000 (77%)
+Epoch 15 Testing loss: 0.6081718802452087
+test: Accuracy 8091/10000 (81%)
+Epoch 16 Testing loss: 0.8093902468681335
+test: Accuracy 7623/10000 (76%)
+Epoch 17 Testing loss: 0.6499172449111938
+test: Accuracy 7928/10000 (79%)
+Epoch 18 Testing loss: 0.5747349858283997
+test: Accuracy 8177/10000 (82%)
+Epoch 19 Testing loss: 0.7843360304832458
+test: Accuracy 7749/10000 (77%)
+Epoch 20 Testing loss: 0.6434394717216492
+test: Accuracy 8069/10000 (81%)
+Epoch 21 Testing loss: 0.6841047406196594
+test: Accuracy 7931/10000 (79%)
+Epoch 22 Testing loss: 0.6666944622993469
+test: Accuracy 7984/10000 (80%)
+Epoch 23 Testing loss: 0.5813177227973938
+test: Accuracy 8195/10000 (82%)
+Epoch 24 Testing loss: 1.1964887380599976
+test: Accuracy 7082/10000 (71%)
+Epoch 25 Testing loss: 0.6836841702461243
+test: Accuracy 7965/10000 (80%)
+Epoch 26 Testing loss: 0.8407902717590332
+test: Accuracy 7872/10000 (79%)
+Epoch 27 Testing loss: 0.6263477802276611
+test: Accuracy 8136/10000 (81%)
+Epoch 28 Testing loss: 1.076987624168396
+test: Accuracy 7391/10000 (74%)
+Epoch 29 Testing loss: 0.7980250120162964
+test: Accuracy 7881/10000 (79%)
+Epoch 30 Testing loss: 0.5658782720565796
+test: Accuracy 8357/10000 (84%)
+Epoch 31 Testing loss: 0.6341883540153503
+test: Accuracy 8237/10000 (82%)
+Epoch 32 Testing loss: 0.6382772326469421
+test: Accuracy 8170/10000 (82%)
+Epoch 33 Testing loss: 0.576737105846405
+test: Accuracy 8369/10000 (84%)
+Epoch 34 Testing loss: 0.7550786733627319
+test: Accuracy 8037/10000 (80%)
+Epoch 35 Testing loss: 0.6903401613235474
+test: Accuracy 8123/10000 (81%)
+Epoch 36 Testing loss: 1.6684805154800415
+test: Accuracy 6661/10000 (67%)
+Epoch 37 Testing loss: 0.6241941452026367
+test: Accuracy 8277/10000 (83%)
+Epoch 38 Testing loss: 0.6212120056152344
+test: Accuracy 8278/10000 (83%)
+Epoch 39 Testing loss: 0.5576345920562744
+test: Accuracy 8428/10000 (84%)
+Epoch 40 Testing loss: 0.6526273488998413
+test: Accuracy 8297/10000 (83%)
+Epoch 0 Testing loss: 1.1200190782546997
+test: Accuracy 6014/10000 (60%)
+Epoch 1 Testing loss: 0.828163743019104
+test: Accuracy 7078/10000 (71%)
+Epoch 2 Testing loss: 0.8736799359321594
+test: Accuracy 6997/10000 (70%)
+Epoch 3 Testing loss: 0.9446983337402344
+test: Accuracy 6723/10000 (67%)
+Epoch 4 Testing loss: 0.7262576222419739
+test: Accuracy 7425/10000 (74%)
+Epoch 5 Testing loss: 0.756969153881073
+test: Accuracy 7436/10000 (74%)
+Epoch 6 Testing loss: 0.6432072520256042
+test: Accuracy 7778/10000 (78%)
+Epoch 7 Testing loss: 0.7242328524589539
+test: Accuracy 7559/10000 (76%)
+Epoch 8 Testing loss: 0.7461996078491211
+test: Accuracy 7521/10000 (75%)
+Epoch 9 Testing loss: 0.6893805861473083
+test: Accuracy 7710/10000 (77%)
+Epoch 10 Testing loss: 0.6888660788536072
+test: Accuracy 7669/10000 (77%)
+Epoch 11 Testing loss: 0.7173202633857727
+test: Accuracy 7647/10000 (76%)
+Epoch 12 Testing loss: 0.5698485374450684
+test: Accuracy 8020/10000 (80%)
+Epoch 13 Testing loss: 0.6343337297439575
+test: Accuracy 7881/10000 (79%)
+Epoch 14 Testing loss: 0.6190189719200134
+test: Accuracy 7922/10000 (79%)
+Epoch 15 Testing loss: 0.6316915154457092
+test: Accuracy 7897/10000 (79%)
+Epoch 16 Testing loss: 0.584713339805603
+test: Accuracy 8008/10000 (80%)
+Epoch 17 Testing loss: 0.5832080245018005
+test: Accuracy 8017/10000 (80%)
+Epoch 18 Testing loss: 0.5955120921134949
+test: Accuracy 8079/10000 (81%)
+Epoch 19 Testing loss: 0.5496103763580322
+test: Accuracy 8172/10000 (82%)
+Epoch 20 Testing loss: 0.6401630640029907
+test: Accuracy 7942/10000 (79%)
+Epoch 21 Testing loss: 0.668452262878418
+test: Accuracy 7895/10000 (79%)
+Epoch 22 Testing loss: 0.5853251814842224
+test: Accuracy 8111/10000 (81%)
+Epoch 23 Testing loss: 0.639114499092102
+test: Accuracy 7992/10000 (80%)
+Epoch 24 Testing loss: 0.6102096438407898
+test: Accuracy 8088/10000 (81%)
+Epoch 25 Testing loss: 0.5996391177177429
+test: Accuracy 8070/10000 (81%)
+Epoch 26 Testing loss: 0.5786364674568176
+test: Accuracy 8137/10000 (81%)
+Epoch 27 Testing loss: 0.6031420826911926
+test: Accuracy 8092/10000 (81%)
+Epoch 28 Testing loss: 0.6535940766334534
+test: Accuracy 8006/10000 (80%)
+Epoch 29 Testing loss: 0.595097541809082
+test: Accuracy 8127/10000 (81%)
+Epoch 30 Testing loss: 0.6627487540245056
+test: Accuracy 7955/10000 (80%)
+Epoch 31 Testing loss: 0.5993283987045288
+test: Accuracy 8094/10000 (81%)
+Epoch 32 Testing loss: 0.702778697013855
+test: Accuracy 7813/10000 (78%)
+Epoch 33 Testing loss: 0.6091190576553345
+test: Accuracy 8136/10000 (81%)
+Epoch 34 Testing loss: 0.6452774405479431
+test: Accuracy 8036/10000 (80%)
+Epoch 35 Testing loss: 0.6394675970077515
+test: Accuracy 8090/10000 (81%)
+Epoch 36 Testing loss: 0.6259996294975281
+test: Accuracy 8079/10000 (81%)
+Epoch 37 Testing loss: 0.6479722857475281
+test: Accuracy 8076/10000 (81%)
+Epoch 38 Testing loss: 0.7300251722335815
+test: Accuracy 7889/10000 (79%)
+Epoch 39 Testing loss: 0.6217433214187622
+test: Accuracy 8125/10000 (81%)
+Epoch 40 Testing loss: 0.6397321820259094
+test: Accuracy 8087/10000 (81%)
+Epoch 41 Testing loss: 0.6852070093154907
+test: Accuracy 8020/10000 (80%)
+Epoch 42 Testing loss: 0.6217917799949646
+test: Accuracy 8129/10000 (81%)
+Epoch 43 Testing loss: 0.659542977809906
+test: Accuracy 8064/10000 (81%)
+Epoch 44 Testing loss: 0.6533932685852051
+test: Accuracy 8130/10000 (81%)
+Epoch 45 Testing loss: 0.7086569666862488
+test: Accuracy 8029/10000 (80%)
+Epoch 46 Testing loss: 0.6434173583984375
+test: Accuracy 8139/10000 (81%)
+Epoch 47 Testing loss: 0.7176802754402161
+test: Accuracy 8040/10000 (80%)
+Epoch 48 Testing loss: 0.7598146200180054
+test: Accuracy 7980/10000 (80%)
+Epoch 49 Testing loss: 0.7309281826019287
+test: Accuracy 8076/10000 (81%)
+Epoch 0 Testing loss: 1.775024652481079
+test: Accuracy 4392/10000 (44%)
+Epoch 1 Testing loss: 1.0987849235534668
+test: Accuracy 6102/10000 (61%)
+Epoch 2 Testing loss: 1.3634737730026245
+test: Accuracy 5764/10000 (58%)
+Epoch 3 Testing loss: 1.1151270866394043
+test: Accuracy 6525/10000 (65%)
+Epoch 4 Testing loss: 0.9460417628288269
+test: Accuracy 6912/10000 (69%)
+Epoch 5 Testing loss: 0.7761314511299133
+test: Accuracy 7424/10000 (74%)
+Epoch 6 Testing loss: 0.9720838665962219
+test: Accuracy 7014/10000 (70%)
+Epoch 7 Testing loss: 0.7026420831680298
+test: Accuracy 7656/10000 (77%)
+Epoch 8 Testing loss: 1.2188760042190552
+test: Accuracy 6543/10000 (65%)
+Epoch 9 Testing loss: 0.865287721157074
+test: Accuracy 7258/10000 (73%)
+Epoch 10 Testing loss: 0.8865995407104492
+test: Accuracy 7145/10000 (71%)
+Epoch 11 Testing loss: 0.6109594702720642
+test: Accuracy 8007/10000 (80%)
+Epoch 12 Testing loss: 0.8062538504600525
+test: Accuracy 7513/10000 (75%)
+Epoch 13 Testing loss: 0.5622846484184265
+test: Accuracy 8091/10000 (81%)
+Epoch 14 Testing loss: 0.7639408707618713
+test: Accuracy 7598/10000 (76%)
+Epoch 15 Testing loss: 0.6157549023628235
+test: Accuracy 8049/10000 (80%)
+Epoch 16 Testing loss: 0.7035567760467529
+test: Accuracy 7794/10000 (78%)
+Epoch 17 Testing loss: 0.8566061854362488
+test: Accuracy 7487/10000 (75%)
+Epoch 18 Testing loss: 0.7141210436820984
+test: Accuracy 7797/10000 (78%)
+Epoch 19 Testing loss: 0.5686790347099304
+test: Accuracy 8240/10000 (82%)
+Epoch 20 Testing loss: 0.7820212244987488
+test: Accuracy 7817/10000 (78%)
+Epoch 21 Testing loss: 0.6664469838142395
+test: Accuracy 8000/10000 (80%)
+Epoch 22 Testing loss: 0.8215818405151367
+test: Accuracy 7680/10000 (77%)
+Epoch 23 Testing loss: 0.8162030577659607
+test: Accuracy 7740/10000 (77%)
+Epoch 24 Testing loss: 0.7261560559272766
+test: Accuracy 7934/10000 (79%)
+Epoch 25 Testing loss: 1.4326258897781372
+test: Accuracy 6594/10000 (66%)
+Epoch 26 Testing loss: 0.7414577603340149
+test: Accuracy 7870/10000 (79%)
+Epoch 27 Testing loss: 0.616312563419342
+test: Accuracy 8204/10000 (82%)
+Epoch 28 Testing loss: 0.7083228230476379
+test: Accuracy 8016/10000 (80%)
+Epoch 29 Testing loss: 1.3795192241668701
+test: Accuracy 6847/10000 (68%)
+Epoch 30 Testing loss: 0.7152293920516968
+test: Accuracy 8005/10000 (80%)
+Epoch 31 Testing loss: 0.5604354739189148
+test: Accuracy 8367/10000 (84%)
+Epoch 32 Testing loss: 0.9245476126670837
+test: Accuracy 7747/10000 (77%)
+Epoch 33 Testing loss: 0.639194905757904
+test: Accuracy 8212/10000 (82%)
+Epoch 34 Testing loss: 0.7006933689117432
+test: Accuracy 8167/10000 (82%)
+Epoch 35 Testing loss: 0.8755416870117188
+test: Accuracy 7747/10000 (77%)
+Epoch 36 Testing loss: 1.094499945640564
+test: Accuracy 7708/10000 (77%)
+Epoch 37 Testing loss: 0.6819223165512085
+test: Accuracy 8196/10000 (82%)
+Epoch 38 Testing loss: 0.6968861222267151
+test: Accuracy 8179/10000 (82%)
+Epoch 39 Testing loss: 0.701033353805542
+test: Accuracy 8169/10000 (82%)
+Epoch 40 Testing loss: 0.7240752577781677
+test: Accuracy 8118/10000 (81%)
+Epoch 41 Testing loss: 0.7077835202217102
+test: Accuracy 8224/10000 (82%)
+Epoch 42 Testing loss: 0.7135046720504761
+test: Accuracy 8195/10000 (82%)
+Epoch 43 Testing loss: 1.1242214441299438
+test: Accuracy 7570/10000 (76%)
+Epoch 44 Testing loss: 0.6690323948860168
+test: Accuracy 8332/10000 (83%)
+Epoch 45 Testing loss: 0.6638340353965759
+test: Accuracy 8311/10000 (83%)
+Epoch 46 Testing loss: 1.036706566810608
+test: Accuracy 7736/10000 (77%)
+Epoch 47 Testing loss: 0.8210140466690063
+test: Accuracy 7996/10000 (80%)
+Epoch 48 Testing loss: 2.526730537414551
+test: Accuracy 6354/10000 (64%)
+Epoch 49 Testing loss: 0.9533037543296814
+test: Accuracy 7857/10000 (79%)
+Epoch 0 Testing loss: 1.507748007774353
+test: Accuracy 4964/10000 (50%)
+Epoch 0 Testing loss: 1.6408417224884033
+test: Accuracy 4285/10000 (43%)
+Epoch 1 Testing loss: 1.4963785409927368
+test: Accuracy 5275/10000 (53%)
+Epoch 0 Testing loss: 4.6049017906188965
+test: Accuracy 500/50000 (1%)
+Epoch 1 Testing loss: 4.604563236236572
+test: Accuracy 537/50000 (1%)
+Epoch 2 Testing loss: 4.6040425300598145
+test: Accuracy 814/50000 (2%)
+Epoch 3 Testing loss: 4.603022575378418
+test: Accuracy 805/50000 (2%)
+Epoch 4 Testing loss: 4.5997748374938965
+test: Accuracy 543/50000 (1%)
+Epoch 5 Testing loss: 4.563835620880127
+test: Accuracy 617/50000 (1%)
+Epoch 6 Testing loss: 4.520334720611572
+test: Accuracy 1256/50000 (3%)
+Epoch 7 Testing loss: 4.381551742553711
+test: Accuracy 1543/50000 (3%)
+Epoch 8 Testing loss: 4.184701442718506
+test: Accuracy 2701/50000 (5%)
+Epoch 9 Testing loss: 4.073258876800537
+test: Accuracy 3371/50000 (7%)
+Epoch 10 Testing loss: 4.155377388000488
+test: Accuracy 2951/50000 (6%)
+Epoch 11 Testing loss: 4.0042195320129395
+test: Accuracy 3981/50000 (8%)
+Epoch 12 Testing loss: 3.890296459197998
+test: Accuracy 4616/50000 (9%)
+Epoch 13 Testing loss: 3.772393226623535
+test: Accuracy 5507/50000 (11%)
+Epoch 14 Testing loss: 3.7102112770080566
+test: Accuracy 5898/50000 (12%)
+Epoch 15 Testing loss: 3.6538162231445312
+test: Accuracy 6501/50000 (13%)
+Epoch 16 Testing loss: 3.5706777572631836
+test: Accuracy 6994/50000 (14%)
+Epoch 17 Testing loss: 3.5046045780181885
+test: Accuracy 7718/50000 (15%)
+Epoch 18 Testing loss: 3.63151478767395
+test: Accuracy 6674/50000 (13%)
+Epoch 19 Testing loss: 3.3376638889312744
+test: Accuracy 9070/50000 (18%)
+Epoch 20 Testing loss: 3.644385814666748
+test: Accuracy 6833/50000 (14%)
+Epoch 0 Testing loss: 4.605031967163086
+test: Accuracy 525/50000 (1%)
+Epoch 1 Testing loss: 4.604811668395996
+test: Accuracy 570/50000 (1%)
+Epoch 2 Testing loss: 4.604523658752441
+test: Accuracy 976/50000 (2%)
+Epoch 3 Testing loss: 4.6041154861450195
+test: Accuracy 955/50000 (2%)
+Epoch 4 Testing loss: 4.603369235992432
+test: Accuracy 826/50000 (2%)
+Epoch 5 Testing loss: 4.601678848266602
+test: Accuracy 632/50000 (1%)
+Epoch 6 Testing loss: 4.592107772827148
+test: Accuracy 502/50000 (1%)
+Epoch 7 Testing loss: 4.540250778198242
+test: Accuracy 1144/50000 (2%)
+Epoch 8 Testing loss: 4.421638011932373
+test: Accuracy 1652/50000 (3%)
+Epoch 9 Testing loss: 4.234471797943115
+test: Accuracy 2194/50000 (4%)
+Epoch 10 Testing loss: 4.1034979820251465
+test: Accuracy 2761/50000 (6%)
+Epoch 11 Testing loss: 3.981761932373047
+test: Accuracy 3647/50000 (7%)
+Epoch 12 Testing loss: 3.959642171859741
+test: Accuracy 3811/50000 (8%)
+Epoch 13 Testing loss: 3.879040479660034
+test: Accuracy 4626/50000 (9%)
+Epoch 14 Testing loss: 3.8380494117736816
+test: Accuracy 4860/50000 (10%)
+Epoch 15 Testing loss: 4.012581825256348
+test: Accuracy 4385/50000 (9%)
+Epoch 16 Testing loss: 3.678591251373291
+test: Accuracy 6191/50000 (12%)
+Epoch 17 Testing loss: 3.743165969848633
+test: Accuracy 5799/50000 (12%)
+Epoch 18 Testing loss: 3.6537978649139404
+test: Accuracy 6320/50000 (13%)
+Epoch 19 Testing loss: 3.5227746963500977
+test: Accuracy 7445/50000 (15%)
+Epoch 20 Testing loss: 3.53106689453125
+test: Accuracy 7354/50000 (15%)
+Epoch 21 Testing loss: 3.391481876373291
+test: Accuracy 8441/50000 (17%)
+Epoch 22 Testing loss: 3.386408567428589
+test: Accuracy 8483/50000 (17%)
+Epoch 23 Testing loss: 3.2708468437194824
+test: Accuracy 9477/50000 (19%)
+Epoch 24 Testing loss: 3.3297276496887207
+test: Accuracy 9067/50000 (18%)
+Epoch 25 Testing loss: 3.255049228668213
+test: Accuracy 9612/50000 (19%)
+Epoch 26 Testing loss: 3.1237540245056152
+test: Accuracy 11132/50000 (22%)
+Epoch 27 Testing loss: 3.074415922164917
+test: Accuracy 11475/50000 (23%)
+Epoch 28 Testing loss: 2.9729974269866943
+test: Accuracy 12539/50000 (25%)
+Epoch 29 Testing loss: 2.8912429809570312
+test: Accuracy 13150/50000 (26%)
+Epoch 30 Testing loss: 2.904970169067383
+test: Accuracy 12963/50000 (26%)
+Epoch 31 Testing loss: 3.1413445472717285
+test: Accuracy 11016/50000 (22%)
+Epoch 32 Testing loss: 2.810218334197998
+test: Accuracy 14113/50000 (28%)
+Epoch 33 Testing loss: 2.725877285003662
+test: Accuracy 14608/50000 (29%)
+Epoch 34 Testing loss: 2.793604850769043
+test: Accuracy 14490/50000 (29%)
+Epoch 35 Testing loss: 2.657306432723999
+test: Accuracy 15527/50000 (31%)
+Epoch 36 Testing loss: 2.689835786819458
+test: Accuracy 15400/50000 (31%)
+Epoch 37 Testing loss: 2.7783010005950928
+test: Accuracy 14474/50000 (29%)
+Epoch 38 Testing loss: 2.626361131668091
+test: Accuracy 16012/50000 (32%)
+Epoch 39 Testing loss: 2.714040994644165
+test: Accuracy 15260/50000 (31%)
+Epoch 40 Testing loss: 2.645981788635254
+test: Accuracy 16178/50000 (32%)
+Epoch 41 Testing loss: 2.5134665966033936
+test: Accuracy 17227/50000 (34%)
+Epoch 42 Testing loss: 2.376366376876831
+test: Accuracy 18531/50000 (37%)
+Epoch 43 Testing loss: 2.539050579071045
+test: Accuracy 17037/50000 (34%)
+Epoch 44 Testing loss: 2.5159878730773926
+test: Accuracy 17473/50000 (35%)
+Epoch 45 Testing loss: 2.4313056468963623
+test: Accuracy 18175/50000 (36%)
+Epoch 46 Testing loss: 2.5526838302612305
+test: Accuracy 17241/50000 (34%)
+Epoch 47 Testing loss: 2.549297332763672
+test: Accuracy 17118/50000 (34%)
+Epoch 48 Testing loss: 2.27602219581604
+test: Accuracy 19685/50000 (39%)
+Epoch 49 Testing loss: 2.3069188594818115
+test: Accuracy 19311/50000 (39%)
+Epoch 0 Testing loss: 4.604984760284424
+test: Accuracy 667/50000 (1%)
+Epoch 1 Testing loss: 4.604720592498779
+test: Accuracy 773/50000 (2%)
+Epoch 2 Testing loss: 4.604306697845459
+test: Accuracy 793/50000 (2%)
+Epoch 3 Testing loss: 4.6034979820251465
+test: Accuracy 848/50000 (2%)
+Epoch 4 Testing loss: 4.601294994354248
+test: Accuracy 702/50000 (1%)
+Epoch 5 Testing loss: 4.575078964233398
+test: Accuracy 569/50000 (1%)
+Epoch 6 Testing loss: 4.474640846252441
+test: Accuracy 1081/50000 (2%)
+Epoch 7 Testing loss: 4.445329189300537
+test: Accuracy 1431/50000 (3%)
+Epoch 8 Testing loss: 4.293642997741699
+test: Accuracy 1489/50000 (3%)
+Epoch 9 Testing loss: 4.174295425415039
+test: Accuracy 2181/50000 (4%)
+Epoch 10 Testing loss: 4.225320816040039
+test: Accuracy 2565/50000 (5%)
+Epoch 11 Testing loss: 3.974581003189087
+test: Accuracy 3618/50000 (7%)
+Epoch 12 Testing loss: 4.136115074157715
+test: Accuracy 3290/50000 (7%)
+Epoch 13 Testing loss: 3.8223490715026855
+test: Accuracy 4894/50000 (10%)
+Epoch 14 Testing loss: 3.8067548274993896
+test: Accuracy 4945/50000 (10%)
+Epoch 15 Testing loss: 3.7199864387512207
+test: Accuracy 5772/50000 (12%)
+Epoch 16 Testing loss: 3.828460216522217
+test: Accuracy 4960/50000 (10%)
+Epoch 17 Testing loss: 3.714088201522827
+test: Accuracy 5850/50000 (12%)
+Epoch 18 Testing loss: 3.560204029083252
+test: Accuracy 7140/50000 (14%)
+Epoch 19 Testing loss: 3.5435009002685547
+test: Accuracy 7320/50000 (15%)
+Epoch 20 Testing loss: 3.607454776763916
+test: Accuracy 6720/50000 (13%)
+Epoch 21 Testing loss: 3.367262840270996
+test: Accuracy 8664/50000 (17%)
+Epoch 22 Testing loss: 3.2835440635681152
+test: Accuracy 9702/50000 (19%)
+Epoch 23 Testing loss: 3.3173251152038574
+test: Accuracy 9079/50000 (18%)
+Epoch 24 Testing loss: 3.397510290145874
+test: Accuracy 9273/50000 (19%)
+Epoch 25 Testing loss: 3.4279980659484863
+test: Accuracy 8773/50000 (18%)
+Epoch 26 Testing loss: 3.150726318359375
+test: Accuracy 10790/50000 (22%)
+Epoch 27 Testing loss: 3.1358611583709717
+test: Accuracy 11215/50000 (22%)
+Epoch 28 Testing loss: 3.0801186561584473
+test: Accuracy 11487/50000 (23%)
+Epoch 29 Testing loss: 3.5497944355010986
+test: Accuracy 8642/50000 (17%)
+Epoch 30 Testing loss: 2.850820779800415
+test: Accuracy 13683/50000 (27%)
+Epoch 31 Testing loss: 3.1835861206054688
+test: Accuracy 11214/50000 (22%)
+Epoch 32 Testing loss: 3.0446481704711914
+test: Accuracy 12099/50000 (24%)
+Epoch 33 Testing loss: 3.266467571258545
+test: Accuracy 11121/50000 (22%)
+Epoch 34 Testing loss: 2.8948395252227783
+test: Accuracy 13181/50000 (26%)
+Epoch 35 Testing loss: 2.8038828372955322
+test: Accuracy 14339/50000 (29%)
+Epoch 36 Testing loss: 2.6727707386016846
+test: Accuracy 15718/50000 (31%)
+Epoch 37 Testing loss: 2.822641372680664
+test: Accuracy 14405/50000 (29%)
+Epoch 38 Testing loss: 2.5865159034729004
+test: Accuracy 16504/50000 (33%)
+Epoch 39 Testing loss: 2.543278455734253
+test: Accuracy 16885/50000 (34%)
+Epoch 40 Testing loss: 2.7431023120880127
+test: Accuracy 15165/50000 (30%)
+Epoch 41 Testing loss: 2.441723585128784
+test: Accuracy 17822/50000 (36%)
+Epoch 42 Testing loss: 2.336108922958374
+test: Accuracy 18993/50000 (38%)
+Epoch 43 Testing loss: 2.5696299076080322
+test: Accuracy 17150/50000 (34%)
+Epoch 44 Testing loss: 2.278261661529541
+test: Accuracy 19640/50000 (39%)
+Epoch 45 Testing loss: 2.3472554683685303
+test: Accuracy 18811/50000 (38%)
+Epoch 46 Testing loss: 2.3228445053100586
+test: Accuracy 19204/50000 (38%)
+Epoch 47 Testing loss: 2.3221147060394287
+test: Accuracy 19250/50000 (38%)
+Epoch 48 Testing loss: 2.257030487060547
+test: Accuracy 19764/50000 (40%)
+Epoch 49 Testing loss: 2.1850697994232178
+test: Accuracy 20602/50000 (41%)
+Epoch 50 Testing loss: 2.2297439575195312
+test: Accuracy 20178/50000 (40%)
+Epoch 51 Testing loss: 2.272742986679077
+test: Accuracy 19644/50000 (39%)
+Epoch 52 Testing loss: 2.0545294284820557
+test: Accuracy 22014/50000 (44%)
+Epoch 53 Testing loss: 2.172440528869629
+test: Accuracy 20657/50000 (41%)
+Epoch 54 Testing loss: 2.1857171058654785
+test: Accuracy 20770/50000 (42%)
+Epoch 55 Testing loss: 2.07769513130188
+test: Accuracy 21719/50000 (43%)
+Epoch 56 Testing loss: 2.1952624320983887
+test: Accuracy 21020/50000 (42%)
+Epoch 57 Testing loss: 2.0027334690093994
+test: Accuracy 22698/50000 (45%)
+Epoch 58 Testing loss: 1.983433723449707
+test: Accuracy 22969/50000 (46%)
+Epoch 59 Testing loss: 1.9675086736679077
+test: Accuracy 23123/50000 (46%)
+Epoch 60 Testing loss: 1.9358230829238892
+test: Accuracy 23438/50000 (47%)
+Epoch 61 Testing loss: 2.0547688007354736
+test: Accuracy 22442/50000 (45%)
+Epoch 62 Testing loss: 2.1044411659240723
+test: Accuracy 21721/50000 (43%)
+Epoch 63 Testing loss: 1.8591715097427368
+test: Accuracy 24437/50000 (49%)
+Epoch 64 Testing loss: 1.8262364864349365
+test: Accuracy 24751/50000 (50%)
+Epoch 65 Testing loss: 1.8825035095214844
+test: Accuracy 24024/50000 (48%)
+Epoch 66 Testing loss: 1.749420166015625
+test: Accuracy 25644/50000 (51%)
+Epoch 67 Testing loss: 1.749207615852356
+test: Accuracy 25774/50000 (52%)
+Epoch 0 Testing loss: 4.605010032653809
+test: Accuracy 605/50000 (1%)
+Epoch 1 Testing loss: 4.604780673980713
+test: Accuracy 730/50000 (1%)
+Epoch 2 Testing loss: 4.604456424713135
+test: Accuracy 619/50000 (1%)
+Epoch 3 Testing loss: 4.603973865509033
+test: Accuracy 712/50000 (1%)
+Epoch 4 Testing loss: 4.603100299835205
+test: Accuracy 941/50000 (2%)
+Epoch 5 Testing loss: 4.600979328155518
+test: Accuracy 744/50000 (1%)
+Epoch 6 Testing loss: 4.589946746826172
+test: Accuracy 512/50000 (1%)
+Epoch 7 Testing loss: 4.480584621429443
+test: Accuracy 1399/50000 (3%)
+Epoch 8 Testing loss: 4.304107189178467
+test: Accuracy 1844/50000 (4%)
+Epoch 9 Testing loss: 4.208829402923584
+test: Accuracy 2178/50000 (4%)
+Epoch 10 Testing loss: 4.034573078155518
+test: Accuracy 3434/50000 (7%)
+Epoch 11 Testing loss: 3.9365789890289307
+test: Accuracy 4087/50000 (8%)
+Epoch 12 Testing loss: 3.904217004776001
+test: Accuracy 4260/50000 (9%)
+Epoch 13 Testing loss: 3.8462016582489014
+test: Accuracy 4722/50000 (9%)
+Epoch 14 Testing loss: 3.9027364253997803
+test: Accuracy 4469/50000 (9%)
+Epoch 15 Testing loss: 3.7965128421783447
+test: Accuracy 5174/50000 (10%)
+Epoch 16 Testing loss: 3.6513705253601074
+test: Accuracy 6171/50000 (12%)
+Epoch 17 Testing loss: 3.683425188064575
+test: Accuracy 6082/50000 (12%)
+Epoch 18 Testing loss: 3.71311354637146
+test: Accuracy 5742/50000 (11%)
+Epoch 19 Testing loss: 3.4697821140289307
+test: Accuracy 7575/50000 (15%)
+Epoch 20 Testing loss: 3.49880313873291
+test: Accuracy 7345/50000 (15%)
+Epoch 21 Testing loss: 3.305567502975464
+test: Accuracy 9148/50000 (18%)
+Epoch 22 Testing loss: 3.568138599395752
+test: Accuracy 7580/50000 (15%)
+Epoch 23 Testing loss: 3.314779758453369
+test: Accuracy 9310/50000 (19%)
+Epoch 24 Testing loss: 3.2098402976989746
+test: Accuracy 9886/50000 (20%)
+Epoch 25 Testing loss: 3.130925416946411
+test: Accuracy 10880/50000 (22%)
+Epoch 26 Testing loss: 3.071810245513916
+test: Accuracy 11639/50000 (23%)
+Epoch 27 Testing loss: 3.0831382274627686
+test: Accuracy 11373/50000 (23%)
+Epoch 28 Testing loss: 2.9045350551605225
+test: Accuracy 13128/50000 (26%)
+Epoch 29 Testing loss: 2.9881484508514404
+test: Accuracy 12325/50000 (25%)
+Epoch 30 Testing loss: 2.8616509437561035
+test: Accuracy 13500/50000 (27%)
+Epoch 31 Testing loss: 3.0072147846221924
+test: Accuracy 12474/50000 (25%)
+Epoch 32 Testing loss: 3.0689961910247803
+test: Accuracy 12224/50000 (24%)
+Epoch 33 Testing loss: 2.791563034057617
+test: Accuracy 14483/50000 (29%)
+Epoch 34 Testing loss: 3.162463903427124
+test: Accuracy 11121/50000 (22%)
+Epoch 35 Testing loss: 2.794023036956787
+test: Accuracy 14558/50000 (29%)
+Epoch 36 Testing loss: 2.6701831817626953
+test: Accuracy 15440/50000 (31%)
+Epoch 37 Testing loss: 2.5749454498291016
+test: Accuracy 16216/50000 (32%)
+Epoch 38 Testing loss: 2.7130191326141357
+test: Accuracy 15481/50000 (31%)
+Epoch 39 Testing loss: 2.8336949348449707
+test: Accuracy 14477/50000 (29%)
+Epoch 40 Testing loss: 2.893810510635376
+test: Accuracy 14070/50000 (28%)
+Epoch 41 Testing loss: 2.6487669944763184
+test: Accuracy 15902/50000 (32%)
+Epoch 42 Testing loss: 2.422450304031372
+test: Accuracy 18051/50000 (36%)
+Epoch 43 Testing loss: 2.4314684867858887
+test: Accuracy 18024/50000 (36%)
+Epoch 44 Testing loss: 2.701061964035034
+test: Accuracy 15389/50000 (31%)
+Epoch 45 Testing loss: 2.504462480545044
+test: Accuracy 17175/50000 (34%)
+Epoch 46 Testing loss: 2.413088798522949
+test: Accuracy 18211/50000 (36%)
+Epoch 47 Testing loss: 2.4289300441741943
+test: Accuracy 18351/50000 (37%)
+Epoch 48 Testing loss: 2.623436450958252
+test: Accuracy 17343/50000 (35%)
+Epoch 49 Testing loss: 2.300119400024414
+test: Accuracy 19436/50000 (39%)
+Epoch 50 Testing loss: 2.157258987426758
+test: Accuracy 20969/50000 (42%)
+Epoch 51 Testing loss: 2.12652325630188
+test: Accuracy 21243/50000 (42%)
+Epoch 52 Testing loss: 2.2466859817504883
+test: Accuracy 20081/50000 (40%)
+Epoch 53 Testing loss: 2.487222671508789
+test: Accuracy 18046/50000 (36%)
+Epoch 54 Testing loss: 2.195610523223877
+test: Accuracy 20746/50000 (41%)
+Epoch 55 Testing loss: 1.9633796215057373
+test: Accuracy 23021/50000 (46%)
+Epoch 56 Testing loss: 2.1161739826202393
+test: Accuracy 21639/50000 (43%)
+Epoch 57 Testing loss: 2.2727160453796387
+test: Accuracy 19931/50000 (40%)
+Epoch 58 Testing loss: 2.083651304244995
+test: Accuracy 21977/50000 (44%)
+Epoch 59 Testing loss: 1.8815685510635376
+test: Accuracy 23991/50000 (48%)
+Epoch 60 Testing loss: 1.8961101770401
+test: Accuracy 23969/50000 (48%)
+Epoch 61 Testing loss: 1.9439951181411743
+test: Accuracy 23362/50000 (47%)
+Epoch 62 Testing loss: 1.9293510913848877
+test: Accuracy 23527/50000 (47%)
+Epoch 63 Testing loss: 2.1824047565460205
+test: Accuracy 21070/50000 (42%)
+Epoch 64 Testing loss: 2.106813430786133
+test: Accuracy 21617/50000 (43%)
+Epoch 65 Testing loss: 1.8103246688842773
+test: Accuracy 24997/50000 (50%)
+Epoch 66 Testing loss: 1.988516926765442
+test: Accuracy 22937/50000 (46%)
+Epoch 67 Testing loss: 1.7935023307800293
+test: Accuracy 25145/50000 (50%)
+Epoch 68 Testing loss: 1.757216453552246
+test: Accuracy 25602/50000 (51%)
+Epoch 69 Testing loss: 1.7972838878631592
+test: Accuracy 25035/50000 (50%)
+Epoch 70 Testing loss: 1.7734947204589844
+test: Accuracy 25271/50000 (51%)
+Epoch 71 Testing loss: 1.8019939661026
+test: Accuracy 25276/50000 (51%)
+Epoch 72 Testing loss: 1.8306190967559814
+test: Accuracy 24991/50000 (50%)
+Epoch 73 Testing loss: 1.6957281827926636
+test: Accuracy 26286/50000 (53%)
+Epoch 74 Testing loss: 1.731604814529419
+test: Accuracy 25797/50000 (52%)
+Epoch 75 Testing loss: 1.6489006280899048
+test: Accuracy 26791/50000 (54%)
+Epoch 76 Testing loss: 1.628156304359436
+test: Accuracy 27053/50000 (54%)
+Epoch 77 Testing loss: 1.6491740942001343
+test: Accuracy 26895/50000 (54%)
+Epoch 78 Testing loss: 1.6783504486083984
+test: Accuracy 26435/50000 (53%)
+Epoch 79 Testing loss: 1.6105072498321533
+test: Accuracy 27440/50000 (55%)
+Epoch 80 Testing loss: 1.4892750978469849
+test: Accuracy 28689/50000 (57%)
+Epoch 81 Testing loss: 1.6232106685638428
+test: Accuracy 27070/50000 (54%)
+Epoch 82 Testing loss: 1.5123560428619385
+test: Accuracy 28499/50000 (57%)
+Epoch 83 Testing loss: 1.5626602172851562
+test: Accuracy 27905/50000 (56%)
+Epoch 84 Testing loss: 1.454372763633728
+test: Accuracy 29187/50000 (58%)
+Epoch 85 Testing loss: 1.4145513772964478
+test: Accuracy 29769/50000 (60%)
+Epoch 86 Testing loss: 1.4645901918411255
+test: Accuracy 29083/50000 (58%)
+Epoch 87 Testing loss: 1.4902292490005493
+test: Accuracy 28787/50000 (58%)
+Epoch 88 Testing loss: 1.485447883605957
+test: Accuracy 28842/50000 (58%)
+Epoch 89 Testing loss: 1.5529922246932983
+test: Accuracy 28357/50000 (57%)
+Epoch 90 Testing loss: 1.3349769115447998
+test: Accuracy 30683/50000 (61%)
+Epoch 91 Testing loss: 1.4025808572769165
+test: Accuracy 29793/50000 (60%)
+Epoch 92 Testing loss: 1.3119547367095947
+test: Accuracy 31084/50000 (62%)
+Epoch 93 Testing loss: 1.3140233755111694
+test: Accuracy 31116/50000 (62%)
+Epoch 94 Testing loss: 1.4650214910507202
+test: Accuracy 28996/50000 (58%)
+Epoch 95 Testing loss: 1.3155611753463745
+test: Accuracy 30998/50000 (62%)
+Epoch 96 Testing loss: 1.3589802980422974
+test: Accuracy 30429/50000 (61%)
+Epoch 97 Testing loss: 1.3529200553894043
+test: Accuracy 30621/50000 (61%)
+Epoch 98 Testing loss: 1.1813093423843384
+test: Accuracy 32809/50000 (66%)
+Epoch 99 Testing loss: 1.2274764776229858
+test: Accuracy 32034/50000 (64%)
+Epoch 100 Testing loss: 1.2462066411972046
+test: Accuracy 31756/50000 (64%)
+Epoch 101 Testing loss: 1.2215092182159424
+test: Accuracy 32396/50000 (65%)
+Epoch 102 Testing loss: 1.2149930000305176
+test: Accuracy 32098/50000 (64%)
+Epoch 103 Testing loss: 1.2023208141326904
+test: Accuracy 32458/50000 (65%)
+Epoch 104 Testing loss: 1.2042293548583984
+test: Accuracy 32194/50000 (64%)
+Epoch 105 Testing loss: 1.1596198081970215
+test: Accuracy 32940/50000 (66%)
+Epoch 106 Testing loss: 1.1288988590240479
+test: Accuracy 33335/50000 (67%)
+Epoch 107 Testing loss: 1.1302534341812134
+test: Accuracy 33342/50000 (67%)
+Epoch 108 Testing loss: 1.063537836074829
+test: Accuracy 34361/50000 (69%)
+Epoch 109 Testing loss: 1.355756163597107
+test: Accuracy 30372/50000 (61%)
+Epoch 110 Testing loss: 1.0201739072799683
+test: Accuracy 34819/50000 (70%)
+Epoch 111 Testing loss: 1.1631938219070435
+test: Accuracy 32889/50000 (66%)
+Epoch 112 Testing loss: 1.094667673110962
+test: Accuracy 33690/50000 (67%)
+Epoch 113 Testing loss: 1.0507484674453735
+test: Accuracy 34491/50000 (69%)
+Epoch 114 Testing loss: 1.0000921487808228
+test: Accuracy 35090/50000 (70%)
+Epoch 115 Testing loss: 0.9640584588050842
+test: Accuracy 35647/50000 (71%)
+Epoch 116 Testing loss: 1.0360254049301147
+test: Accuracy 34489/50000 (69%)
+Epoch 117 Testing loss: 0.9860387444496155
+test: Accuracy 35251/50000 (71%)
+Epoch 118 Testing loss: 0.9940653443336487
+test: Accuracy 35268/50000 (71%)
+Epoch 119 Testing loss: 1.096601963043213
+test: Accuracy 33769/50000 (68%)
+Epoch 0 Testing loss: 4.604830741882324
+test: Accuracy 762/50000 (2%)
+Epoch 1 Testing loss: 4.604266166687012
+test: Accuracy 508/50000 (1%)
+Epoch 2 Testing loss: 4.6029953956604
+test: Accuracy 622/50000 (1%)
+Epoch 3 Testing loss: 4.5956010818481445
+test: Accuracy 509/50000 (1%)
+Epoch 4 Testing loss: 4.547079563140869
+test: Accuracy 800/50000 (2%)
+Epoch 5 Testing loss: 4.516829013824463
+test: Accuracy 1100/50000 (2%)
+Epoch 6 Testing loss: 4.352868556976318
+test: Accuracy 1611/50000 (3%)
+Epoch 7 Testing loss: 4.150825500488281
+test: Accuracy 2570/50000 (5%)
+Epoch 8 Testing loss: 4.1981682777404785
+test: Accuracy 2654/50000 (5%)
+Epoch 9 Testing loss: 4.008416652679443
+test: Accuracy 3644/50000 (7%)
+Epoch 10 Testing loss: 4.0269775390625
+test: Accuracy 3803/50000 (8%)
+Epoch 11 Testing loss: 3.8949904441833496
+test: Accuracy 4544/50000 (9%)
+Epoch 12 Testing loss: 3.800934314727783
+test: Accuracy 5310/50000 (11%)
+Epoch 13 Testing loss: 3.8353710174560547
+test: Accuracy 5029/50000 (10%)
+Epoch 14 Testing loss: 3.664851188659668
+test: Accuracy 6357/50000 (13%)
+Epoch 15 Testing loss: 3.6368281841278076
+test: Accuracy 6463/50000 (13%)
+Epoch 16 Testing loss: 3.611931800842285
+test: Accuracy 6747/50000 (13%)
+Epoch 17 Testing loss: 3.5199265480041504
+test: Accuracy 7452/50000 (15%)
+Epoch 18 Testing loss: 3.4559829235076904
+test: Accuracy 7904/50000 (16%)
+Epoch 19 Testing loss: 3.4828073978424072
+test: Accuracy 7404/50000 (15%)
+Epoch 20 Testing loss: 3.3376171588897705
+test: Accuracy 9039/50000 (18%)
+Epoch 21 Testing loss: 3.420602560043335
+test: Accuracy 8416/50000 (17%)
+Epoch 22 Testing loss: 3.127441644668579
+test: Accuracy 10960/50000 (22%)
+Epoch 23 Testing loss: 3.1632258892059326
+test: Accuracy 10532/50000 (21%)
+Epoch 24 Testing loss: 3.080897092819214
+test: Accuracy 11282/50000 (23%)
+Epoch 25 Testing loss: 3.1953353881835938
+test: Accuracy 10424/50000 (21%)
+Epoch 26 Testing loss: 3.006659507751465
+test: Accuracy 12205/50000 (24%)
+Epoch 27 Testing loss: 2.924875020980835
+test: Accuracy 13163/50000 (26%)
+Epoch 28 Testing loss: 2.9806599617004395
+test: Accuracy 12748/50000 (25%)
+Epoch 29 Testing loss: 2.9324634075164795
+test: Accuracy 13026/50000 (26%)
+Epoch 30 Testing loss: 2.9527902603149414
+test: Accuracy 12485/50000 (25%)
+Epoch 31 Testing loss: 2.874330520629883
+test: Accuracy 13516/50000 (27%)
+Epoch 32 Testing loss: 2.9264438152313232
+test: Accuracy 13158/50000 (26%)
+Epoch 33 Testing loss: 2.7243072986602783
+test: Accuracy 15277/50000 (31%)
+Epoch 34 Testing loss: 2.781557083129883
+test: Accuracy 14291/50000 (29%)
+Epoch 35 Testing loss: 2.6403117179870605
+test: Accuracy 16015/50000 (32%)
+Epoch 36 Testing loss: 2.6921823024749756
+test: Accuracy 15476/50000 (31%)
+Epoch 37 Testing loss: 2.6223936080932617
+test: Accuracy 16111/50000 (32%)
+Epoch 38 Testing loss: 2.6581501960754395
+test: Accuracy 15593/50000 (31%)
+Epoch 39 Testing loss: 2.4302480220794678
+test: Accuracy 17985/50000 (36%)
+Epoch 40 Testing loss: 2.390819549560547
+test: Accuracy 18447/50000 (37%)
+Epoch 41 Testing loss: 2.3968493938446045
+test: Accuracy 18408/50000 (37%)
+Epoch 42 Testing loss: 2.262601613998413
+test: Accuracy 19796/50000 (40%)
+Epoch 43 Testing loss: 2.3203587532043457
+test: Accuracy 19186/50000 (38%)
+Epoch 44 Testing loss: 2.2127344608306885
+test: Accuracy 20412/50000 (41%)
+Epoch 45 Testing loss: 2.286163568496704
+test: Accuracy 19538/50000 (39%)
+Epoch 46 Testing loss: 2.1391029357910156
+test: Accuracy 21192/50000 (42%)
+Epoch 47 Testing loss: 2.115420341491699
+test: Accuracy 21279/50000 (43%)
+Epoch 48 Testing loss: 2.1100645065307617
+test: Accuracy 21401/50000 (43%)
+Epoch 49 Testing loss: 2.1727120876312256
+test: Accuracy 20711/50000 (41%)
+Epoch 50 Testing loss: 2.0315616130828857
+test: Accuracy 22372/50000 (45%)
+Epoch 51 Testing loss: 2.251413106918335
+test: Accuracy 20160/50000 (40%)
+Epoch 52 Testing loss: 2.09500789642334
+test: Accuracy 21710/50000 (43%)
+Epoch 53 Testing loss: 2.0542547702789307
+test: Accuracy 22114/50000 (44%)
+Epoch 54 Testing loss: 2.044372320175171
+test: Accuracy 22360/50000 (45%)
+Epoch 55 Testing loss: 2.1829628944396973
+test: Accuracy 20507/50000 (41%)
+Epoch 56 Testing loss: 1.999695897102356
+test: Accuracy 22858/50000 (46%)
+Epoch 57 Testing loss: 1.9527223110198975
+test: Accuracy 23292/50000 (47%)
+Epoch 58 Testing loss: 2.1103463172912598
+test: Accuracy 21651/50000 (43%)
+Epoch 59 Testing loss: 1.8345996141433716
+test: Accuracy 24796/50000 (50%)
+Epoch 60 Testing loss: 1.8378076553344727
+test: Accuracy 24731/50000 (49%)
+Epoch 61 Testing loss: 1.822164535522461
+test: Accuracy 24918/50000 (50%)
+Epoch 62 Testing loss: 1.9478187561035156
+test: Accuracy 23312/50000 (47%)
+Epoch 63 Testing loss: 2.1356310844421387
+test: Accuracy 21720/50000 (43%)
+Epoch 64 Testing loss: 1.7085155248641968
+test: Accuracy 26125/50000 (52%)
+Epoch 65 Testing loss: 1.7306627035140991
+test: Accuracy 25875/50000 (52%)
+Epoch 66 Testing loss: 2.010263442993164
+test: Accuracy 22519/50000 (45%)
+Epoch 67 Testing loss: 1.8783735036849976
+test: Accuracy 24084/50000 (48%)
+Epoch 68 Testing loss: 1.8965455293655396
+test: Accuracy 24127/50000 (48%)
+Epoch 69 Testing loss: 1.6529114246368408
+test: Accuracy 26677/50000 (53%)
+Epoch 70 Testing loss: 1.5828115940093994
+test: Accuracy 27752/50000 (56%)
+Epoch 71 Testing loss: 1.6919912099838257
+test: Accuracy 26461/50000 (53%)
+Epoch 72 Testing loss: 1.6117372512817383
+test: Accuracy 27401/50000 (55%)
+Epoch 73 Testing loss: 1.741221308708191
+test: Accuracy 25919/50000 (52%)
+Epoch 74 Testing loss: 1.4910004138946533
+test: Accuracy 28927/50000 (58%)
+Epoch 75 Testing loss: 1.5241966247558594
+test: Accuracy 28548/50000 (57%)
+Epoch 76 Testing loss: 1.576448678970337
+test: Accuracy 27743/50000 (55%)
+Epoch 77 Testing loss: 1.5588657855987549
+test: Accuracy 27989/50000 (56%)
+Epoch 78 Testing loss: 1.5323938131332397
+test: Accuracy 28319/50000 (57%)
+Epoch 79 Testing loss: 1.432835340499878
+test: Accuracy 29610/50000 (59%)
+Epoch 80 Testing loss: 1.5121008157730103
+test: Accuracy 28616/50000 (57%)
+Epoch 81 Testing loss: 1.5023616552352905
+test: Accuracy 28627/50000 (57%)
+Epoch 82 Testing loss: 1.640352487564087
+test: Accuracy 26855/50000 (54%)
+Epoch 83 Testing loss: 1.7013815641403198
+test: Accuracy 26830/50000 (54%)
+Epoch 84 Testing loss: 1.347481369972229
+test: Accuracy 30682/50000 (61%)
+Epoch 85 Testing loss: 1.3995323181152344
+test: Accuracy 29880/50000 (60%)
+Epoch 86 Testing loss: 1.2922213077545166
+test: Accuracy 31431/50000 (63%)
+Epoch 87 Testing loss: 1.3449853658676147
+test: Accuracy 30757/50000 (62%)
+Epoch 88 Testing loss: 1.3059855699539185
+test: Accuracy 31286/50000 (63%)
+Epoch 89 Testing loss: 1.2360605001449585
+test: Accuracy 32246/50000 (64%)
+Epoch 90 Testing loss: 1.2738127708435059
+test: Accuracy 31755/50000 (64%)
+Epoch 91 Testing loss: 1.2922649383544922
+test: Accuracy 31252/50000 (63%)
+Epoch 92 Testing loss: 1.2431889772415161
+test: Accuracy 32312/50000 (65%)
+Epoch 93 Testing loss: 1.217921257019043
+test: Accuracy 32371/50000 (65%)
+Epoch 94 Testing loss: 1.1363483667373657
+test: Accuracy 33457/50000 (67%)
+Epoch 95 Testing loss: 1.1107007265090942
+test: Accuracy 33900/50000 (68%)
+Epoch 96 Testing loss: 1.0802195072174072
+test: Accuracy 34269/50000 (69%)
+Epoch 97 Testing loss: 1.2522211074829102
+test: Accuracy 31782/50000 (64%)
+Epoch 98 Testing loss: 1.0773872137069702
+test: Accuracy 34290/50000 (69%)
+Epoch 99 Testing loss: 1.1003010272979736
+test: Accuracy 33961/50000 (68%)
+Epoch 100 Testing loss: 1.0975799560546875
+test: Accuracy 33993/50000 (68%)
+Epoch 101 Testing loss: 1.0337761640548706
+test: Accuracy 34757/50000 (70%)
+Epoch 102 Testing loss: 1.0183902978897095
+test: Accuracy 34982/50000 (70%)
+Epoch 103 Testing loss: 1.080313801765442
+test: Accuracy 34287/50000 (69%)
+Epoch 104 Testing loss: 1.0637589693069458
+test: Accuracy 34485/50000 (69%)
+Epoch 105 Testing loss: 1.0534881353378296
+test: Accuracy 34370/50000 (69%)
+Epoch 106 Testing loss: 0.9314844608306885
+test: Accuracy 36264/50000 (73%)
+Epoch 107 Testing loss: 0.9414052367210388
+test: Accuracy 36093/50000 (72%)
+Epoch 108 Testing loss: 0.9036041498184204
+test: Accuracy 36512/50000 (73%)
+Epoch 109 Testing loss: 0.9183042049407959
+test: Accuracy 36668/50000 (73%)
+Epoch 110 Testing loss: 0.8919157385826111
+test: Accuracy 36609/50000 (73%)
+Epoch 111 Testing loss: 1.1463980674743652
+test: Accuracy 33069/50000 (66%)
+Epoch 112 Testing loss: 0.814826488494873
+test: Accuracy 38008/50000 (76%)
+Epoch 113 Testing loss: 0.8531448841094971
+test: Accuracy 37272/50000 (75%)
+Epoch 114 Testing loss: 0.8285797834396362
+test: Accuracy 37559/50000 (75%)
+Epoch 115 Testing loss: 0.8296682238578796
+test: Accuracy 37625/50000 (75%)
+Epoch 116 Testing loss: 0.8114604949951172
+test: Accuracy 37749/50000 (75%)
+Epoch 117 Testing loss: 0.7824158668518066
+test: Accuracy 38260/50000 (77%)
+Epoch 118 Testing loss: 0.7236020565032959
+test: Accuracy 39291/50000 (79%)
+Epoch 119 Testing loss: 0.7305025458335876
+test: Accuracy 39096/50000 (78%)
+Epoch 120 Testing loss: 0.6530798673629761
+test: Accuracy 40506/50000 (81%)
+Epoch 121 Testing loss: 0.6326226592063904
+test: Accuracy 40937/50000 (82%)
+Epoch 122 Testing loss: 0.7608289122581482
+test: Accuracy 38497/50000 (77%)
+Epoch 123 Testing loss: 0.7020998597145081
+test: Accuracy 39420/50000 (79%)
+Epoch 124 Testing loss: 0.6925198435783386
+test: Accuracy 39579/50000 (79%)
+Epoch 125 Testing loss: 0.650406002998352
+test: Accuracy 40448/50000 (81%)
+Epoch 126 Testing loss: 0.5978720188140869
+test: Accuracy 41287/50000 (83%)
+Epoch 127 Testing loss: 0.6040166020393372
+test: Accuracy 41242/50000 (82%)
+Epoch 128 Testing loss: 0.6748781800270081
+test: Accuracy 39562/50000 (79%)
+Epoch 129 Testing loss: 0.5758134126663208
+test: Accuracy 41333/50000 (83%)
+Epoch 130 Testing loss: 0.55865877866745
+test: Accuracy 41741/50000 (83%)
+Epoch 131 Testing loss: 0.4854186177253723
+test: Accuracy 42978/50000 (86%)
+Epoch 132 Testing loss: 0.5515172481536865
+test: Accuracy 41619/50000 (83%)
+Epoch 133 Testing loss: 0.7663126587867737
+test: Accuracy 38299/50000 (77%)
+Epoch 134 Testing loss: 0.41702529788017273
+test: Accuracy 44206/50000 (88%)
+Epoch 135 Testing loss: 0.3910059630870819
+test: Accuracy 44734/50000 (89%)
+Epoch 136 Testing loss: 0.4073299467563629
+test: Accuracy 44365/50000 (89%)
+Epoch 137 Testing loss: 0.3876281678676605
+test: Accuracy 44717/50000 (89%)
+Epoch 138 Testing loss: 0.43189293146133423
+test: Accuracy 43602/50000 (87%)
+Epoch 139 Testing loss: 0.4795173704624176
+test: Accuracy 42823/50000 (86%)
+Epoch 140 Testing loss: 0.41001707315444946
+test: Accuracy 44145/50000 (88%)
+Epoch 141 Testing loss: 0.5542874336242676
+test: Accuracy 41552/50000 (83%)
+Epoch 0 Testing loss: 2.304471731185913
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3026351928710938
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.3022658824920654
+test: Accuracy 1299/10000 (13%)
+Epoch 3 Testing loss: 2.2999513149261475
+test: Accuracy 1264/10000 (13%)
+Epoch 4 Testing loss: 2.1231391429901123
+test: Accuracy 1880/10000 (19%)
+Epoch 5 Testing loss: 1.9641427993774414
+test: Accuracy 2036/10000 (20%)
+Epoch 6 Testing loss: 1.8908361196517944
+test: Accuracy 2263/10000 (23%)
+Epoch 7 Testing loss: 1.8669805526733398
+test: Accuracy 2577/10000 (26%)
+Epoch 8 Testing loss: 1.7361210584640503
+test: Accuracy 3025/10000 (30%)
+Epoch 9 Testing loss: 1.6951407194137573
+test: Accuracy 3232/10000 (32%)
+Epoch 10 Testing loss: 1.6022611856460571
+test: Accuracy 3619/10000 (36%)
+Epoch 0 Testing loss: 2.303797483444214
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.302446126937866
+test: Accuracy 1163/10000 (12%)
+Epoch 0 Testing loss: 2.304121494293213
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3022401332855225
+test: Accuracy 1016/10000 (10%)
+Epoch 0 Testing loss: 2.3029792308807373
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.3028931617736816
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.302513837814331
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.304175615310669
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.3038671016693115
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.302612066268921
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.3036949634552
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3023579120635986
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.2967729568481445
+test: Accuracy 1182/10000 (12%)
+Epoch 3 Testing loss: 2.0834262371063232
+test: Accuracy 1930/10000 (19%)
+Epoch 4 Testing loss: 1.9440593719482422
+test: Accuracy 2185/10000 (22%)
+Epoch 5 Testing loss: 1.8820730447769165
+test: Accuracy 2345/10000 (23%)
+Epoch 6 Testing loss: 1.832130789756775
+test: Accuracy 2614/10000 (26%)
+Epoch 7 Testing loss: 1.7330760955810547
+test: Accuracy 3095/10000 (31%)
+Epoch 8 Testing loss: 1.6772993803024292
+test: Accuracy 3314/10000 (33%)
+Epoch 9 Testing loss: 1.7719238996505737
+test: Accuracy 3116/10000 (31%)
+Epoch 10 Testing loss: 1.521610140800476
+test: Accuracy 4042/10000 (40%)
+Epoch 11 Testing loss: 1.4333375692367554
+test: Accuracy 4385/10000 (44%)
+Epoch 12 Testing loss: 1.5245814323425293
+test: Accuracy 4287/10000 (43%)
+Epoch 13 Testing loss: 1.2889972925186157
+test: Accuracy 5138/10000 (51%)
+Epoch 14 Testing loss: 1.304453730583191
+test: Accuracy 5214/10000 (52%)
+Epoch 15 Testing loss: 1.3147624731063843
+test: Accuracy 5281/10000 (53%)
+Epoch 16 Testing loss: 1.105001449584961
+test: Accuracy 6088/10000 (61%)
+Epoch 17 Testing loss: 1.1025121212005615
+test: Accuracy 6162/10000 (62%)
+Epoch 18 Testing loss: 0.9965360760688782
+test: Accuracy 6453/10000 (65%)
+Epoch 19 Testing loss: 0.9960622787475586
+test: Accuracy 6557/10000 (66%)
+Epoch 20 Testing loss: 1.0072530508041382
+test: Accuracy 6552/10000 (66%)
+Epoch 21 Testing loss: 0.9291766285896301
+test: Accuracy 6800/10000 (68%)
+Epoch 22 Testing loss: 0.9582509398460388
+test: Accuracy 6807/10000 (68%)
+Epoch 23 Testing loss: 0.8604152798652649
+test: Accuracy 7021/10000 (70%)
+Epoch 24 Testing loss: 0.9370083808898926
+test: Accuracy 6886/10000 (69%)
+Epoch 25 Testing loss: 0.8672538995742798
+test: Accuracy 7122/10000 (71%)
+Epoch 26 Testing loss: 0.8631097674369812
+test: Accuracy 7167/10000 (72%)
+Epoch 27 Testing loss: 0.7966952919960022
+test: Accuracy 7303/10000 (73%)
+Epoch 28 Testing loss: 0.8213154673576355
+test: Accuracy 7233/10000 (72%)
+Epoch 29 Testing loss: 1.0002611875534058
+test: Accuracy 6953/10000 (70%)
+Epoch 0 Testing loss: 2.3034214973449707
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.302678346633911
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.3025858402252197
+test: Accuracy 1051/10000 (11%)
+Epoch 3 Testing loss: 2.3024203777313232
+test: Accuracy 1173/10000 (12%)
+Epoch 4 Testing loss: 2.3022007942199707
+test: Accuracy 1001/10000 (10%)
+Epoch 0 Testing loss: 2.304535388946533
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3024442195892334
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.2994091510772705
+test: Accuracy 1478/10000 (15%)
+Epoch 3 Testing loss: 2.1081864833831787
+test: Accuracy 1923/10000 (19%)
+Epoch 4 Testing loss: 1.9593775272369385
+test: Accuracy 2141/10000 (21%)
+Epoch 5 Testing loss: 1.947272539138794
+test: Accuracy 2190/10000 (22%)
+Epoch 6 Testing loss: 1.8171466588974
+test: Accuracy 2619/10000 (26%)
+Epoch 7 Testing loss: 1.7308851480484009
+test: Accuracy 3090/10000 (31%)
+Epoch 8 Testing loss: 1.7498434782028198
+test: Accuracy 3116/10000 (31%)
+Epoch 9 Testing loss: 1.5624732971191406
+test: Accuracy 3905/10000 (39%)
+Epoch 10 Testing loss: 1.4803763628005981
+test: Accuracy 4338/10000 (43%)
+Epoch 11 Testing loss: 1.4231430292129517
+test: Accuracy 4584/10000 (46%)
+Epoch 12 Testing loss: 1.3590080738067627
+test: Accuracy 5001/10000 (50%)
+Epoch 13 Testing loss: 1.2821286916732788
+test: Accuracy 5295/10000 (53%)
+Epoch 14 Testing loss: 1.1837841272354126
+test: Accuracy 5640/10000 (56%)
+Epoch 15 Testing loss: 1.0808719396591187
+test: Accuracy 6019/10000 (60%)
+Epoch 16 Testing loss: 1.2866837978363037
+test: Accuracy 5618/10000 (56%)
+Epoch 17 Testing loss: 1.0183154344558716
+test: Accuracy 6368/10000 (64%)
+Epoch 18 Testing loss: 0.9687442183494568
+test: Accuracy 6539/10000 (65%)
+Epoch 19 Testing loss: 0.9257944226264954
+test: Accuracy 6684/10000 (67%)
+Epoch 20 Testing loss: 1.0281685590744019
+test: Accuracy 6559/10000 (66%)
+Epoch 21 Testing loss: 0.8823921084403992
+test: Accuracy 6959/10000 (70%)
+Epoch 22 Testing loss: 0.8420042395591736
+test: Accuracy 7066/10000 (71%)
+Epoch 23 Testing loss: 0.9513956904411316
+test: Accuracy 6894/10000 (69%)
+Epoch 24 Testing loss: 0.8551959991455078
+test: Accuracy 7160/10000 (72%)
+Epoch 25 Testing loss: 0.7979717254638672
+test: Accuracy 7307/10000 (73%)
+Epoch 26 Testing loss: 0.8177472352981567
+test: Accuracy 7302/10000 (73%)
+Epoch 27 Testing loss: 0.7769812941551208
+test: Accuracy 7461/10000 (75%)
+Epoch 28 Testing loss: 0.7334550023078918
+test: Accuracy 7511/10000 (75%)
+Epoch 29 Testing loss: 0.7155317664146423
+test: Accuracy 7632/10000 (76%)
+Epoch 30 Testing loss: 0.7014452815055847
+test: Accuracy 7654/10000 (77%)
+Epoch 31 Testing loss: 0.7947813272476196
+test: Accuracy 7470/10000 (75%)
+Epoch 32 Testing loss: 0.7252659201622009
+test: Accuracy 7630/10000 (76%)
+Epoch 33 Testing loss: 0.7733578085899353
+test: Accuracy 7536/10000 (75%)
+Epoch 34 Testing loss: 0.7131056785583496
+test: Accuracy 7704/10000 (77%)
+Epoch 35 Testing loss: 0.6953176259994507
+test: Accuracy 7771/10000 (78%)
+Epoch 36 Testing loss: 0.7225435972213745
+test: Accuracy 7760/10000 (78%)
+Epoch 37 Testing loss: 0.8377429842948914
+test: Accuracy 7550/10000 (76%)
+Epoch 38 Testing loss: 0.6910454034805298
+test: Accuracy 7817/10000 (78%)
+Epoch 39 Testing loss: 0.8063513040542603
+test: Accuracy 7601/10000 (76%)
+Epoch 40 Testing loss: 0.7263695597648621
+test: Accuracy 7795/10000 (78%)
+Epoch 41 Testing loss: 0.7497457265853882
+test: Accuracy 7825/10000 (78%)
+Epoch 0 Testing loss: 4.609731674194336
+test: Accuracy 100/10000 (1%)
+Epoch 1 Testing loss: 3.8183343410491943
+test: Accuracy 1583/10000 (16%)
+Epoch 2 Testing loss: 3.359104871749878
+test: Accuracy 2033/10000 (20%)
+Epoch 3 Testing loss: 3.188779592514038
+test: Accuracy 2115/10000 (21%)
+Epoch 4 Testing loss: 3.1033265590667725
+test: Accuracy 2198/10000 (22%)
+Epoch 5 Testing loss: 2.911008358001709
+test: Accuracy 2524/10000 (25%)
+Epoch 6 Testing loss: 2.748473882675171
+test: Accuracy 2903/10000 (29%)
+Epoch 7 Testing loss: 2.6784050464630127
+test: Accuracy 3002/10000 (30%)
+Epoch 8 Testing loss: 2.6124253273010254
+test: Accuracy 3203/10000 (32%)
+Epoch 9 Testing loss: 2.662388324737549
+test: Accuracy 3048/10000 (30%)
+Epoch 10 Testing loss: 2.5064778327941895
+test: Accuracy 3330/10000 (33%)
+Epoch 11 Testing loss: 2.346426486968994
+test: Accuracy 3743/10000 (37%)
+Epoch 12 Testing loss: 2.312553882598877
+test: Accuracy 3890/10000 (39%)
+Epoch 13 Testing loss: 2.3221559524536133
+test: Accuracy 3800/10000 (38%)
+Epoch 14 Testing loss: 2.1950290203094482
+test: Accuracy 4108/10000 (41%)
+Epoch 15 Testing loss: 2.2321951389312744
+test: Accuracy 4031/10000 (40%)
+Epoch 16 Testing loss: 2.1637074947357178
+test: Accuracy 4176/10000 (42%)
+Epoch 17 Testing loss: 2.128300428390503
+test: Accuracy 4313/10000 (43%)
+Epoch 18 Testing loss: 2.081414222717285
+test: Accuracy 4398/10000 (44%)
+Epoch 19 Testing loss: 2.1976184844970703
+test: Accuracy 4178/10000 (42%)
+Epoch 20 Testing loss: 2.071300506591797
+test: Accuracy 4503/10000 (45%)
+Epoch 21 Testing loss: 2.0897486209869385
+test: Accuracy 4369/10000 (44%)
+Epoch 22 Testing loss: 2.0019993782043457
+test: Accuracy 4579/10000 (46%)
+Epoch 23 Testing loss: 2.096731424331665
+test: Accuracy 4455/10000 (45%)
+Epoch 24 Testing loss: 1.9292725324630737
+test: Accuracy 4786/10000 (48%)
+Epoch 25 Testing loss: 2.0217020511627197
+test: Accuracy 4543/10000 (45%)
+Epoch 26 Testing loss: 2.0036234855651855
+test: Accuracy 4555/10000 (46%)
+Epoch 27 Testing loss: 1.8687137365341187
+test: Accuracy 4889/10000 (49%)
+Epoch 28 Testing loss: 1.9952735900878906
+test: Accuracy 4646/10000 (46%)
+Epoch 29 Testing loss: 1.8342329263687134
+test: Accuracy 5073/10000 (51%)
+Epoch 30 Testing loss: 1.9216625690460205
+test: Accuracy 4832/10000 (48%)
+Epoch 31 Testing loss: 1.9913800954818726
+test: Accuracy 4759/10000 (48%)
+Epoch 32 Testing loss: 1.8500150442123413
+test: Accuracy 4952/10000 (50%)
+Epoch 33 Testing loss: 1.8121734857559204
+test: Accuracy 5001/10000 (50%)
+Epoch 34 Testing loss: 1.8720571994781494
+test: Accuracy 4929/10000 (49%)
+Epoch 35 Testing loss: 1.8205171823501587
+test: Accuracy 5102/10000 (51%)
+Epoch 36 Testing loss: 1.7773008346557617
+test: Accuracy 5201/10000 (52%)
+Epoch 37 Testing loss: 1.7640361785888672
+test: Accuracy 5197/10000 (52%)
+Epoch 38 Testing loss: 1.8495100736618042
+test: Accuracy 5045/10000 (50%)
+Epoch 39 Testing loss: 1.8164657354354858
+test: Accuracy 5016/10000 (50%)
+Epoch 40 Testing loss: 1.7570956945419312
+test: Accuracy 5221/10000 (52%)
+Epoch 41 Testing loss: 1.7219688892364502
+test: Accuracy 5292/10000 (53%)
+Epoch 42 Testing loss: 1.7603867053985596
+test: Accuracy 5228/10000 (52%)
+Epoch 43 Testing loss: 1.8477226495742798
+test: Accuracy 5004/10000 (50%)
+Epoch 44 Testing loss: 1.6904133558273315
+test: Accuracy 5423/10000 (54%)
+Epoch 45 Testing loss: 1.8637226819992065
+test: Accuracy 5035/10000 (50%)
+Epoch 46 Testing loss: 1.7273247241973877
+test: Accuracy 5276/10000 (53%)
+Epoch 47 Testing loss: 1.7231842279434204
+test: Accuracy 5350/10000 (54%)
+Epoch 48 Testing loss: 1.8034473657608032
+test: Accuracy 5135/10000 (51%)
+Epoch 49 Testing loss: 1.776754379272461
+test: Accuracy 5248/10000 (52%)
+Epoch 50 Testing loss: 1.8432340621948242
+test: Accuracy 5107/10000 (51%)
+Epoch 51 Testing loss: 1.8037605285644531
+test: Accuracy 5181/10000 (52%)
+Epoch 52 Testing loss: 1.7053018808364868
+test: Accuracy 5362/10000 (54%)
+Epoch 53 Testing loss: 1.7536627054214478
+test: Accuracy 5333/10000 (53%)
+Epoch 54 Testing loss: 1.8092479705810547
+test: Accuracy 5248/10000 (52%)
+Epoch 55 Testing loss: 1.8252702951431274
+test: Accuracy 5165/10000 (52%)
+Epoch 56 Testing loss: 1.7298849821090698
+test: Accuracy 5391/10000 (54%)
+Epoch 57 Testing loss: 1.71007239818573
+test: Accuracy 5423/10000 (54%)
+Epoch 58 Testing loss: 1.7662333250045776
+test: Accuracy 5318/10000 (53%)
+Epoch 59 Testing loss: 1.7289713621139526
+test: Accuracy 5374/10000 (54%)
+Epoch 60 Testing loss: 1.6953483819961548
+test: Accuracy 5492/10000 (55%)
+Epoch 61 Testing loss: 1.7418841123580933
+test: Accuracy 5386/10000 (54%)
+Epoch 62 Testing loss: 1.7621955871582031
+test: Accuracy 5341/10000 (53%)
+Epoch 63 Testing loss: 1.764589548110962
+test: Accuracy 5357/10000 (54%)
+Epoch 64 Testing loss: 1.7087513208389282
+test: Accuracy 5468/10000 (55%)
+Epoch 65 Testing loss: 1.6977888345718384
+test: Accuracy 5482/10000 (55%)
+Epoch 66 Testing loss: 1.794668197631836
+test: Accuracy 5326/10000 (53%)
+Epoch 67 Testing loss: 1.7159048318862915
+test: Accuracy 5479/10000 (55%)
+Epoch 68 Testing loss: 1.758165955543518
+test: Accuracy 5376/10000 (54%)
+Epoch 69 Testing loss: 1.745086669921875
+test: Accuracy 5470/10000 (55%)
+Epoch 70 Testing loss: 1.8016020059585571
+test: Accuracy 5347/10000 (53%)
+Epoch 71 Testing loss: 1.7598943710327148
+test: Accuracy 5400/10000 (54%)
+Epoch 72 Testing loss: 1.6581804752349854
+test: Accuracy 5613/10000 (56%)
+Epoch 73 Testing loss: 1.7297134399414062
+test: Accuracy 5476/10000 (55%)
+Epoch 74 Testing loss: 1.7029262781143188
+test: Accuracy 5577/10000 (56%)
+Epoch 75 Testing loss: 1.71796452999115
+test: Accuracy 5521/10000 (55%)
+Epoch 76 Testing loss: 1.7610015869140625
+test: Accuracy 5432/10000 (54%)
+Epoch 77 Testing loss: 1.7253211736679077
+test: Accuracy 5516/10000 (55%)
+Epoch 78 Testing loss: 1.6999958753585815
+test: Accuracy 5575/10000 (56%)
+Epoch 79 Testing loss: 1.6684646606445312
+test: Accuracy 5632/10000 (56%)
+Epoch 80 Testing loss: 1.6740074157714844
+test: Accuracy 5580/10000 (56%)
+Epoch 0 Testing loss: 2.305727481842041
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.304527997970581
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3578460216522217
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.371168375015259
+test: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.370685338973999
+test: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.371178388595581
+test: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.3690552711486816
+test: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.3694279193878174
+test: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.3704652786254883
+test: Accuracy 1000/10000 (10%)
+Epoch 8 Testing loss: 2.375317335128784
+test: Accuracy 1000/10000 (10%)
+Epoch 9 Testing loss: 2.37549090385437
+test: Accuracy 1000/10000 (10%)
+Epoch 10 Testing loss: 2.3018243312835693
+test: Accuracy 1019/10000 (10%)
+Epoch 11 Testing loss: 2.25825572013855
+test: Accuracy 1426/10000 (14%)
+Epoch 12 Testing loss: 2.234741687774658
+test: Accuracy 1297/10000 (13%)
+Epoch 13 Testing loss: 2.265974283218384
+test: Accuracy 1167/10000 (12%)
+Epoch 14 Testing loss: 2.2510058879852295
+test: Accuracy 1268/10000 (13%)
+Epoch 15 Testing loss: 2.2433102130889893
+test: Accuracy 1339/10000 (13%)
+Epoch 16 Testing loss: 2.26198410987854
+test: Accuracy 1468/10000 (15%)
+Epoch 17 Testing loss: 2.307267904281616
+test: Accuracy 1457/10000 (15%)
+Epoch 18 Testing loss: 2.2816882133483887
+test: Accuracy 1492/10000 (15%)
+Epoch 19 Testing loss: 2.254411220550537
+test: Accuracy 1528/10000 (15%)
+Epoch 20 Testing loss: 2.254774808883667
+test: Accuracy 1462/10000 (15%)
+Epoch 21 Testing loss: 2.311556577682495
+test: Accuracy 1467/10000 (15%)
+Epoch 22 Testing loss: 2.333512306213379
+test: Accuracy 1431/10000 (14%)
+Epoch 23 Testing loss: 2.290757656097412
+test: Accuracy 1478/10000 (15%)
+Epoch 24 Testing loss: 2.2499217987060547
+test: Accuracy 1536/10000 (15%)
+Epoch 25 Testing loss: 2.2887542247772217
+test: Accuracy 1413/10000 (14%)
+Epoch 26 Testing loss: 2.2932069301605225
+test: Accuracy 1526/10000 (15%)
+Epoch 27 Testing loss: 2.3323974609375
+test: Accuracy 1456/10000 (15%)
+Epoch 28 Testing loss: 2.193901538848877
+test: Accuracy 1640/10000 (16%)
+Epoch 29 Testing loss: 2.3194329738616943
+test: Accuracy 1628/10000 (16%)
+Epoch 30 Testing loss: 2.3080310821533203
+test: Accuracy 1647/10000 (16%)
+Epoch 31 Testing loss: 2.4104347229003906
+test: Accuracy 1597/10000 (16%)
+Epoch 32 Testing loss: 2.6497011184692383
+test: Accuracy 1272/10000 (13%)
+Epoch 33 Testing loss: 2.2766246795654297
+test: Accuracy 1842/10000 (18%)
+Epoch 34 Testing loss: 2.4967503547668457
+test: Accuracy 1602/10000 (16%)
+Epoch 35 Testing loss: 2.243793487548828
+test: Accuracy 1915/10000 (19%)
+Epoch 36 Testing loss: 1.9072401523590088
+test: Accuracy 2434/10000 (24%)
+Epoch 37 Testing loss: 1.6464592218399048
+test: Accuracy 3233/10000 (32%)
+Epoch 38 Testing loss: 1.5679987668991089
+test: Accuracy 3444/10000 (34%)
+Epoch 39 Testing loss: 1.4743725061416626
+test: Accuracy 3973/10000 (40%)
+Epoch 40 Testing loss: 1.45461106300354
+test: Accuracy 4160/10000 (42%)
+Epoch 41 Testing loss: 1.438918113708496
+test: Accuracy 4222/10000 (42%)
+Epoch 42 Testing loss: 1.3833774328231812
+test: Accuracy 4358/10000 (44%)
+Epoch 43 Testing loss: 1.3711414337158203
+test: Accuracy 4559/10000 (46%)
+Epoch 44 Testing loss: 1.3451613187789917
+test: Accuracy 4590/10000 (46%)
+Epoch 45 Testing loss: 1.3284263610839844
+test: Accuracy 4597/10000 (46%)
+Epoch 46 Testing loss: 1.3613735437393188
+test: Accuracy 4600/10000 (46%)
+Epoch 47 Testing loss: 1.314116358757019
+test: Accuracy 4884/10000 (49%)
+Epoch 48 Testing loss: 1.3192641735076904
+test: Accuracy 5002/10000 (50%)
+Epoch 49 Testing loss: 1.2393449544906616
+test: Accuracy 5559/10000 (56%)
+Epoch 50 Testing loss: 1.2194193601608276
+test: Accuracy 5774/10000 (58%)
+Epoch 51 Testing loss: 1.2689918279647827
+test: Accuracy 5831/10000 (58%)
+Epoch 52 Testing loss: 1.1638494729995728
+test: Accuracy 6134/10000 (61%)
+Epoch 53 Testing loss: 1.1732114553451538
+test: Accuracy 6189/10000 (62%)
+Epoch 54 Testing loss: 1.157920241355896
+test: Accuracy 6319/10000 (63%)
+Epoch 55 Testing loss: 1.1595958471298218
+test: Accuracy 6356/10000 (64%)
+Epoch 56 Testing loss: 1.1293295621871948
+test: Accuracy 6320/10000 (63%)
+Epoch 57 Testing loss: 1.2271376848220825
+test: Accuracy 6256/10000 (63%)
+Epoch 58 Testing loss: 1.1785787343978882
+test: Accuracy 6462/10000 (65%)
+Epoch 59 Testing loss: 1.1655476093292236
+test: Accuracy 6488/10000 (65%)
+Epoch 60 Testing loss: 1.136663794517517
+test: Accuracy 6660/10000 (67%)
+Epoch 61 Testing loss: 1.1312767267227173
+test: Accuracy 6677/10000 (67%)
+Epoch 62 Testing loss: 1.1449497938156128
+test: Accuracy 6746/10000 (67%)
+Epoch 63 Testing loss: 1.1167224645614624
+test: Accuracy 6757/10000 (68%)
+Epoch 64 Testing loss: 1.1846861839294434
+test: Accuracy 6766/10000 (68%)
+Epoch 65 Testing loss: 1.1016396284103394
+test: Accuracy 7021/10000 (70%)
+Epoch 66 Testing loss: 1.1303991079330444
+test: Accuracy 6901/10000 (69%)
+Epoch 67 Testing loss: 1.1505622863769531
+test: Accuracy 7000/10000 (70%)
+Epoch 68 Testing loss: 1.252036690711975
+test: Accuracy 6790/10000 (68%)
+Epoch 69 Testing loss: 1.194571852684021
+test: Accuracy 7021/10000 (70%)
+Epoch 70 Testing loss: 1.1876522302627563
+test: Accuracy 7052/10000 (71%)
+Epoch 71 Testing loss: 1.1740257740020752
+test: Accuracy 7110/10000 (71%)
+Epoch 72 Testing loss: 1.2178409099578857
+test: Accuracy 7089/10000 (71%)
+Epoch 73 Testing loss: 1.1601566076278687
+test: Accuracy 7225/10000 (72%)
+Epoch 74 Testing loss: 1.177444338798523
+test: Accuracy 7159/10000 (72%)
+Epoch 75 Testing loss: 1.2270258665084839
+test: Accuracy 7172/10000 (72%)
+Epoch 76 Testing loss: 1.2134990692138672
+test: Accuracy 7111/10000 (71%)
+Epoch 77 Testing loss: 1.218380093574524
+test: Accuracy 7234/10000 (72%)
+Epoch 78 Testing loss: 1.2115799188613892
+test: Accuracy 7240/10000 (72%)
+Epoch 79 Testing loss: 1.292715072631836
+test: Accuracy 7160/10000 (72%)
+Epoch 80 Testing loss: 1.2139506340026855
+test: Accuracy 7223/10000 (72%)
+Epoch 81 Testing loss: 1.2300523519515991
+test: Accuracy 7308/10000 (73%)
+Epoch 82 Testing loss: 1.2743818759918213
+test: Accuracy 7233/10000 (72%)
+Epoch 83 Testing loss: 1.2748520374298096
+test: Accuracy 7248/10000 (72%)
+Epoch 84 Testing loss: 1.2801029682159424
+test: Accuracy 7281/10000 (73%)
+Epoch 85 Testing loss: 1.2490698099136353
+test: Accuracy 7308/10000 (73%)
+Epoch 86 Testing loss: 1.2451906204223633
+test: Accuracy 7306/10000 (73%)
+Epoch 87 Testing loss: 1.2910244464874268
+test: Accuracy 7324/10000 (73%)
+Epoch 88 Testing loss: 1.230569839477539
+test: Accuracy 7339/10000 (73%)
+Epoch 89 Testing loss: 1.3641268014907837
+test: Accuracy 7218/10000 (72%)
+Epoch 90 Testing loss: 1.301205039024353
+test: Accuracy 7306/10000 (73%)
+Epoch 91 Testing loss: 1.3157775402069092
+test: Accuracy 7319/10000 (73%)
+Epoch 92 Testing loss: 1.3105591535568237
+test: Accuracy 7273/10000 (73%)
+Epoch 93 Testing loss: 1.3508844375610352
+test: Accuracy 7278/10000 (73%)
+Epoch 94 Testing loss: 1.3201322555541992
+test: Accuracy 7360/10000 (74%)
+Epoch 95 Testing loss: 1.3265641927719116
+test: Accuracy 7351/10000 (74%)
+Epoch 96 Testing loss: 1.2976770401000977
+test: Accuracy 7396/10000 (74%)
+Epoch 97 Testing loss: 1.3026968240737915
+test: Accuracy 7400/10000 (74%)
+Epoch 98 Testing loss: 1.3176130056381226
+test: Accuracy 7373/10000 (74%)
+Epoch 99 Testing loss: 1.319608211517334
+test: Accuracy 7369/10000 (74%)
+Epoch 100 Testing loss: 1.3291062116622925
+test: Accuracy 7318/10000 (73%)
+Epoch 101 Testing loss: 1.354113221168518
+test: Accuracy 7358/10000 (74%)
+Epoch 102 Testing loss: 1.3494569063186646
+test: Accuracy 7445/10000 (74%)
+Epoch 103 Testing loss: 1.3512755632400513
+test: Accuracy 7335/10000 (73%)
+Epoch 104 Testing loss: 1.3636174201965332
+test: Accuracy 7416/10000 (74%)
+Epoch 105 Testing loss: 1.3598154783248901
+test: Accuracy 7383/10000 (74%)
+Epoch 106 Testing loss: 1.3724408149719238
+test: Accuracy 7392/10000 (74%)
+Epoch 107 Testing loss: 1.3698344230651855
+test: Accuracy 7371/10000 (74%)
+Epoch 108 Testing loss: 1.3206884860992432
+test: Accuracy 7384/10000 (74%)
+Epoch 109 Testing loss: 1.391299843788147
+test: Accuracy 7407/10000 (74%)
+Epoch 110 Testing loss: 1.3559627532958984
+test: Accuracy 7420/10000 (74%)
+Epoch 111 Testing loss: 1.3766316175460815
+test: Accuracy 7394/10000 (74%)
+Epoch 112 Testing loss: 1.3712817430496216
+test: Accuracy 7413/10000 (74%)
+Epoch 113 Testing loss: 1.4187579154968262
+test: Accuracy 7401/10000 (74%)
+Epoch 114 Testing loss: 1.4321701526641846
+test: Accuracy 7359/10000 (74%)
+Epoch 115 Testing loss: 1.4608763456344604
+test: Accuracy 7391/10000 (74%)
+Epoch 116 Testing loss: 1.4047276973724365
+test: Accuracy 7398/10000 (74%)
+Epoch 117 Testing loss: 1.3863221406936646
+test: Accuracy 7432/10000 (74%)
+Epoch 118 Testing loss: 1.3993862867355347
+test: Accuracy 7394/10000 (74%)
+Epoch 119 Testing loss: 1.4270929098129272
+test: Accuracy 7351/10000 (74%)
+Epoch 120 Testing loss: 1.4344345331192017
+test: Accuracy 7418/10000 (74%)
+Epoch 121 Testing loss: 1.429900050163269
+test: Accuracy 7420/10000 (74%)
+Epoch 122 Testing loss: 1.4132932424545288
+test: Accuracy 7453/10000 (75%)
+Epoch 123 Testing loss: 1.3833216428756714
+test: Accuracy 7415/10000 (74%)
+Epoch 124 Testing loss: 1.3994686603546143
+test: Accuracy 7460/10000 (75%)
+Epoch 125 Testing loss: 1.3987152576446533
+test: Accuracy 7473/10000 (75%)
+Epoch 126 Testing loss: 1.4243041276931763
+test: Accuracy 7460/10000 (75%)
+Epoch 127 Testing loss: 1.4370900392532349
+test: Accuracy 7464/10000 (75%)
+Epoch 128 Testing loss: 1.4009840488433838
+test: Accuracy 7451/10000 (75%)
+Epoch 129 Testing loss: 1.4880996942520142
+test: Accuracy 7421/10000 (74%)
+Epoch 130 Testing loss: 1.4029396772384644
+test: Accuracy 7458/10000 (75%)
+Epoch 131 Testing loss: 1.4652998447418213
+test: Accuracy 7412/10000 (74%)
+Epoch 132 Testing loss: 1.4431231021881104
+test: Accuracy 7474/10000 (75%)
+Epoch 133 Testing loss: 1.4402097463607788
+test: Accuracy 7461/10000 (75%)
+Epoch 134 Testing loss: 1.4431260824203491
+test: Accuracy 7430/10000 (74%)
+Epoch 135 Testing loss: 1.4606515169143677
+test: Accuracy 7387/10000 (74%)
+Epoch 136 Testing loss: 1.4475038051605225
+test: Accuracy 7486/10000 (75%)
+Epoch 137 Testing loss: 1.4515618085861206
+test: Accuracy 7478/10000 (75%)
+Epoch 138 Testing loss: 1.4644631147384644
+test: Accuracy 7485/10000 (75%)
+Epoch 139 Testing loss: 1.4395593404769897
+test: Accuracy 7480/10000 (75%)
+Epoch 140 Testing loss: 1.436585545539856
+test: Accuracy 7444/10000 (74%)
+Epoch 141 Testing loss: 1.449954867362976
+test: Accuracy 7511/10000 (75%)
+Epoch 142 Testing loss: 1.4788070917129517
+test: Accuracy 7426/10000 (74%)
+Epoch 143 Testing loss: 1.4372599124908447
+test: Accuracy 7468/10000 (75%)
+Epoch 144 Testing loss: 1.5164185762405396
+test: Accuracy 7439/10000 (74%)
+Epoch 0 Testing loss: 2.303647994995117
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.3035383224487305
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3028926849365234
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.3026599884033203
+test: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.302494525909424
+test: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.302471876144409
+test: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.3039090633392334
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.3048553466796875
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.358344793319702
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.37076735496521
+test: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.3710830211639404
+test: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.371356725692749
+test: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.3697078227996826
+test: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.369702100753784
+test: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.3685386180877686
+test: Accuracy 1000/10000 (10%)
+Epoch 8 Testing loss: 2.3703668117523193
+test: Accuracy 1000/10000 (10%)
+Epoch 9 Testing loss: 2.3814828395843506
+test: Accuracy 1000/10000 (10%)
+Epoch 10 Testing loss: 2.33748459815979
+test: Accuracy 1000/10000 (10%)
+Epoch 11 Testing loss: 2.2808873653411865
+test: Accuracy 1485/10000 (15%)
+Epoch 12 Testing loss: 2.2515952587127686
+test: Accuracy 1276/10000 (13%)
+Epoch 13 Testing loss: 2.2340757846832275
+test: Accuracy 1363/10000 (14%)
+Epoch 14 Testing loss: 2.247725248336792
+test: Accuracy 1322/10000 (13%)
+Epoch 15 Testing loss: 2.26053786277771
+test: Accuracy 1374/10000 (14%)
+Epoch 16 Testing loss: 1.9766050577163696
+test: Accuracy 1744/10000 (17%)
+Epoch 17 Testing loss: 1.8663663864135742
+test: Accuracy 2059/10000 (21%)
+Epoch 18 Testing loss: 1.9042720794677734
+test: Accuracy 1915/10000 (19%)
+Epoch 19 Testing loss: 1.8254932165145874
+test: Accuracy 2124/10000 (21%)
+Epoch 20 Testing loss: 1.8248538970947266
+test: Accuracy 2111/10000 (21%)
+Epoch 21 Testing loss: 1.8154104948043823
+test: Accuracy 2132/10000 (21%)
+Epoch 22 Testing loss: 1.7922829389572144
+test: Accuracy 2207/10000 (22%)
+Epoch 23 Testing loss: 1.7641212940216064
+test: Accuracy 2439/10000 (24%)
+Epoch 24 Testing loss: 1.8023576736450195
+test: Accuracy 2162/10000 (22%)
+Epoch 25 Testing loss: 1.7674839496612549
+test: Accuracy 2336/10000 (23%)
+Epoch 26 Testing loss: 1.6867427825927734
+test: Accuracy 3053/10000 (31%)
+Epoch 27 Testing loss: 1.6523996591567993
+test: Accuracy 3116/10000 (31%)
+Epoch 28 Testing loss: 1.6237144470214844
+test: Accuracy 3118/10000 (31%)
+Epoch 29 Testing loss: 1.633824348449707
+test: Accuracy 3137/10000 (31%)
+Epoch 30 Testing loss: 1.5769346952438354
+test: Accuracy 3402/10000 (34%)
+Epoch 31 Testing loss: 1.55708909034729
+test: Accuracy 3514/10000 (35%)
+Epoch 32 Testing loss: 1.4859217405319214
+test: Accuracy 4002/10000 (40%)
+Epoch 33 Testing loss: 1.482433795928955
+test: Accuracy 4108/10000 (41%)
+Epoch 34 Testing loss: 1.4354323148727417
+test: Accuracy 4322/10000 (43%)
+Epoch 35 Testing loss: 1.318253517150879
+test: Accuracy 5103/10000 (51%)
+Epoch 36 Testing loss: 1.368494987487793
+test: Accuracy 5167/10000 (52%)
+Epoch 37 Testing loss: 1.2712732553482056
+test: Accuracy 5642/10000 (56%)
+Epoch 38 Testing loss: 1.2456309795379639
+test: Accuracy 5742/10000 (57%)
+Epoch 39 Testing loss: 1.229845643043518
+test: Accuracy 5869/10000 (59%)
+Epoch 40 Testing loss: 1.2083123922348022
+test: Accuracy 6030/10000 (60%)
+Epoch 41 Testing loss: 1.2380051612854004
+test: Accuracy 5915/10000 (59%)
+Epoch 42 Testing loss: 1.230762243270874
+test: Accuracy 6126/10000 (61%)
+Epoch 43 Testing loss: 1.3434715270996094
+test: Accuracy 5933/10000 (59%)
+Epoch 44 Testing loss: 1.6361500024795532
+test: Accuracy 5492/10000 (55%)
+Epoch 45 Testing loss: 1.6578750610351562
+test: Accuracy 5216/10000 (52%)
+Epoch 46 Testing loss: 1.3292862176895142
+test: Accuracy 6101/10000 (61%)
+Epoch 47 Testing loss: 1.3286226987838745
+test: Accuracy 6299/10000 (63%)
+Epoch 48 Testing loss: 1.3204665184020996
+test: Accuracy 6251/10000 (63%)
+Epoch 49 Testing loss: 1.352864146232605
+test: Accuracy 6312/10000 (63%)
+Epoch 50 Testing loss: 1.3950679302215576
+test: Accuracy 6389/10000 (64%)
+Epoch 51 Testing loss: 1.4902464151382446
+test: Accuracy 6246/10000 (62%)
+Epoch 52 Testing loss: 1.4243369102478027
+test: Accuracy 6448/10000 (64%)
+Epoch 53 Testing loss: 1.638865351676941
+test: Accuracy 6095/10000 (61%)
+Epoch 54 Testing loss: 1.4823006391525269
+test: Accuracy 6480/10000 (65%)
+Epoch 55 Testing loss: 1.6137136220932007
+test: Accuracy 6154/10000 (62%)
+Epoch 56 Testing loss: 1.5220810174942017
+test: Accuracy 6502/10000 (65%)
+Epoch 57 Testing loss: 1.565161108970642
+test: Accuracy 6494/10000 (65%)
+Epoch 58 Testing loss: 1.7132409811019897
+test: Accuracy 5941/10000 (59%)
+Epoch 59 Testing loss: 1.5525017976760864
+test: Accuracy 6486/10000 (65%)
+Epoch 60 Testing loss: 1.6033744812011719
+test: Accuracy 6547/10000 (65%)
+Epoch 61 Testing loss: 1.752112627029419
+test: Accuracy 6449/10000 (64%)
+Epoch 62 Testing loss: 1.8703794479370117
+test: Accuracy 6305/10000 (63%)
+Epoch 63 Testing loss: 1.6812381744384766
+test: Accuracy 6622/10000 (66%)
+Epoch 64 Testing loss: 1.6715055704116821
+test: Accuracy 6672/10000 (67%)
+Epoch 65 Testing loss: 1.7572813034057617
+test: Accuracy 6584/10000 (66%)
+Epoch 66 Testing loss: 1.7238003015518188
+test: Accuracy 6661/10000 (67%)
+Epoch 67 Testing loss: 1.7089942693710327
+test: Accuracy 6711/10000 (67%)
+Epoch 68 Testing loss: 1.9192856550216675
+test: Accuracy 6536/10000 (65%)
+Epoch 69 Testing loss: 1.8381222486495972
+test: Accuracy 6633/10000 (66%)
+Epoch 70 Testing loss: 1.7768163681030273
+test: Accuracy 6777/10000 (68%)
+Epoch 71 Testing loss: 1.7916345596313477
+test: Accuracy 6819/10000 (68%)
+Epoch 72 Testing loss: 1.7253828048706055
+test: Accuracy 6847/10000 (68%)
+Epoch 73 Testing loss: 1.8991940021514893
+test: Accuracy 6712/10000 (67%)
+Epoch 74 Testing loss: 1.7962149381637573
+test: Accuracy 6887/10000 (69%)
+Epoch 75 Testing loss: 1.7682771682739258
+test: Accuracy 6929/10000 (69%)
+Epoch 76 Testing loss: 1.881003737449646
+test: Accuracy 6934/10000 (69%)
+Epoch 77 Testing loss: 1.855013132095337
+test: Accuracy 6921/10000 (69%)
+Epoch 78 Testing loss: 1.905281901359558
+test: Accuracy 6841/10000 (68%)
+Epoch 79 Testing loss: 1.8215856552124023
+test: Accuracy 6907/10000 (69%)
+Epoch 80 Testing loss: 2.3308801651000977
+test: Accuracy 6602/10000 (66%)
+Epoch 81 Testing loss: 1.8293040990829468
+test: Accuracy 6899/10000 (69%)
+Epoch 82 Testing loss: 1.8782745599746704
+test: Accuracy 6874/10000 (69%)
+Epoch 83 Testing loss: 2.1263175010681152
+test: Accuracy 6584/10000 (66%)
+Epoch 84 Testing loss: 1.9106155633926392
+test: Accuracy 6845/10000 (68%)
+Epoch 85 Testing loss: 1.7980365753173828
+test: Accuracy 7018/10000 (70%)
+Epoch 86 Testing loss: 1.9388946294784546
+test: Accuracy 6879/10000 (69%)
+Epoch 87 Testing loss: 1.8632172346115112
+test: Accuracy 7003/10000 (70%)
+Epoch 88 Testing loss: 1.886910080909729
+test: Accuracy 6925/10000 (69%)
+Epoch 89 Testing loss: 1.9996527433395386
+test: Accuracy 6946/10000 (69%)
+Epoch 90 Testing loss: 1.9263660907745361
+test: Accuracy 6965/10000 (70%)
+Epoch 91 Testing loss: 1.9842712879180908
+test: Accuracy 6914/10000 (69%)
+Epoch 92 Testing loss: 2.5440049171447754
+test: Accuracy 6114/10000 (61%)
+Epoch 93 Testing loss: 1.8853391408920288
+test: Accuracy 6147/10000 (61%)
+Epoch 94 Testing loss: 1.7550255060195923
+test: Accuracy 6966/10000 (70%)
+Epoch 95 Testing loss: 2.1941545009613037
+test: Accuracy 6674/10000 (67%)
+Epoch 96 Testing loss: 1.8121616840362549
+test: Accuracy 7010/10000 (70%)
+Epoch 97 Testing loss: 1.8714998960494995
+test: Accuracy 7043/10000 (70%)
+Epoch 98 Testing loss: 2.0745785236358643
+test: Accuracy 6856/10000 (69%)
+Epoch 99 Testing loss: 1.8326425552368164
+test: Accuracy 7016/10000 (70%)
+Epoch 100 Testing loss: 1.7962543964385986
+test: Accuracy 7050/10000 (70%)
+Epoch 101 Testing loss: 1.9139511585235596
+test: Accuracy 7008/10000 (70%)
+Epoch 102 Testing loss: 1.926854133605957
+test: Accuracy 7032/10000 (70%)
+Epoch 103 Testing loss: 1.9388622045516968
+test: Accuracy 7043/10000 (70%)
+Epoch 104 Testing loss: 1.8507884740829468
+test: Accuracy 7105/10000 (71%)
+Epoch 105 Testing loss: 1.9424690008163452
+test: Accuracy 7033/10000 (70%)
+Epoch 106 Testing loss: 1.9094270467758179
+test: Accuracy 7098/10000 (71%)
+Epoch 107 Testing loss: 1.816815733909607
+test: Accuracy 7079/10000 (71%)
+Epoch 108 Testing loss: 1.9246790409088135
+test: Accuracy 7020/10000 (70%)
+Epoch 109 Testing loss: 1.952370524406433
+test: Accuracy 7095/10000 (71%)
+Epoch 110 Testing loss: 2.375786066055298
+test: Accuracy 6713/10000 (67%)
+Epoch 111 Testing loss: 1.878678321838379
+test: Accuracy 7080/10000 (71%)
+Epoch 112 Testing loss: 1.9126909971237183
+test: Accuracy 7087/10000 (71%)
+Epoch 113 Testing loss: 2.065377712249756
+test: Accuracy 6963/10000 (70%)
+Epoch 114 Testing loss: 1.8791115283966064
+test: Accuracy 7082/10000 (71%)
+Epoch 115 Testing loss: 1.9459186792373657
+test: Accuracy 7148/10000 (71%)
+Epoch 116 Testing loss: 1.9985634088516235
+test: Accuracy 7070/10000 (71%)
+Epoch 117 Testing loss: 1.959415316581726
+test: Accuracy 7076/10000 (71%)
+Epoch 118 Testing loss: 1.8912385702133179
+test: Accuracy 7014/10000 (70%)
+Epoch 119 Testing loss: 1.8996378183364868
+test: Accuracy 7051/10000 (71%)
+Epoch 120 Testing loss: 1.9729398488998413
+test: Accuracy 7074/10000 (71%)
+Epoch 121 Testing loss: 1.9045336246490479
+test: Accuracy 7168/10000 (72%)
+Epoch 122 Testing loss: 1.9018999338150024
+test: Accuracy 7094/10000 (71%)
+Epoch 123 Testing loss: 1.8906992673873901
+test: Accuracy 7139/10000 (71%)
+Epoch 124 Testing loss: 2.0075173377990723
+test: Accuracy 7123/10000 (71%)
+Epoch 125 Testing loss: 1.9745880365371704
+test: Accuracy 7130/10000 (71%)
+Epoch 126 Testing loss: 1.9289401769638062
+test: Accuracy 7197/10000 (72%)
+Epoch 127 Testing loss: 1.7228319644927979
+test: Accuracy 6860/10000 (69%)
+Epoch 128 Testing loss: 1.8476755619049072
+test: Accuracy 7157/10000 (72%)
+Epoch 129 Testing loss: 2.3992040157318115
+test: Accuracy 6796/10000 (68%)
+Epoch 130 Testing loss: 1.9285818338394165
+test: Accuracy 7186/10000 (72%)
+Epoch 131 Testing loss: 1.9286606311798096
+test: Accuracy 7201/10000 (72%)
+Epoch 132 Testing loss: 1.9674571752548218
+test: Accuracy 7131/10000 (71%)
+Epoch 133 Testing loss: 1.961737871170044
+test: Accuracy 7198/10000 (72%)
+Epoch 134 Testing loss: 1.9885187149047852
+test: Accuracy 7157/10000 (72%)
+Epoch 135 Testing loss: 2.0238234996795654
+test: Accuracy 7094/10000 (71%)
+Epoch 136 Testing loss: 1.9432525634765625
+test: Accuracy 7176/10000 (72%)
+Epoch 0 Testing loss: 2.303741693496704
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.302919626235962
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.3026187419891357
+test: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.3025612831115723
+test: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.3025734424591064
+test: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.3044841289520264
+test: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.2877540588378906
+test: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.271167278289795
+test: Accuracy 1690/10000 (17%)
+Epoch 8 Testing loss: 2.256648063659668
+test: Accuracy 1538/10000 (15%)
+Epoch 9 Testing loss: 2.2359120845794678
+test: Accuracy 1490/10000 (15%)
+Epoch 10 Testing loss: 2.198936939239502
+test: Accuracy 1596/10000 (16%)
+Epoch 11 Testing loss: 2.1890511512756348
+test: Accuracy 1594/10000 (16%)
+Epoch 12 Testing loss: 2.1654536724090576
+test: Accuracy 1613/10000 (16%)
+Epoch 13 Testing loss: 2.16817045211792
+test: Accuracy 1592/10000 (16%)
+Epoch 14 Testing loss: 2.1725375652313232
+test: Accuracy 1538/10000 (15%)
+Epoch 15 Testing loss: 2.0702362060546875
+test: Accuracy 1591/10000 (16%)
+Epoch 16 Testing loss: 1.900948166847229
+test: Accuracy 1832/10000 (18%)
+Epoch 17 Testing loss: 1.9322843551635742
+test: Accuracy 1579/10000 (16%)
+Epoch 18 Testing loss: 1.9093255996704102
+test: Accuracy 2183/10000 (22%)
+Epoch 19 Testing loss: 1.8249508142471313
+test: Accuracy 2074/10000 (21%)
+Epoch 20 Testing loss: 1.8079217672348022
+test: Accuracy 2003/10000 (20%)
+Epoch 21 Testing loss: 1.8520567417144775
+test: Accuracy 1845/10000 (18%)
+Epoch 22 Testing loss: 1.725228190422058
+test: Accuracy 2589/10000 (26%)
+Epoch 23 Testing loss: 1.8175009489059448
+test: Accuracy 2343/10000 (23%)
+Epoch 24 Testing loss: 1.661111831665039
+test: Accuracy 2764/10000 (28%)
+Epoch 25 Testing loss: 1.636286973953247
+test: Accuracy 2918/10000 (29%)
+Epoch 26 Testing loss: 1.6393989324569702
+test: Accuracy 3104/10000 (31%)
+Epoch 27 Testing loss: 1.558959722518921
+test: Accuracy 3609/10000 (36%)
+Epoch 28 Testing loss: 1.5050843954086304
+test: Accuracy 4407/10000 (44%)
+Epoch 29 Testing loss: 1.4171355962753296
+test: Accuracy 4802/10000 (48%)
+Epoch 30 Testing loss: 1.2935853004455566
+test: Accuracy 5350/10000 (54%)
+Epoch 31 Testing loss: 1.2992745637893677
+test: Accuracy 5463/10000 (55%)
+Epoch 32 Testing loss: 1.270721673965454
+test: Accuracy 5752/10000 (58%)
+Epoch 33 Testing loss: 1.3306593894958496
+test: Accuracy 5659/10000 (57%)
+Epoch 34 Testing loss: 1.2537065744400024
+test: Accuracy 5881/10000 (59%)
+Epoch 35 Testing loss: 1.2761335372924805
+test: Accuracy 5959/10000 (60%)
+Epoch 36 Testing loss: 1.4079182147979736
+test: Accuracy 5590/10000 (56%)
+Epoch 37 Testing loss: 1.451622724533081
+test: Accuracy 5847/10000 (58%)
+Epoch 38 Testing loss: 1.2408175468444824
+test: Accuracy 6162/10000 (62%)
+Epoch 39 Testing loss: 1.4637395143508911
+test: Accuracy 5921/10000 (59%)
+Epoch 40 Testing loss: 1.3170441389083862
+test: Accuracy 6405/10000 (64%)
+Epoch 41 Testing loss: 1.4406667947769165
+test: Accuracy 6310/10000 (63%)
+Epoch 42 Testing loss: 1.3621878623962402
+test: Accuracy 6363/10000 (64%)
+Epoch 43 Testing loss: 1.379866123199463
+test: Accuracy 6423/10000 (64%)
+Epoch 44 Testing loss: 1.8121174573898315
+test: Accuracy 5377/10000 (54%)
+Epoch 45 Testing loss: 1.407280445098877
+test: Accuracy 6516/10000 (65%)
+Epoch 46 Testing loss: 1.4370777606964111
+test: Accuracy 6549/10000 (65%)
+Epoch 47 Testing loss: 1.5113271474838257
+test: Accuracy 6472/10000 (65%)
+Epoch 48 Testing loss: 1.4922925233840942
+test: Accuracy 6661/10000 (67%)
+Epoch 49 Testing loss: 1.5104995965957642
+test: Accuracy 6149/10000 (61%)
+Epoch 50 Testing loss: 1.8778456449508667
+test: Accuracy 5863/10000 (59%)
+Epoch 51 Testing loss: 1.5813713073730469
+test: Accuracy 6679/10000 (67%)
+Epoch 52 Testing loss: 1.715401291847229
+test: Accuracy 6523/10000 (65%)
+Epoch 53 Testing loss: 1.6726868152618408
+test: Accuracy 6545/10000 (65%)
+Epoch 54 Testing loss: 1.6628159284591675
+test: Accuracy 6738/10000 (67%)
+Epoch 55 Testing loss: 1.6556789875030518
+test: Accuracy 6747/10000 (67%)
+Epoch 56 Testing loss: 1.67062246799469
+test: Accuracy 6758/10000 (68%)
+Epoch 57 Testing loss: nan
+test: Accuracy 1000/10000 (10%)
+Epoch 58 Testing loss: nan
+test: Accuracy 1000/10000 (10%)
+Epoch 59 Testing loss: nan
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.303823471069336
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3029725551605225
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.302650213241577
+test: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.3025619983673096
+test: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.3025643825531006
+test: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.305593729019165
+test: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.304715871810913
+test: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.281869888305664
+test: Accuracy 940/10000 (9%)
+Epoch 8 Testing loss: 2.2624599933624268
+test: Accuracy 1698/10000 (17%)
+Epoch 9 Testing loss: 2.2468132972717285
+test: Accuracy 1552/10000 (16%)
+Epoch 10 Testing loss: 2.2385799884796143
+test: Accuracy 1414/10000 (14%)
+Epoch 11 Testing loss: 2.192483901977539
+test: Accuracy 1566/10000 (16%)
+Epoch 12 Testing loss: 2.191118001937866
+test: Accuracy 1596/10000 (16%)
+Epoch 13 Testing loss: 2.1706202030181885
+test: Accuracy 1629/10000 (16%)
+Epoch 14 Testing loss: 2.1629552841186523
+test: Accuracy 1632/10000 (16%)
+Epoch 15 Testing loss: 2.152872085571289
+test: Accuracy 1597/10000 (16%)
+Epoch 16 Testing loss: 1.9491569995880127
+test: Accuracy 1777/10000 (18%)
+Epoch 17 Testing loss: 1.8632164001464844
+test: Accuracy 2223/10000 (22%)
+Epoch 18 Testing loss: 1.882109522819519
+test: Accuracy 1861/10000 (19%)
+Epoch 19 Testing loss: 1.9353030920028687
+test: Accuracy 1690/10000 (17%)
+Epoch 20 Testing loss: 1.803260087966919
+test: Accuracy 2103/10000 (21%)
+Epoch 21 Testing loss: 1.7804592847824097
+test: Accuracy 2236/10000 (22%)
+Epoch 22 Testing loss: 2.0861966609954834
+test: Accuracy 1570/10000 (16%)
+Epoch 23 Testing loss: 1.6867817640304565
+test: Accuracy 2797/10000 (28%)
+Epoch 24 Testing loss: 1.6394675970077515
+test: Accuracy 2842/10000 (28%)
+Epoch 25 Testing loss: 1.6141996383666992
+test: Accuracy 3035/10000 (30%)
+Epoch 26 Testing loss: 1.5904017686843872
+test: Accuracy 3381/10000 (34%)
+Epoch 27 Testing loss: 1.6275533437728882
+test: Accuracy 3446/10000 (34%)
+Epoch 28 Testing loss: 1.5692085027694702
+test: Accuracy 3852/10000 (39%)
+Epoch 29 Testing loss: 1.4706979990005493
+test: Accuracy 4535/10000 (45%)
+Epoch 30 Testing loss: 1.3498119115829468
+test: Accuracy 4940/10000 (49%)
+Epoch 31 Testing loss: 1.365740418434143
+test: Accuracy 5153/10000 (52%)
+Epoch 32 Testing loss: 1.3343958854675293
+test: Accuracy 5267/10000 (53%)
+Epoch 33 Testing loss: 1.295914888381958
+test: Accuracy 5546/10000 (55%)
+Epoch 34 Testing loss: 1.3000272512435913
+test: Accuracy 5833/10000 (58%)
+Epoch 35 Testing loss: 1.3046725988388062
+test: Accuracy 5647/10000 (56%)
+Epoch 36 Testing loss: 1.3427388668060303
+test: Accuracy 5874/10000 (59%)
+Epoch 37 Testing loss: 1.549175500869751
+test: Accuracy 5785/10000 (58%)
+Epoch 38 Testing loss: 1.3391677141189575
+test: Accuracy 6078/10000 (61%)
+Epoch 39 Testing loss: 1.5298391580581665
+test: Accuracy 5498/10000 (55%)
+Epoch 40 Testing loss: 1.3098520040512085
+test: Accuracy 6196/10000 (62%)
+Epoch 41 Testing loss: 1.3904821872711182
+test: Accuracy 6256/10000 (63%)
+Epoch 42 Testing loss: 1.3730791807174683
+test: Accuracy 6391/10000 (64%)
+Epoch 43 Testing loss: 1.4233856201171875
+test: Accuracy 6430/10000 (64%)
+Epoch 44 Testing loss: 1.479627013206482
+test: Accuracy 6437/10000 (64%)
+Epoch 45 Testing loss: 1.6116306781768799
+test: Accuracy 6305/10000 (63%)
+Epoch 46 Testing loss: 1.5165828466415405
+test: Accuracy 6498/10000 (65%)
+Epoch 47 Testing loss: 1.563660740852356
+test: Accuracy 6558/10000 (66%)
+Epoch 48 Testing loss: 1.5567402839660645
+test: Accuracy 6504/10000 (65%)
+Epoch 49 Testing loss: 1.711645483970642
+test: Accuracy 6527/10000 (65%)
+Epoch 50 Testing loss: 1.8008145093917847
+test: Accuracy 6378/10000 (64%)
+Epoch 51 Testing loss: 1.6793794631958008
+test: Accuracy 6492/10000 (65%)
+Epoch 52 Testing loss: 1.6084117889404297
+test: Accuracy 6661/10000 (67%)
+Epoch 53 Testing loss: 2.3261778354644775
+test: Accuracy 5832/10000 (58%)
+Epoch 54 Testing loss: 1.7344179153442383
+test: Accuracy 6650/10000 (66%)
+Epoch 55 Testing loss: 1.7084693908691406
+test: Accuracy 6708/10000 (67%)
+Epoch 56 Testing loss: 1.7805899381637573
+test: Accuracy 6732/10000 (67%)
+Epoch 57 Testing loss: 1.8604059219360352
+test: Accuracy 6663/10000 (67%)
+Epoch 58 Testing loss: 1.8515911102294922
+test: Accuracy 6701/10000 (67%)
+Epoch 59 Testing loss: 1.9130648374557495
+test: Accuracy 6663/10000 (67%)
+Epoch 60 Testing loss: 1.8501386642456055
+test: Accuracy 6803/10000 (68%)
+Epoch 61 Testing loss: 1.900552749633789
+test: Accuracy 6706/10000 (67%)
+Epoch 62 Testing loss: 1.965973138809204
+test: Accuracy 6690/10000 (67%)
+Epoch 63 Testing loss: 1.8682888746261597
+test: Accuracy 6756/10000 (68%)
+Epoch 64 Testing loss: 1.9563530683517456
+test: Accuracy 6629/10000 (66%)
+Epoch 65 Testing loss: 1.7661041021347046
+test: Accuracy 6793/10000 (68%)
+Epoch 66 Testing loss: 1.9173872470855713
+test: Accuracy 6807/10000 (68%)
+Epoch 67 Testing loss: 1.94646418094635
+test: Accuracy 6785/10000 (68%)
+Epoch 68 Testing loss: 1.9749618768692017
+test: Accuracy 6852/10000 (69%)
+Epoch 69 Testing loss: 1.9862873554229736
+test: Accuracy 6844/10000 (68%)
+Epoch 70 Testing loss: 1.9117540121078491
+test: Accuracy 6877/10000 (69%)
+Epoch 71 Testing loss: 2.182845115661621
+test: Accuracy 6726/10000 (67%)
+Epoch 72 Testing loss: 2.1086175441741943
+test: Accuracy 6817/10000 (68%)
+Epoch 73 Testing loss: 2.012638807296753
+test: Accuracy 6904/10000 (69%)
+Epoch 74 Testing loss: 2.1588754653930664
+test: Accuracy 6698/10000 (67%)
+Epoch 75 Testing loss: 2.1872200965881348
+test: Accuracy 6816/10000 (68%)
+Epoch 76 Testing loss: 2.0374984741210938
+test: Accuracy 6948/10000 (69%)
+Epoch 77 Testing loss: 1.9792702198028564
+test: Accuracy 6667/10000 (67%)
+Epoch 78 Testing loss: 1.9898455142974854
+test: Accuracy 6910/10000 (69%)
+Epoch 79 Testing loss: 2.0583174228668213
+test: Accuracy 6925/10000 (69%)
+Epoch 80 Testing loss: 2.0669820308685303
+test: Accuracy 6920/10000 (69%)
+Epoch 81 Testing loss: 2.0775716304779053
+test: Accuracy 6923/10000 (69%)
+Epoch 82 Testing loss: 2.250983238220215
+test: Accuracy 6859/10000 (69%)
+Epoch 83 Testing loss: 2.0512304306030273
+test: Accuracy 6916/10000 (69%)
+Epoch 84 Testing loss: 2.19476580619812
+test: Accuracy 6820/10000 (68%)
+Epoch 85 Testing loss: 2.2164807319641113
+test: Accuracy 6846/10000 (68%)
+Epoch 86 Testing loss: 2.1250360012054443
+test: Accuracy 6933/10000 (69%)
+Epoch 87 Testing loss: 2.113706588745117
+test: Accuracy 6951/10000 (70%)
+Epoch 88 Testing loss: 2.0733871459960938
+test: Accuracy 7018/10000 (70%)
+Epoch 89 Testing loss: 2.164933204650879
+test: Accuracy 7019/10000 (70%)
+Epoch 90 Testing loss: 2.084686040878296
+test: Accuracy 7013/10000 (70%)
+Epoch 91 Testing loss: 2.1152756214141846
+test: Accuracy 6897/10000 (69%)
+Epoch 92 Testing loss: 2.1047677993774414
+test: Accuracy 6994/10000 (70%)
+Epoch 93 Testing loss: 2.1875104904174805
+test: Accuracy 6823/10000 (68%)
+Epoch 94 Testing loss: 2.1357614994049072
+test: Accuracy 7003/10000 (70%)
+Epoch 95 Testing loss: 2.0874431133270264
+test: Accuracy 7058/10000 (71%)
+Epoch 96 Testing loss: 2.1738853454589844
+test: Accuracy 7030/10000 (70%)
+Epoch 97 Testing loss: 2.1502091884613037
+test: Accuracy 6989/10000 (70%)
+Epoch 98 Testing loss: 2.133236885070801
+test: Accuracy 6856/10000 (69%)
+Epoch 99 Testing loss: 2.1584670543670654
+test: Accuracy 7061/10000 (71%)
+Epoch 100 Testing loss: 2.0313661098480225
+test: Accuracy 7103/10000 (71%)
+Epoch 101 Testing loss: 2.1392483711242676
+test: Accuracy 6926/10000 (69%)
+Epoch 102 Testing loss: 2.0497629642486572
+test: Accuracy 7111/10000 (71%)
+Epoch 103 Testing loss: 2.1431288719177246
+test: Accuracy 6977/10000 (70%)
+Epoch 104 Testing loss: 2.168315887451172
+test: Accuracy 6920/10000 (69%)
+Epoch 105 Testing loss: 2.1684658527374268
+test: Accuracy 7003/10000 (70%)
+Epoch 106 Testing loss: 2.165985584259033
+test: Accuracy 7076/10000 (71%)
+Epoch 107 Testing loss: 2.1378798484802246
+test: Accuracy 6872/10000 (69%)
+Epoch 108 Testing loss: 2.188009023666382
+test: Accuracy 6826/10000 (68%)
+Epoch 109 Testing loss: 2.094902992248535
+test: Accuracy 7032/10000 (70%)
+Epoch 110 Testing loss: 2.143819570541382
+test: Accuracy 7125/10000 (71%)
+Epoch 111 Testing loss: 2.2167346477508545
+test: Accuracy 7052/10000 (71%)
+Epoch 112 Testing loss: 2.1800384521484375
+test: Accuracy 7055/10000 (71%)
+Epoch 113 Testing loss: 2.111351490020752
+test: Accuracy 7099/10000 (71%)
+Epoch 114 Testing loss: 2.1971118450164795
+test: Accuracy 7011/10000 (70%)
+Epoch 115 Testing loss: 2.195533514022827
+test: Accuracy 7005/10000 (70%)
+Epoch 116 Testing loss: 2.2093541622161865
+test: Accuracy 7077/10000 (71%)
+Epoch 117 Testing loss: 2.166050910949707
+test: Accuracy 7109/10000 (71%)
+Epoch 118 Testing loss: 2.1148719787597656
+test: Accuracy 7116/10000 (71%)
+Epoch 119 Testing loss: 2.240679979324341
+test: Accuracy 6902/10000 (69%)
+Epoch 120 Testing loss: 2.1532938480377197
+test: Accuracy 7100/10000 (71%)
+Epoch 121 Testing loss: 2.1002280712127686
+test: Accuracy 7115/10000 (71%)
+Epoch 122 Testing loss: 2.223132848739624
+test: Accuracy 7021/10000 (70%)
+Epoch 123 Testing loss: 2.192272901535034
+test: Accuracy 7163/10000 (72%)
+Epoch 124 Testing loss: 2.1234519481658936
+test: Accuracy 7117/10000 (71%)
+Epoch 125 Testing loss: 2.2032577991485596
+test: Accuracy 7132/10000 (71%)
+Epoch 126 Testing loss: 2.1763226985931396
+test: Accuracy 7124/10000 (71%)
+Epoch 127 Testing loss: 3.8484485149383545
+test: Accuracy 3462/10000 (35%)
+Epoch 128 Testing loss: 2.1992099285125732
+test: Accuracy 7085/10000 (71%)
+Epoch 129 Testing loss: 2.527543783187866
+test: Accuracy 6761/10000 (68%)
+Epoch 130 Testing loss: 2.2390596866607666
+test: Accuracy 6991/10000 (70%)
+Epoch 131 Testing loss: 2.2156553268432617
+test: Accuracy 7141/10000 (71%)
+Epoch 132 Testing loss: 2.736799716949463
+test: Accuracy 6545/10000 (65%)
+Epoch 133 Testing loss: 2.139904499053955
+test: Accuracy 7154/10000 (72%)
+Epoch 134 Testing loss: 2.264434576034546
+test: Accuracy 6969/10000 (70%)
+Epoch 135 Testing loss: 2.183478355407715
+test: Accuracy 7161/10000 (72%)
+Epoch 136 Testing loss: 2.0257420539855957
+test: Accuracy 7138/10000 (71%)
+Epoch 137 Testing loss: 2.2042481899261475
+test: Accuracy 7148/10000 (71%)
+Epoch 138 Testing loss: 2.1037232875823975
+test: Accuracy 7192/10000 (72%)
+Epoch 139 Testing loss: 2.1990418434143066
+test: Accuracy 7176/10000 (72%)
+Epoch 140 Testing loss: 2.175395965576172
+test: Accuracy 7232/10000 (72%)
+Epoch 141 Testing loss: 2.1298015117645264
+test: Accuracy 7238/10000 (72%)
+Epoch 142 Testing loss: 1.969193458557129
+test: Accuracy 7140/10000 (71%)
+Epoch 143 Testing loss: 2.1141300201416016
+test: Accuracy 7164/10000 (72%)
+Epoch 144 Testing loss: 2.1692662239074707
+test: Accuracy 7171/10000 (72%)
+Epoch 145 Testing loss: 2.413059711456299
+test: Accuracy 6334/10000 (63%)
+Epoch 146 Testing loss: 7.02337121963501
+test: Accuracy 2447/10000 (24%)
+Epoch 147 Testing loss: 2.0520405769348145
+test: Accuracy 6901/10000 (69%)
+Epoch 0 Testing loss: 2.3047163486480713
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3580758571624756
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.3713619709014893
+test: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.371655225753784
+test: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.3698651790618896
+test: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.369837522506714
+test: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.370774984359741
+test: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.3686959743499756
+test: Accuracy 1000/10000 (10%)
+Epoch 8 Testing loss: 2.3726823329925537
+test: Accuracy 1000/10000 (10%)
+Epoch 9 Testing loss: 2.381962299346924
+test: Accuracy 1000/10000 (10%)
+Epoch 10 Testing loss: 2.327564001083374
+test: Accuracy 1000/10000 (10%)
+Epoch 11 Testing loss: 2.2528395652770996
+test: Accuracy 1551/10000 (16%)
+Epoch 12 Testing loss: 2.2451250553131104
+test: Accuracy 1496/10000 (15%)
+Epoch 13 Testing loss: 2.246515989303589
+test: Accuracy 1221/10000 (12%)
+Epoch 14 Testing loss: 2.2547450065612793
+test: Accuracy 1354/10000 (14%)
+Epoch 15 Testing loss: 2.2604188919067383
+test: Accuracy 1195/10000 (12%)
+Epoch 16 Testing loss: 2.001804828643799
+test: Accuracy 1834/10000 (18%)
+Epoch 17 Testing loss: 1.8651241064071655
+test: Accuracy 1960/10000 (20%)
+Epoch 18 Testing loss: 1.84434974193573
+test: Accuracy 2039/10000 (20%)
+Epoch 19 Testing loss: 1.8181785345077515
+test: Accuracy 2157/10000 (22%)
+Epoch 20 Testing loss: 1.8107538223266602
+test: Accuracy 2185/10000 (22%)
+Epoch 21 Testing loss: 1.7921804189682007
+test: Accuracy 2305/10000 (23%)
+Epoch 22 Testing loss: 1.8128712177276611
+test: Accuracy 2136/10000 (21%)
+Epoch 23 Testing loss: 1.7853256464004517
+test: Accuracy 2275/10000 (23%)
+Epoch 24 Testing loss: 1.7465442419052124
+test: Accuracy 2495/10000 (25%)
+Epoch 25 Testing loss: 1.7085437774658203
+test: Accuracy 2752/10000 (28%)
+Epoch 26 Testing loss: 1.6942732334136963
+test: Accuracy 2780/10000 (28%)
+Epoch 27 Testing loss: 1.6880024671554565
+test: Accuracy 2746/10000 (27%)
+Epoch 28 Testing loss: 1.651373267173767
+test: Accuracy 2977/10000 (30%)
+Epoch 29 Testing loss: 1.6184147596359253
+test: Accuracy 3173/10000 (32%)
+Epoch 30 Testing loss: 1.6025876998901367
+test: Accuracy 3331/10000 (33%)
+Epoch 31 Testing loss: 1.6068865060806274
+test: Accuracy 3395/10000 (34%)
+Epoch 32 Testing loss: 1.5956958532333374
+test: Accuracy 3485/10000 (35%)
+Epoch 33 Testing loss: 1.6009981632232666
+test: Accuracy 3305/10000 (33%)
+Epoch 34 Testing loss: 1.6136101484298706
+test: Accuracy 3717/10000 (37%)
+Epoch 35 Testing loss: 1.6110881567001343
+test: Accuracy 3832/10000 (38%)
+Epoch 36 Testing loss: 1.606628656387329
+test: Accuracy 3931/10000 (39%)
+Epoch 37 Testing loss: 1.6134389638900757
+test: Accuracy 3971/10000 (40%)
+Epoch 38 Testing loss: 1.672847032546997
+test: Accuracy 4329/10000 (43%)
+Epoch 39 Testing loss: 1.5610555410385132
+test: Accuracy 4386/10000 (44%)
+Epoch 40 Testing loss: 1.6477596759796143
+test: Accuracy 4613/10000 (46%)
+Epoch 41 Testing loss: 1.4932096004486084
+test: Accuracy 4713/10000 (47%)
+Epoch 42 Testing loss: 1.7262800931930542
+test: Accuracy 4713/10000 (47%)
+Epoch 43 Testing loss: 1.4365804195404053
+test: Accuracy 5140/10000 (51%)
+Epoch 44 Testing loss: 1.1786051988601685
+test: Accuracy 6087/10000 (61%)
+Epoch 45 Testing loss: 1.148263931274414
+test: Accuracy 6237/10000 (62%)
+Epoch 46 Testing loss: 1.1242485046386719
+test: Accuracy 6337/10000 (63%)
+Epoch 47 Testing loss: 1.1281858682632446
+test: Accuracy 6383/10000 (64%)
+Epoch 48 Testing loss: 1.1492472887039185
+test: Accuracy 6537/10000 (65%)
+Epoch 49 Testing loss: 1.1034497022628784
+test: Accuracy 6533/10000 (65%)
+Epoch 50 Testing loss: 1.086503267288208
+test: Accuracy 6603/10000 (66%)
+Epoch 51 Testing loss: 1.0752443075180054
+test: Accuracy 6769/10000 (68%)
+Epoch 52 Testing loss: 1.1633002758026123
+test: Accuracy 6628/10000 (66%)
+Epoch 53 Testing loss: 1.0984209775924683
+test: Accuracy 6835/10000 (68%)
+Epoch 54 Testing loss: 1.086903691291809
+test: Accuracy 6905/10000 (69%)
+Epoch 55 Testing loss: 1.0719882249832153
+test: Accuracy 6994/10000 (70%)
+Epoch 56 Testing loss: 1.0973981618881226
+test: Accuracy 7046/10000 (70%)
+Epoch 57 Testing loss: 1.078179955482483
+test: Accuracy 7056/10000 (71%)
+Epoch 58 Testing loss: 1.0892183780670166
+test: Accuracy 7115/10000 (71%)
+Epoch 59 Testing loss: 1.1279562711715698
+test: Accuracy 7040/10000 (70%)
+Epoch 60 Testing loss: 1.1188796758651733
+test: Accuracy 7006/10000 (70%)
+Epoch 61 Testing loss: 1.1062541007995605
+test: Accuracy 7166/10000 (72%)
+Epoch 62 Testing loss: 1.1824350357055664
+test: Accuracy 6995/10000 (70%)
+Epoch 63 Testing loss: 1.1327992677688599
+test: Accuracy 7187/10000 (72%)
+Epoch 64 Testing loss: 1.1298140287399292
+test: Accuracy 7245/10000 (72%)
+Epoch 65 Testing loss: 1.1457635164260864
+test: Accuracy 7240/10000 (72%)
+Epoch 66 Testing loss: 1.1706454753875732
+test: Accuracy 7254/10000 (73%)
+Epoch 67 Testing loss: 1.3120492696762085
+test: Accuracy 6706/10000 (67%)
+Epoch 68 Testing loss: 1.1717604398727417
+test: Accuracy 7253/10000 (73%)
+Epoch 69 Testing loss: 1.1722601652145386
+test: Accuracy 7257/10000 (73%)
+Epoch 70 Testing loss: 1.171787977218628
+test: Accuracy 7337/10000 (73%)
+Epoch 71 Testing loss: 1.2119085788726807
+test: Accuracy 7271/10000 (73%)
+Epoch 72 Testing loss: 1.1775277853012085
+test: Accuracy 7323/10000 (73%)
+Epoch 73 Testing loss: 1.2221237421035767
+test: Accuracy 7346/10000 (73%)
+Epoch 74 Testing loss: 1.2010689973831177
+test: Accuracy 7345/10000 (73%)
+Epoch 75 Testing loss: 1.208534836769104
+test: Accuracy 7353/10000 (74%)
+Epoch 76 Testing loss: 1.216162919998169
+test: Accuracy 7325/10000 (73%)
+Epoch 77 Testing loss: 1.2760823965072632
+test: Accuracy 7303/10000 (73%)
+Epoch 78 Testing loss: 1.212300419807434
+test: Accuracy 7385/10000 (74%)
+Epoch 79 Testing loss: 1.291717529296875
+test: Accuracy 7356/10000 (74%)
+Epoch 80 Testing loss: 1.2361537218093872
+test: Accuracy 7390/10000 (74%)
+Epoch 81 Testing loss: 1.264569640159607
+test: Accuracy 7359/10000 (74%)
+Epoch 82 Testing loss: 1.3074599504470825
+test: Accuracy 7403/10000 (74%)
+Epoch 83 Testing loss: 1.3193461894989014
+test: Accuracy 7348/10000 (73%)
+Epoch 84 Testing loss: 1.2758221626281738
+test: Accuracy 7359/10000 (74%)
+Epoch 85 Testing loss: 1.3395341634750366
+test: Accuracy 7374/10000 (74%)
+Epoch 86 Testing loss: 1.2933368682861328
+test: Accuracy 7411/10000 (74%)
+Epoch 87 Testing loss: 1.3335822820663452
+test: Accuracy 7428/10000 (74%)
+Epoch 88 Testing loss: 1.3035577535629272
+test: Accuracy 7404/10000 (74%)
+Epoch 89 Testing loss: 1.2652965784072876
+test: Accuracy 7421/10000 (74%)
+Epoch 90 Testing loss: 1.3128224611282349
+test: Accuracy 7396/10000 (74%)
+Epoch 91 Testing loss: 1.3314036130905151
+test: Accuracy 7435/10000 (74%)
+Epoch 92 Testing loss: 1.3491690158843994
+test: Accuracy 7391/10000 (74%)
+Epoch 93 Testing loss: 1.3448385000228882
+test: Accuracy 7369/10000 (74%)
+Epoch 94 Testing loss: 1.4064910411834717
+test: Accuracy 7406/10000 (74%)
+Epoch 95 Testing loss: 1.3547577857971191
+test: Accuracy 7432/10000 (74%)
+Epoch 96 Testing loss: 1.3817903995513916
+test: Accuracy 7412/10000 (74%)
+Epoch 97 Testing loss: 1.4055668115615845
+test: Accuracy 7302/10000 (73%)
+Epoch 98 Testing loss: 1.402169942855835
+test: Accuracy 7453/10000 (75%)
+Epoch 99 Testing loss: 1.3668235540390015
+test: Accuracy 7430/10000 (74%)
+Epoch 100 Testing loss: 1.3851943016052246
+test: Accuracy 7457/10000 (75%)
+Epoch 101 Testing loss: 1.3700238466262817
+test: Accuracy 7435/10000 (74%)
+Epoch 102 Testing loss: 1.4041271209716797
+test: Accuracy 7432/10000 (74%)
+Epoch 103 Testing loss: 1.414484977722168
+test: Accuracy 7443/10000 (74%)
+Epoch 104 Testing loss: 1.3896764516830444
+test: Accuracy 7435/10000 (74%)
+Epoch 105 Testing loss: 1.3775042295455933
+test: Accuracy 7454/10000 (75%)
+Epoch 106 Testing loss: 1.3969452381134033
+test: Accuracy 7474/10000 (75%)
+Epoch 107 Testing loss: 1.4162381887435913
+test: Accuracy 7489/10000 (75%)
+Epoch 108 Testing loss: 1.4196280241012573
+test: Accuracy 7486/10000 (75%)
+Epoch 109 Testing loss: 1.387438178062439
+test: Accuracy 7489/10000 (75%)
+Epoch 110 Testing loss: 1.4552788734436035
+test: Accuracy 7451/10000 (75%)
+Epoch 111 Testing loss: 1.4256945848464966
+test: Accuracy 7488/10000 (75%)
+Epoch 112 Testing loss: 1.415351152420044
+test: Accuracy 7512/10000 (75%)
+Epoch 113 Testing loss: 1.4176300764083862
+test: Accuracy 7518/10000 (75%)
+Epoch 114 Testing loss: 1.4077752828598022
+test: Accuracy 7502/10000 (75%)
+Epoch 115 Testing loss: 1.436951756477356
+test: Accuracy 7517/10000 (75%)
+Epoch 116 Testing loss: 1.4637892246246338
+test: Accuracy 7474/10000 (75%)
+Epoch 117 Testing loss: 1.4444853067398071
+test: Accuracy 7482/10000 (75%)
+Epoch 118 Testing loss: 1.4958908557891846
+test: Accuracy 7530/10000 (75%)
+Epoch 119 Testing loss: 1.4530563354492188
+test: Accuracy 7481/10000 (75%)
+Epoch 120 Testing loss: 1.500983476638794
+test: Accuracy 7496/10000 (75%)
+Epoch 121 Testing loss: 1.4446589946746826
+test: Accuracy 7493/10000 (75%)
+Epoch 122 Testing loss: 1.4706751108169556
+test: Accuracy 7502/10000 (75%)
+Epoch 123 Testing loss: 1.4420465230941772
+test: Accuracy 7513/10000 (75%)
+Epoch 124 Testing loss: 1.4768818616867065
+test: Accuracy 7510/10000 (75%)
+Epoch 125 Testing loss: 1.4791858196258545
+test: Accuracy 7515/10000 (75%)
+Epoch 126 Testing loss: 1.475538730621338
+test: Accuracy 7529/10000 (75%)
+Epoch 127 Testing loss: 1.47813880443573
+test: Accuracy 7534/10000 (75%)
+Epoch 128 Testing loss: 1.482561469078064
+test: Accuracy 7512/10000 (75%)
+Epoch 129 Testing loss: 1.4972628355026245
+test: Accuracy 7562/10000 (76%)
+Epoch 130 Testing loss: 1.4917205572128296
+test: Accuracy 7488/10000 (75%)
+Epoch 131 Testing loss: 1.5042299032211304
+test: Accuracy 7539/10000 (75%)
+Epoch 132 Testing loss: 1.5233184099197388
+test: Accuracy 7530/10000 (75%)
+Epoch 133 Testing loss: 1.5318292379379272
+test: Accuracy 7497/10000 (75%)
+Epoch 134 Testing loss: 1.5565201044082642
+test: Accuracy 7529/10000 (75%)
+Epoch 135 Testing loss: 1.5316743850708008
+test: Accuracy 7515/10000 (75%)
+Epoch 136 Testing loss: 1.4980897903442383
+test: Accuracy 7504/10000 (75%)
+Epoch 137 Testing loss: 1.5190407037734985
+test: Accuracy 7511/10000 (75%)
+Epoch 0 Testing loss: 2.303724527359009
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3029303550720215
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.304508686065674
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.357616424560547
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.3710291385650635
+test: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.370757579803467
+test: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.3708882331848145
+test: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.3697898387908936
+test: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.3699097633361816
+test: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.369588613510132
+test: Accuracy 1000/10000 (10%)
+Epoch 8 Testing loss: 2.3766117095947266
+test: Accuracy 1000/10000 (10%)
+Epoch 9 Testing loss: 2.3815724849700928
+test: Accuracy 1000/10000 (10%)
+Epoch 10 Testing loss: 2.300525188446045
+test: Accuracy 1000/10000 (10%)
+Epoch 11 Testing loss: 2.2615582942962646
+test: Accuracy 1371/10000 (14%)
+Epoch 12 Testing loss: 2.226595401763916
+test: Accuracy 1359/10000 (14%)
+Epoch 13 Testing loss: 2.225607395172119
+test: Accuracy 1524/10000 (15%)
+Epoch 14 Testing loss: 2.2622175216674805
+test: Accuracy 1401/10000 (14%)
+Epoch 15 Testing loss: 2.245939016342163
+test: Accuracy 1347/10000 (13%)
+Epoch 16 Testing loss: 2.0027387142181396
+test: Accuracy 1986/10000 (20%)
+Epoch 17 Testing loss: 1.8604964017868042
+test: Accuracy 2003/10000 (20%)
+Epoch 18 Testing loss: 1.8388023376464844
+test: Accuracy 2103/10000 (21%)
+Epoch 19 Testing loss: 1.8331035375595093
+test: Accuracy 2144/10000 (21%)
+Epoch 20 Testing loss: 1.8296705484390259
+test: Accuracy 2121/10000 (21%)
+Epoch 21 Testing loss: 1.8072916269302368
+test: Accuracy 2123/10000 (21%)
+Epoch 22 Testing loss: 1.7858597040176392
+test: Accuracy 2451/10000 (25%)
+Epoch 23 Testing loss: 1.7507946491241455
+test: Accuracy 2469/10000 (25%)
+Epoch 24 Testing loss: 1.7643810510635376
+test: Accuracy 2425/10000 (24%)
+Epoch 25 Testing loss: 1.7340408563613892
+test: Accuracy 2621/10000 (26%)
+Epoch 26 Testing loss: 1.7204828262329102
+test: Accuracy 2644/10000 (26%)
+Epoch 27 Testing loss: 1.6970938444137573
+test: Accuracy 2757/10000 (28%)
+Epoch 28 Testing loss: 1.6961208581924438
+test: Accuracy 2755/10000 (28%)
+Epoch 29 Testing loss: 1.591566801071167
+test: Accuracy 3128/10000 (31%)
+Epoch 30 Testing loss: 1.5634735822677612
+test: Accuracy 3216/10000 (32%)
+Epoch 31 Testing loss: 1.542291283607483
+test: Accuracy 3440/10000 (34%)
+Epoch 32 Testing loss: 1.5815733671188354
+test: Accuracy 3371/10000 (34%)
+Epoch 33 Testing loss: 1.5583051443099976
+test: Accuracy 3696/10000 (37%)
+Epoch 34 Testing loss: 1.469616174697876
+test: Accuracy 4345/10000 (43%)
+Epoch 35 Testing loss: 1.348584771156311
+test: Accuracy 5028/10000 (50%)
+Epoch 36 Testing loss: 1.3684417009353638
+test: Accuracy 5309/10000 (53%)
+Epoch 37 Testing loss: 1.3839911222457886
+test: Accuracy 5395/10000 (54%)
+Epoch 38 Testing loss: 1.282725214958191
+test: Accuracy 5610/10000 (56%)
+Epoch 39 Testing loss: 1.281799077987671
+test: Accuracy 5671/10000 (57%)
+Epoch 40 Testing loss: 1.291155219078064
+test: Accuracy 5784/10000 (58%)
+Epoch 41 Testing loss: 1.4154497385025024
+test: Accuracy 5749/10000 (57%)
+Epoch 42 Testing loss: 1.4755966663360596
+test: Accuracy 5580/10000 (56%)
+Epoch 43 Testing loss: 1.2496826648712158
+test: Accuracy 6153/10000 (62%)
+Epoch 44 Testing loss: 1.4383357763290405
+test: Accuracy 5794/10000 (58%)
+Epoch 45 Testing loss: 1.3917616605758667
+test: Accuracy 6060/10000 (61%)
+Epoch 46 Testing loss: 1.180393934249878
+test: Accuracy 6316/10000 (63%)
+Epoch 47 Testing loss: 1.1602275371551514
+test: Accuracy 6439/10000 (64%)
+Epoch 48 Testing loss: 1.1356054544448853
+test: Accuracy 6559/10000 (66%)
+Epoch 49 Testing loss: 1.108164668083191
+test: Accuracy 6703/10000 (67%)
+Epoch 50 Testing loss: 1.11335027217865
+test: Accuracy 6763/10000 (68%)
+Epoch 51 Testing loss: 1.1636953353881836
+test: Accuracy 6698/10000 (67%)
+Epoch 52 Testing loss: 1.1165446043014526
+test: Accuracy 6922/10000 (69%)
+Epoch 53 Testing loss: 1.1959642171859741
+test: Accuracy 6706/10000 (67%)
+Epoch 54 Testing loss: 1.1408847570419312
+test: Accuracy 6976/10000 (70%)
+Epoch 55 Testing loss: 1.1192046403884888
+test: Accuracy 7069/10000 (71%)
+Epoch 56 Testing loss: 1.086344599723816
+test: Accuracy 6994/10000 (70%)
+Epoch 57 Testing loss: 1.1355160474777222
+test: Accuracy 7092/10000 (71%)
+Epoch 58 Testing loss: 1.1599429845809937
+test: Accuracy 7023/10000 (70%)
+Epoch 59 Testing loss: 1.34882390499115
+test: Accuracy 6704/10000 (67%)
+Epoch 60 Testing loss: 1.1355934143066406
+test: Accuracy 7158/10000 (72%)
+Epoch 61 Testing loss: 1.1970895528793335
+test: Accuracy 7007/10000 (70%)
+Epoch 62 Testing loss: 1.2508543729782104
+test: Accuracy 7028/10000 (70%)
+Epoch 63 Testing loss: 1.2672408819198608
+test: Accuracy 7002/10000 (70%)
+Epoch 64 Testing loss: 1.221555233001709
+test: Accuracy 7175/10000 (72%)
+Epoch 65 Testing loss: 1.2138599157333374
+test: Accuracy 7163/10000 (72%)
+Epoch 66 Testing loss: 1.2463146448135376
+test: Accuracy 7165/10000 (72%)
+Epoch 67 Testing loss: 1.2634410858154297
+test: Accuracy 7080/10000 (71%)
+Epoch 68 Testing loss: 1.2572790384292603
+test: Accuracy 7213/10000 (72%)
+Epoch 69 Testing loss: 1.2460137605667114
+test: Accuracy 7217/10000 (72%)
+Epoch 70 Testing loss: 1.2220717668533325
+test: Accuracy 7273/10000 (73%)
+Epoch 71 Testing loss: 1.2959659099578857
+test: Accuracy 7159/10000 (72%)
+Epoch 72 Testing loss: 1.2269070148468018
+test: Accuracy 7332/10000 (73%)
+Epoch 73 Testing loss: 1.301095962524414
+test: Accuracy 7237/10000 (72%)
+Epoch 74 Testing loss: 1.3456778526306152
+test: Accuracy 7150/10000 (72%)
+Epoch 75 Testing loss: 1.3137198686599731
+test: Accuracy 7251/10000 (73%)
+Epoch 76 Testing loss: 1.2778258323669434
+test: Accuracy 7282/10000 (73%)
+Epoch 77 Testing loss: 1.3055602312088013
+test: Accuracy 7298/10000 (73%)
+Epoch 78 Testing loss: 1.2943278551101685
+test: Accuracy 7293/10000 (73%)
+Epoch 79 Testing loss: 1.333013892173767
+test: Accuracy 7323/10000 (73%)
+Epoch 80 Testing loss: 1.3159574270248413
+test: Accuracy 7303/10000 (73%)
+Epoch 81 Testing loss: 1.3548835515975952
+test: Accuracy 7340/10000 (73%)
+Epoch 82 Testing loss: 1.3320850133895874
+test: Accuracy 7326/10000 (73%)
+Epoch 83 Testing loss: 1.361520767211914
+test: Accuracy 7301/10000 (73%)
+Epoch 84 Testing loss: 1.350989580154419
+test: Accuracy 7369/10000 (74%)
+Epoch 85 Testing loss: 1.450413465499878
+test: Accuracy 7265/10000 (73%)
+Epoch 86 Testing loss: 1.395419955253601
+test: Accuracy 7359/10000 (74%)
+Epoch 87 Testing loss: 1.497915506362915
+test: Accuracy 7233/10000 (72%)
+Epoch 88 Testing loss: 1.3618534803390503
+test: Accuracy 7374/10000 (74%)
+Epoch 89 Testing loss: 1.3864409923553467
+test: Accuracy 7386/10000 (74%)
+Epoch 90 Testing loss: 1.368298888206482
+test: Accuracy 7400/10000 (74%)
+Epoch 91 Testing loss: 1.4302858114242554
+test: Accuracy 7403/10000 (74%)
+Epoch 92 Testing loss: 1.3423748016357422
+test: Accuracy 7398/10000 (74%)
+Epoch 93 Testing loss: 1.3778202533721924
+test: Accuracy 7403/10000 (74%)
+Epoch 94 Testing loss: 1.405458927154541
+test: Accuracy 7387/10000 (74%)
+Epoch 95 Testing loss: 1.443603277206421
+test: Accuracy 7359/10000 (74%)
+Epoch 96 Testing loss: 1.4680613279342651
+test: Accuracy 7350/10000 (74%)
+Epoch 97 Testing loss: 1.4331697225570679
+test: Accuracy 7364/10000 (74%)
+Epoch 98 Testing loss: 1.4410046339035034
+test: Accuracy 7412/10000 (74%)
+Epoch 99 Testing loss: 1.3886841535568237
+test: Accuracy 7399/10000 (74%)
+Epoch 100 Testing loss: 1.4175238609313965
+test: Accuracy 7433/10000 (74%)
+Epoch 101 Testing loss: 1.3987308740615845
+test: Accuracy 7397/10000 (74%)
+Epoch 102 Testing loss: 1.3980321884155273
+test: Accuracy 7450/10000 (74%)
+Epoch 103 Testing loss: 1.460633635520935
+test: Accuracy 7427/10000 (74%)
+Epoch 104 Testing loss: 1.4874600172042847
+test: Accuracy 7404/10000 (74%)
+Epoch 105 Testing loss: 1.4449567794799805
+test: Accuracy 7429/10000 (74%)
+Epoch 106 Testing loss: 1.4448292255401611
+test: Accuracy 7447/10000 (74%)
+Epoch 107 Testing loss: 1.4546047449111938
+test: Accuracy 7432/10000 (74%)
+Epoch 108 Testing loss: 1.4466618299484253
+test: Accuracy 7495/10000 (75%)
+Epoch 109 Testing loss: 1.4350178241729736
+test: Accuracy 7474/10000 (75%)
+Epoch 110 Testing loss: 1.4900422096252441
+test: Accuracy 7415/10000 (74%)
+Epoch 111 Testing loss: 1.4371331930160522
+test: Accuracy 7471/10000 (75%)
+Epoch 112 Testing loss: 1.4448883533477783
+test: Accuracy 7492/10000 (75%)
+Epoch 113 Testing loss: 1.446375846862793
+test: Accuracy 7465/10000 (75%)
+Epoch 114 Testing loss: 1.4821465015411377
+test: Accuracy 7437/10000 (74%)
+Epoch 115 Testing loss: 1.4569529294967651
+test: Accuracy 7491/10000 (75%)
+Epoch 116 Testing loss: 1.481458306312561
+test: Accuracy 7493/10000 (75%)
+Epoch 117 Testing loss: 1.4915993213653564
+test: Accuracy 7476/10000 (75%)
+Epoch 118 Testing loss: 1.4930108785629272
+test: Accuracy 7498/10000 (75%)
+Epoch 119 Testing loss: 1.4954804182052612
+test: Accuracy 7460/10000 (75%)
+Epoch 120 Testing loss: 1.5330265760421753
+test: Accuracy 7479/10000 (75%)
+Epoch 121 Testing loss: 1.5500096082687378
+test: Accuracy 7450/10000 (74%)
+Epoch 122 Testing loss: 1.5092321634292603
+test: Accuracy 7537/10000 (75%)
+Epoch 123 Testing loss: 1.597953200340271
+test: Accuracy 7406/10000 (74%)
+Epoch 124 Testing loss: 1.4996967315673828
+test: Accuracy 7512/10000 (75%)
+Epoch 125 Testing loss: 1.5264164209365845
+test: Accuracy 7491/10000 (75%)
+Epoch 126 Testing loss: 1.4990416765213013
+test: Accuracy 7497/10000 (75%)
+Epoch 127 Testing loss: 1.5010225772857666
+test: Accuracy 7509/10000 (75%)
+Epoch 128 Testing loss: 1.5156323909759521
+test: Accuracy 7507/10000 (75%)
+Epoch 129 Testing loss: 1.5314459800720215
+test: Accuracy 7527/10000 (75%)
+Epoch 130 Testing loss: 1.5404800176620483
+test: Accuracy 7530/10000 (75%)
+Epoch 131 Testing loss: 1.563307762145996
+test: Accuracy 7497/10000 (75%)
+Epoch 132 Testing loss: 1.4864009618759155
+test: Accuracy 7510/10000 (75%)
+Epoch 0 Testing loss: 2.3039157390594482
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.302931547164917
+test: Accuracy 1000/10000 (10%)
+Epoch 0 Testing loss: 2.3049166202545166
+test: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3593595027923584
+test: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.371459484100342
+test: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.372283458709717
+test: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.3707940578460693
+test: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.370323896408081
+test: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.3695626258850098
+test: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.3740036487579346
+test: Accuracy 1000/10000 (10%)
+Epoch 8 Testing loss: 2.383321523666382
+test: Accuracy 1000/10000 (10%)
+Epoch 9 Testing loss: 2.356356382369995
+test: Accuracy 1000/10000 (10%)
+Epoch 10 Testing loss: 2.2798912525177
+test: Accuracy 1304/10000 (13%)
+Epoch 11 Testing loss: 2.251002073287964
+test: Accuracy 1406/10000 (14%)
+Epoch 12 Testing loss: 2.225363254547119
+test: Accuracy 1556/10000 (16%)
+Epoch 13 Testing loss: 2.231043577194214
+test: Accuracy 1319/10000 (13%)
+Epoch 14 Testing loss: 2.3038840293884277
+test: Accuracy 1343/10000 (13%)
+Epoch 15 Testing loss: 2.2618606090545654
+test: Accuracy 1208/10000 (12%)
+Epoch 16 Testing loss: 1.9987833499908447
+test: Accuracy 1862/10000 (19%)
+Epoch 17 Testing loss: 1.8601408004760742
+test: Accuracy 2006/10000 (20%)
+Epoch 18 Testing loss: 1.836948037147522
+test: Accuracy 2070/10000 (21%)
+Epoch 19 Testing loss: 1.823759913444519
+test: Accuracy 2130/10000 (21%)
+Epoch 20 Testing loss: 1.8049801588058472
+test: Accuracy 2203/10000 (22%)
+Epoch 21 Testing loss: 1.7939480543136597
+test: Accuracy 2191/10000 (22%)
+Epoch 22 Testing loss: 1.773767113685608
+test: Accuracy 2372/10000 (24%)
+Epoch 23 Testing loss: 1.7719135284423828
+test: Accuracy 2519/10000 (25%)
+Epoch 24 Testing loss: 1.7220407724380493
+test: Accuracy 2757/10000 (28%)
+Epoch 25 Testing loss: 1.7192509174346924
+test: Accuracy 2840/10000 (28%)
+Epoch 26 Testing loss: 1.7074302434921265
+test: Accuracy 2842/10000 (28%)
+Epoch 27 Testing loss: 1.7344671487808228
+test: Accuracy 2859/10000 (29%)
+Epoch 28 Testing loss: 1.6539090871810913
+test: Accuracy 3056/10000 (31%)
+Epoch 29 Testing loss: 1.631080985069275
+test: Accuracy 3037/10000 (30%)
+Epoch 30 Testing loss: 1.6081479787826538
+test: Accuracy 3238/10000 (32%)
+Epoch 31 Testing loss: 1.5754281282424927
+test: Accuracy 3329/10000 (33%)
+Epoch 32 Testing loss: 1.5306906700134277
+test: Accuracy 3540/10000 (35%)
+Epoch 33 Testing loss: 1.4999706745147705
+test: Accuracy 3729/10000 (37%)
+Epoch 34 Testing loss: 1.471634030342102
+test: Accuracy 3790/10000 (38%)
+Epoch 35 Testing loss: 1.515594244003296
+test: Accuracy 3782/10000 (38%)
+Epoch 36 Testing loss: 1.4935369491577148
+test: Accuracy 4254/10000 (43%)
+Epoch 37 Testing loss: 1.3356472253799438
+test: Accuracy 4979/10000 (50%)
+Epoch 38 Testing loss: 1.312393069267273
+test: Accuracy 5087/10000 (51%)
+Epoch 39 Testing loss: 1.245909571647644
+test: Accuracy 5475/10000 (55%)
+Epoch 40 Testing loss: 1.4956915378570557
+test: Accuracy 4796/10000 (48%)
+Epoch 41 Testing loss: 1.3189436197280884
+test: Accuracy 5712/10000 (57%)
+Epoch 42 Testing loss: 1.2868372201919556
+test: Accuracy 5667/10000 (57%)
+Epoch 43 Testing loss: 1.2921600341796875
+test: Accuracy 5953/10000 (60%)
+Epoch 44 Testing loss: 1.2849773168563843
+test: Accuracy 5815/10000 (58%)
+Epoch 45 Testing loss: 1.219767689704895
+test: Accuracy 6178/10000 (62%)
+Epoch 46 Testing loss: 1.2501335144042969
+test: Accuracy 6165/10000 (62%)
+Epoch 47 Testing loss: 1.547037959098816
+test: Accuracy 5531/10000 (55%)
+Epoch 48 Testing loss: 1.2727062702178955
+test: Accuracy 6312/10000 (63%)
+Epoch 49 Testing loss: 1.305383324623108
+test: Accuracy 6200/10000 (62%)
+Epoch 50 Testing loss: 1.359603762626648
+test: Accuracy 6318/10000 (63%)
+Epoch 51 Testing loss: 1.4942420721054077
+test: Accuracy 6163/10000 (62%)
+Epoch 52 Testing loss: 1.4087198972702026
+test: Accuracy 6390/10000 (64%)
+Epoch 53 Testing loss: 1.465592861175537
+test: Accuracy 6402/10000 (64%)
+Epoch 54 Testing loss: 1.4353816509246826
+test: Accuracy 6542/10000 (65%)
+Epoch 55 Testing loss: 1.4240015745162964
+test: Accuracy 6551/10000 (66%)
+Epoch 56 Testing loss: 1.5323032140731812
+test: Accuracy 6530/10000 (65%)
+Epoch 57 Testing loss: 1.4862134456634521
+test: Accuracy 6564/10000 (66%)
+Epoch 58 Testing loss: 1.5478121042251587
+test: Accuracy 6631/10000 (66%)
+Epoch 59 Testing loss: 1.6103276014328003
+test: Accuracy 6603/10000 (66%)
+Epoch 60 Testing loss: 1.518062949180603
+test: Accuracy 6623/10000 (66%)
+Epoch 61 Testing loss: 1.251356601715088
+test: Accuracy 6894/10000 (69%)
+Epoch 62 Testing loss: 1.3050934076309204
+test: Accuracy 6846/10000 (68%)
+Epoch 63 Testing loss: 1.2423027753829956
+test: Accuracy 7034/10000 (70%)
+Epoch 64 Testing loss: 1.2390774488449097
+test: Accuracy 7038/10000 (70%)
+Epoch 65 Testing loss: 1.3076213598251343
+test: Accuracy 6967/10000 (70%)
+Epoch 66 Testing loss: 1.208404302597046
+test: Accuracy 7113/10000 (71%)
+Epoch 67 Testing loss: 1.262642502784729
+test: Accuracy 7169/10000 (72%)
+Epoch 68 Testing loss: 1.2443355321884155
+test: Accuracy 7132/10000 (71%)
+Epoch 69 Testing loss: 1.2448856830596924
+test: Accuracy 7174/10000 (72%)
+Epoch 70 Testing loss: 1.29848313331604
+test: Accuracy 7124/10000 (71%)
+Epoch 71 Testing loss: 1.2728856801986694
+test: Accuracy 7198/10000 (72%)
+Epoch 72 Testing loss: 1.296762466430664
+test: Accuracy 7212/10000 (72%)
+Epoch 73 Testing loss: 1.3014438152313232
+test: Accuracy 7208/10000 (72%)
+Epoch 74 Testing loss: 1.2481651306152344
+test: Accuracy 7246/10000 (72%)
+Epoch 75 Testing loss: 1.2874653339385986
+test: Accuracy 7186/10000 (72%)
+Epoch 76 Testing loss: 1.2704129219055176
+test: Accuracy 7231/10000 (72%)
+Epoch 77 Testing loss: 1.2899123430252075
+test: Accuracy 7267/10000 (73%)
+Epoch 78 Testing loss: 1.443894386291504
+test: Accuracy 6844/10000 (68%)
+Epoch 79 Testing loss: 1.3022732734680176
+test: Accuracy 7335/10000 (73%)
+Epoch 80 Testing loss: 1.3581727743148804
+test: Accuracy 7318/10000 (73%)
+Epoch 81 Testing loss: 1.3503137826919556
+test: Accuracy 7268/10000 (73%)
+Epoch 82 Testing loss: 1.318644404411316
+test: Accuracy 7365/10000 (74%)
+Epoch 83 Testing loss: 1.3471412658691406
+test: Accuracy 7311/10000 (73%)
+Epoch 84 Testing loss: 1.324871301651001
+test: Accuracy 7326/10000 (73%)
+Epoch 85 Testing loss: 1.3149211406707764
+test: Accuracy 7382/10000 (74%)
+Epoch 86 Testing loss: 1.3556675910949707
+test: Accuracy 7331/10000 (73%)
+Epoch 87 Testing loss: 1.3319141864776611
+test: Accuracy 7355/10000 (74%)
+Epoch 88 Testing loss: 1.2884788513183594
+test: Accuracy 7407/10000 (74%)
+Epoch 89 Testing loss: 1.341316819190979
+test: Accuracy 7398/10000 (74%)
+Epoch 90 Testing loss: 1.3672863245010376
+test: Accuracy 7354/10000 (74%)
+Epoch 91 Testing loss: 1.3408114910125732
+test: Accuracy 7318/10000 (73%)
+Epoch 92 Testing loss: 1.461360216140747
+test: Accuracy 7300/10000 (73%)
+Epoch 93 Testing loss: 1.3760099411010742
+test: Accuracy 7364/10000 (74%)
+Epoch 94 Testing loss: 1.3582724332809448
+test: Accuracy 7437/10000 (74%)
+Epoch 95 Testing loss: 1.4169050455093384
+test: Accuracy 7361/10000 (74%)
+Epoch 96 Testing loss: 1.3874337673187256
+test: Accuracy 7419/10000 (74%)
+Epoch 97 Testing loss: 1.3599907159805298
+test: Accuracy 7424/10000 (74%)
+Epoch 98 Testing loss: 1.364038348197937
+test: Accuracy 7441/10000 (74%)
+Epoch 99 Testing loss: 1.366949200630188
+test: Accuracy 7431/10000 (74%)
+Epoch 100 Testing loss: 1.3985153436660767
+test: Accuracy 7454/10000 (75%)
+Epoch 101 Testing loss: 1.4737399816513062
+test: Accuracy 7402/10000 (74%)
+Epoch 102 Testing loss: 1.4597972631454468
+test: Accuracy 7395/10000 (74%)
+Epoch 103 Testing loss: 1.4411731958389282
+test: Accuracy 7420/10000 (74%)
+Epoch 104 Testing loss: 1.433597445487976
+test: Accuracy 7454/10000 (75%)
+Epoch 105 Testing loss: 1.3947265148162842
+test: Accuracy 7448/10000 (74%)
+Epoch 106 Testing loss: 1.4664653539657593
+test: Accuracy 7427/10000 (74%)
+Epoch 107 Testing loss: 1.4003618955612183
+test: Accuracy 7471/10000 (75%)
+Epoch 108 Testing loss: 1.4473869800567627
+test: Accuracy 7438/10000 (74%)
+Epoch 109 Testing loss: 1.4291478395462036
+test: Accuracy 7477/10000 (75%)
+Epoch 110 Testing loss: 1.4389050006866455
+test: Accuracy 7470/10000 (75%)
+Epoch 111 Testing loss: 1.4433869123458862
+test: Accuracy 7446/10000 (74%)
+Epoch 112 Testing loss: 1.4501255750656128
+test: Accuracy 7462/10000 (75%)
+Epoch 113 Testing loss: 1.4447506666183472
+test: Accuracy 7434/10000 (74%)
+Epoch 114 Testing loss: 1.40946364402771
+test: Accuracy 7500/10000 (75%)
+Epoch 115 Testing loss: 1.4557174444198608
+test: Accuracy 7476/10000 (75%)
+Epoch 116 Testing loss: 1.5006623268127441
+test: Accuracy 7451/10000 (75%)
+Epoch 117 Testing loss: 1.4433945417404175
+test: Accuracy 7525/10000 (75%)
+Epoch 118 Testing loss: 1.4585884809494019
+test: Accuracy 7489/10000 (75%)
+Epoch 119 Testing loss: 1.4935334920883179
+test: Accuracy 7473/10000 (75%)
+Epoch 120 Testing loss: 1.470137596130371
+test: Accuracy 7515/10000 (75%)
+Epoch 121 Testing loss: 1.4794673919677734
+test: Accuracy 7522/10000 (75%)
+Epoch 122 Testing loss: 1.5000938177108765
+test: Accuracy 7473/10000 (75%)
+Epoch 123 Testing loss: 1.4742724895477295
+test: Accuracy 7535/10000 (75%)
+Epoch 124 Testing loss: 1.4733834266662598
+test: Accuracy 7532/10000 (75%)
+Epoch 125 Testing loss: 1.4699102640151978
+test: Accuracy 7535/10000 (75%)
+Epoch 126 Testing loss: 1.5536742210388184
+test: Accuracy 7418/10000 (74%)
+Epoch 127 Testing loss: 1.430654525756836
+test: Accuracy 7471/10000 (75%)
+Epoch 128 Testing loss: 1.4291266202926636
+test: Accuracy 7526/10000 (75%)
+Epoch 129 Testing loss: 1.4626811742782593
+test: Accuracy 7523/10000 (75%)
+Epoch 0 Testing loss: 2.304431200027466
+test1040: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3582587242126465
+test1040: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.371450424194336
+test1040: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.3720474243164062
+test1040: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.3708040714263916
+test1040: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.369563341140747
+test1040: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.370504140853882
+test1040: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.370068073272705
+test1040: Accuracy 1000/10000 (10%)
+Epoch 8 Testing loss: 2.380615472793579
+test1040: Accuracy 1000/10000 (10%)
+Epoch 9 Testing loss: 2.329472303390503
+test1040: Accuracy 1000/10000 (10%)
+Epoch 10 Testing loss: 2.2829458713531494
+test1040: Accuracy 907/10000 (9%)
+Epoch 11 Testing loss: 2.269449234008789
+test1040: Accuracy 1552/10000 (16%)
+Epoch 12 Testing loss: 2.2591359615325928
+test1040: Accuracy 1400/10000 (14%)
+Epoch 13 Testing loss: 2.2351629734039307
+test1040: Accuracy 1457/10000 (15%)
+Epoch 14 Testing loss: 2.2304463386535645
+test1040: Accuracy 1440/10000 (14%)
+Epoch 15 Testing loss: 2.129697561264038
+test1040: Accuracy 1671/10000 (17%)
+Epoch 16 Testing loss: 2.0151753425598145
+test1040: Accuracy 1696/10000 (17%)
+Epoch 17 Testing loss: 1.8645957708358765
+test1040: Accuracy 2122/10000 (21%)
+Epoch 18 Testing loss: 1.8495229482650757
+test1040: Accuracy 2210/10000 (22%)
+Epoch 19 Testing loss: 1.8279212713241577
+test1040: Accuracy 2354/10000 (24%)
+Epoch 20 Testing loss: 1.81317937374115
+test1040: Accuracy 2222/10000 (22%)
+Epoch 21 Testing loss: 1.7953922748565674
+test1040: Accuracy 2040/10000 (20%)
+Epoch 22 Testing loss: 1.7726494073867798
+test1040: Accuracy 2298/10000 (23%)
+Epoch 23 Testing loss: 1.7456549406051636
+test1040: Accuracy 2543/10000 (25%)
+Epoch 24 Testing loss: 1.7409495115280151
+test1040: Accuracy 2567/10000 (26%)
+Epoch 25 Testing loss: 1.7354134321212769
+test1040: Accuracy 2683/10000 (27%)
+Epoch 26 Testing loss: 1.62875497341156
+test1040: Accuracy 3034/10000 (30%)
+Epoch 27 Testing loss: 1.6007188558578491
+test1040: Accuracy 3054/10000 (31%)
+Epoch 28 Testing loss: 1.583280086517334
+test1040: Accuracy 3195/10000 (32%)
+Epoch 29 Testing loss: 1.5488324165344238
+test1040: Accuracy 3391/10000 (34%)
+Epoch 30 Testing loss: 1.5286483764648438
+test1040: Accuracy 3595/10000 (36%)
+Epoch 31 Testing loss: 1.587482213973999
+test1040: Accuracy 3718/10000 (37%)
+Epoch 32 Testing loss: 1.3826402425765991
+test1040: Accuracy 4786/10000 (48%)
+Epoch 33 Testing loss: 1.3086484670639038
+test1040: Accuracy 5353/10000 (54%)
+Epoch 34 Testing loss: 1.2776371240615845
+test1040: Accuracy 5446/10000 (54%)
+Epoch 35 Testing loss: 1.2742385864257812
+test1040: Accuracy 5577/10000 (56%)
+Epoch 36 Testing loss: 1.3018711805343628
+test1040: Accuracy 5728/10000 (57%)
+Epoch 37 Testing loss: 1.2208521366119385
+test1040: Accuracy 5938/10000 (59%)
+Epoch 38 Testing loss: 1.2539533376693726
+test1040: Accuracy 5930/10000 (59%)
+Epoch 39 Testing loss: 1.2767544984817505
+test1040: Accuracy 5761/10000 (58%)
+Epoch 40 Testing loss: 1.2089803218841553
+test1040: Accuracy 6127/10000 (61%)
+Epoch 41 Testing loss: 1.1682428121566772
+test1040: Accuracy 6222/10000 (62%)
+Epoch 42 Testing loss: 1.1355851888656616
+test1040: Accuracy 6300/10000 (63%)
+Epoch 43 Testing loss: 1.1729744672775269
+test1040: Accuracy 6344/10000 (63%)
+Epoch 44 Testing loss: 1.0979223251342773
+test1040: Accuracy 6469/10000 (65%)
+Epoch 45 Testing loss: 1.1450196504592896
+test1040: Accuracy 6454/10000 (65%)
+Epoch 46 Testing loss: 1.1903843879699707
+test1040: Accuracy 6364/10000 (64%)
+Epoch 47 Testing loss: 1.118902564048767
+test1040: Accuracy 6669/10000 (67%)
+Epoch 48 Testing loss: 1.1581453084945679
+test1040: Accuracy 6610/10000 (66%)
+Epoch 49 Testing loss: 1.1578477621078491
+test1040: Accuracy 6690/10000 (67%)
+Epoch 50 Testing loss: 1.1968902349472046
+test1040: Accuracy 6689/10000 (67%)
+Epoch 51 Testing loss: 1.1665303707122803
+test1040: Accuracy 6619/10000 (66%)
+Epoch 52 Testing loss: 1.124290108680725
+test1040: Accuracy 6819/10000 (68%)
+Epoch 53 Testing loss: 1.1820241212844849
+test1040: Accuracy 6816/10000 (68%)
+Epoch 54 Testing loss: 1.184008002281189
+test1040: Accuracy 6696/10000 (67%)
+Epoch 55 Testing loss: 1.1406358480453491
+test1040: Accuracy 6882/10000 (69%)
+Epoch 56 Testing loss: 1.1663674116134644
+test1040: Accuracy 6939/10000 (69%)
+Epoch 57 Testing loss: 1.1570348739624023
+test1040: Accuracy 6943/10000 (69%)
+Epoch 58 Testing loss: 1.20015287399292
+test1040: Accuracy 6964/10000 (70%)
+Epoch 59 Testing loss: 1.1903979778289795
+test1040: Accuracy 6933/10000 (69%)
+Epoch 60 Testing loss: 1.1841214895248413
+test1040: Accuracy 6985/10000 (70%)
+Epoch 61 Testing loss: 1.2378692626953125
+test1040: Accuracy 7020/10000 (70%)
+Epoch 62 Testing loss: 1.202065348625183
+test1040: Accuracy 7027/10000 (70%)
+Epoch 63 Testing loss: 1.3088067770004272
+test1040: Accuracy 6947/10000 (69%)
+Epoch 64 Testing loss: 1.3308719396591187
+test1040: Accuracy 6942/10000 (69%)
+Epoch 65 Testing loss: 1.258189082145691
+test1040: Accuracy 7114/10000 (71%)
+Epoch 66 Testing loss: 1.2988842725753784
+test1040: Accuracy 7016/10000 (70%)
+Epoch 67 Testing loss: 1.2945486307144165
+test1040: Accuracy 7115/10000 (71%)
+Epoch 68 Testing loss: 1.2796778678894043
+test1040: Accuracy 7147/10000 (71%)
+Epoch 69 Testing loss: 1.2914083003997803
+test1040: Accuracy 7139/10000 (71%)
+Epoch 70 Testing loss: 1.271743655204773
+test1040: Accuracy 7197/10000 (72%)
+Epoch 71 Testing loss: 1.326410174369812
+test1040: Accuracy 7159/10000 (72%)
+Epoch 72 Testing loss: 1.342411756515503
+test1040: Accuracy 7139/10000 (71%)
+Epoch 73 Testing loss: 1.3475545644760132
+test1040: Accuracy 7197/10000 (72%)
+Epoch 74 Testing loss: 1.3348432779312134
+test1040: Accuracy 7136/10000 (71%)
+Epoch 75 Testing loss: 1.335652470588684
+test1040: Accuracy 7223/10000 (72%)
+Epoch 76 Testing loss: 1.3767026662826538
+test1040: Accuracy 7244/10000 (72%)
+Epoch 77 Testing loss: 1.3633065223693848
+test1040: Accuracy 7208/10000 (72%)
+Epoch 78 Testing loss: 1.3838436603546143
+test1040: Accuracy 7237/10000 (72%)
+Epoch 79 Testing loss: 1.3831400871276855
+test1040: Accuracy 7253/10000 (73%)
+Epoch 80 Testing loss: 1.4116936922073364
+test1040: Accuracy 7218/10000 (72%)
+Epoch 81 Testing loss: 1.3707904815673828
+test1040: Accuracy 7230/10000 (72%)
+Epoch 82 Testing loss: 1.3947868347167969
+test1040: Accuracy 7212/10000 (72%)
+Epoch 83 Testing loss: 1.4517788887023926
+test1040: Accuracy 7221/10000 (72%)
+Epoch 84 Testing loss: 1.411717414855957
+test1040: Accuracy 7234/10000 (72%)
+Epoch 85 Testing loss: 1.4241209030151367
+test1040: Accuracy 7247/10000 (72%)
+Epoch 86 Testing loss: 1.4300532341003418
+test1040: Accuracy 7275/10000 (73%)
+Epoch 87 Testing loss: 1.4479464292526245
+test1040: Accuracy 7270/10000 (73%)
+Epoch 88 Testing loss: 1.4702750444412231
+test1040: Accuracy 7265/10000 (73%)
+Epoch 89 Testing loss: 1.439107060432434
+test1040: Accuracy 7257/10000 (73%)
+Epoch 90 Testing loss: 1.4574898481369019
+test1040: Accuracy 7296/10000 (73%)
+Epoch 91 Testing loss: 1.4634355306625366
+test1040: Accuracy 7333/10000 (73%)
+Epoch 92 Testing loss: 1.4831007719039917
+test1040: Accuracy 7285/10000 (73%)
+Epoch 93 Testing loss: 1.4495303630828857
+test1040: Accuracy 7321/10000 (73%)
+Epoch 94 Testing loss: 1.4984142780303955
+test1040: Accuracy 7207/10000 (72%)
+Epoch 95 Testing loss: 1.4732109308242798
+test1040: Accuracy 7328/10000 (73%)
+Epoch 96 Testing loss: 1.519586205482483
+test1040: Accuracy 7265/10000 (73%)
+Epoch 97 Testing loss: 1.4712971448898315
+test1040: Accuracy 7325/10000 (73%)
+Epoch 98 Testing loss: 1.4725207090377808
+test1040: Accuracy 7344/10000 (73%)
+Epoch 99 Testing loss: 1.5083386898040771
+test1040: Accuracy 7345/10000 (73%)
+Epoch 100 Testing loss: 1.5004099607467651
+test1040: Accuracy 7360/10000 (74%)
+Epoch 101 Testing loss: 1.5032228231430054
+test1040: Accuracy 7378/10000 (74%)
+Epoch 102 Testing loss: 1.5425893068313599
+test1040: Accuracy 7366/10000 (74%)
+Epoch 103 Testing loss: 1.505915641784668
+test1040: Accuracy 7392/10000 (74%)
+Epoch 104 Testing loss: 1.5241302251815796
+test1040: Accuracy 7391/10000 (74%)
+Epoch 105 Testing loss: 1.5093053579330444
+test1040: Accuracy 7374/10000 (74%)
+Epoch 106 Testing loss: 1.5185588598251343
+test1040: Accuracy 7425/10000 (74%)
+Epoch 107 Testing loss: 1.569074034690857
+test1040: Accuracy 7332/10000 (73%)
+Epoch 108 Testing loss: 1.6737228631973267
+test1040: Accuracy 6540/10000 (65%)
+Epoch 109 Testing loss: 1.4789968729019165
+test1040: Accuracy 7362/10000 (74%)
+Epoch 110 Testing loss: 1.4881294965744019
+test1040: Accuracy 7378/10000 (74%)
+Epoch 111 Testing loss: 1.4536727666854858
+test1040: Accuracy 7377/10000 (74%)
+Epoch 112 Testing loss: 1.502012014389038
+test1040: Accuracy 7407/10000 (74%)
+Epoch 113 Testing loss: 1.5119374990463257
+test1040: Accuracy 7388/10000 (74%)
+Epoch 114 Testing loss: 1.5577971935272217
+test1040: Accuracy 7389/10000 (74%)
+Epoch 115 Testing loss: 1.5258551836013794
+test1040: Accuracy 7440/10000 (74%)
+Epoch 116 Testing loss: 1.5954701900482178
+test1040: Accuracy 7419/10000 (74%)
+Epoch 117 Testing loss: 1.544318675994873
+test1040: Accuracy 7415/10000 (74%)
+Epoch 118 Testing loss: 1.546242594718933
+test1040: Accuracy 7436/10000 (74%)
+Epoch 119 Testing loss: 1.573350191116333
+test1040: Accuracy 7435/10000 (74%)
+Epoch 120 Testing loss: 1.5468770265579224
+test1040: Accuracy 7441/10000 (74%)
+Epoch 121 Testing loss: 1.544075846672058
+test1040: Accuracy 7442/10000 (74%)
+Epoch 122 Testing loss: 1.5910413265228271
+test1040: Accuracy 7469/10000 (75%)
+Epoch 123 Testing loss: 1.5371156930923462
+test1040: Accuracy 7409/10000 (74%)
+Epoch 124 Testing loss: 1.5942362546920776
+test1040: Accuracy 7438/10000 (74%)
+Epoch 125 Testing loss: 1.5803383588790894
+test1040: Accuracy 7430/10000 (74%)
+Epoch 126 Testing loss: 1.619665503501892
+test1040: Accuracy 7428/10000 (74%)
+Epoch 127 Testing loss: 1.5867958068847656
+test1040: Accuracy 7458/10000 (75%)
+Epoch 128 Testing loss: 1.5673344135284424
+test1040: Accuracy 7447/10000 (74%)
+Epoch 129 Testing loss: 1.5960248708724976
+test1040: Accuracy 7440/10000 (74%)
+Epoch 130 Testing loss: 1.6095608472824097
+test1040: Accuracy 7429/10000 (74%)
+Epoch 131 Testing loss: 1.5577400922775269
+test1040: Accuracy 7446/10000 (74%)
+Epoch 132 Testing loss: 1.5742076635360718
+test1040: Accuracy 7472/10000 (75%)
+Epoch 0 Testing loss: 4.607907295227051
+testvggcd: Accuracy 100/10000 (1%)
+Epoch 1 Testing loss: 4.312612056732178
+testvggcd: Accuracy 594/10000 (6%)
+Epoch 2 Testing loss: 3.3608925342559814
+testvggcd: Accuracy 1693/10000 (17%)
+Epoch 3 Testing loss: 3.1807408332824707
+testvggcd: Accuracy 1995/10000 (20%)
+Epoch 4 Testing loss: 2.7139997482299805
+testvggcd: Accuracy 2854/10000 (29%)
+Epoch 5 Testing loss: 2.9589569568634033
+testvggcd: Accuracy 2620/10000 (26%)
+Epoch 6 Testing loss: 2.4999611377716064
+testvggcd: Accuracy 3406/10000 (34%)
+Epoch 7 Testing loss: 2.409606695175171
+testvggcd: Accuracy 3812/10000 (38%)
+Epoch 8 Testing loss: 2.144584894180298
+testvggcd: Accuracy 4291/10000 (43%)
+Epoch 9 Testing loss: 2.1192047595977783
+testvggcd: Accuracy 4406/10000 (44%)
+Epoch 10 Testing loss: 1.9651812314987183
+testvggcd: Accuracy 4773/10000 (48%)
+Epoch 11 Testing loss: 1.8089885711669922
+testvggcd: Accuracy 5069/10000 (51%)
+Epoch 12 Testing loss: 1.908097267150879
+testvggcd: Accuracy 4858/10000 (49%)
+Epoch 13 Testing loss: 1.7569859027862549
+testvggcd: Accuracy 5248/10000 (52%)
+Epoch 14 Testing loss: 1.7727994918823242
+testvggcd: Accuracy 5201/10000 (52%)
+Epoch 15 Testing loss: 1.8259810209274292
+testvggcd: Accuracy 5160/10000 (52%)
+Epoch 16 Testing loss: 1.7798302173614502
+testvggcd: Accuracy 5241/10000 (52%)
+Epoch 17 Testing loss: 1.6847610473632812
+testvggcd: Accuracy 5529/10000 (55%)
+Epoch 18 Testing loss: 1.7001084089279175
+testvggcd: Accuracy 5543/10000 (55%)
+Epoch 19 Testing loss: 1.6413764953613281
+testvggcd: Accuracy 5633/10000 (56%)
+Epoch 20 Testing loss: 1.703074336051941
+testvggcd: Accuracy 5589/10000 (56%)
+Epoch 21 Testing loss: 1.8134548664093018
+testvggcd: Accuracy 5446/10000 (54%)
+Epoch 22 Testing loss: 1.6657087802886963
+testvggcd: Accuracy 5709/10000 (57%)
+Epoch 23 Testing loss: 1.796210527420044
+testvggcd: Accuracy 5555/10000 (56%)
+Epoch 24 Testing loss: 1.680521011352539
+testvggcd: Accuracy 5775/10000 (58%)
+Epoch 25 Testing loss: 1.8891677856445312
+testvggcd: Accuracy 5459/10000 (55%)
+Epoch 26 Testing loss: 1.7229801416397095
+testvggcd: Accuracy 5678/10000 (57%)
+Epoch 27 Testing loss: 1.6589241027832031
+testvggcd: Accuracy 5880/10000 (59%)
+Epoch 28 Testing loss: 1.685738205909729
+testvggcd: Accuracy 5884/10000 (59%)
+Epoch 29 Testing loss: 1.7377941608428955
+testvggcd: Accuracy 5819/10000 (58%)
+Epoch 30 Testing loss: 1.7434653043746948
+testvggcd: Accuracy 5770/10000 (58%)
+Epoch 31 Testing loss: 1.7335859537124634
+testvggcd: Accuracy 5930/10000 (59%)
+Epoch 32 Testing loss: 1.8331085443496704
+testvggcd: Accuracy 5814/10000 (58%)
+Epoch 33 Testing loss: 1.734139323234558
+testvggcd: Accuracy 5916/10000 (59%)
+Epoch 34 Testing loss: 1.8825901746749878
+testvggcd: Accuracy 5829/10000 (58%)
+Epoch 35 Testing loss: 1.8864973783493042
+testvggcd: Accuracy 5897/10000 (59%)
+Epoch 36 Testing loss: 1.8711541891098022
+testvggcd: Accuracy 5922/10000 (59%)
+Epoch 37 Testing loss: 1.9964126348495483
+testvggcd: Accuracy 5756/10000 (58%)
+Epoch 38 Testing loss: 1.7748810052871704
+testvggcd: Accuracy 6094/10000 (61%)
+Epoch 39 Testing loss: 2.0135538578033447
+testvggcd: Accuracy 5900/10000 (59%)
+Epoch 40 Testing loss: 1.8803294897079468
+testvggcd: Accuracy 5964/10000 (60%)
+Epoch 41 Testing loss: 1.8591898679733276
+testvggcd: Accuracy 6033/10000 (60%)
+Epoch 42 Testing loss: 2.0049424171447754
+testvggcd: Accuracy 6016/10000 (60%)
+Epoch 43 Testing loss: 1.9728481769561768
+testvggcd: Accuracy 6017/10000 (60%)
+Epoch 44 Testing loss: 2.133162021636963
+testvggcd: Accuracy 5911/10000 (59%)
+Epoch 45 Testing loss: 1.9628480672836304
+testvggcd: Accuracy 6086/10000 (61%)
+Epoch 46 Testing loss: 2.107333183288574
+testvggcd: Accuracy 5876/10000 (59%)
+Epoch 47 Testing loss: 2.171368360519409
+testvggcd: Accuracy 5768/10000 (58%)
+Epoch 48 Testing loss: 2.264497995376587
+testvggcd: Accuracy 5747/10000 (57%)
+Epoch 49 Testing loss: 2.313439130783081
+testvggcd: Accuracy 5861/10000 (59%)
+Epoch 50 Testing loss: 2.267087936401367
+testvggcd: Accuracy 5943/10000 (59%)
+Epoch 51 Testing loss: 2.1356148719787598
+testvggcd: Accuracy 6120/10000 (61%)
+Epoch 52 Testing loss: 2.301966905593872
+testvggcd: Accuracy 6079/10000 (61%)
+Epoch 53 Testing loss: 2.564908981323242
+testvggcd: Accuracy 5778/10000 (58%)
+Epoch 54 Testing loss: 2.318735122680664
+testvggcd: Accuracy 5896/10000 (59%)
+Epoch 55 Testing loss: 2.349350690841675
+testvggcd: Accuracy 5974/10000 (60%)
+Epoch 56 Testing loss: 2.2612998485565186
+testvggcd: Accuracy 6086/10000 (61%)
+Epoch 57 Testing loss: 2.400042772293091
+testvggcd: Accuracy 5914/10000 (59%)
+Epoch 58 Testing loss: 2.248321294784546
+testvggcd: Accuracy 6171/10000 (62%)
+Epoch 59 Testing loss: 2.4813380241394043
+testvggcd: Accuracy 5920/10000 (59%)
+Epoch 60 Testing loss: 2.4359290599823
+testvggcd: Accuracy 6102/10000 (61%)
+Epoch 61 Testing loss: 2.309016704559326
+testvggcd: Accuracy 6141/10000 (61%)
+Epoch 62 Testing loss: 2.442889928817749
+testvggcd: Accuracy 6112/10000 (61%)
+Epoch 63 Testing loss: 2.321246385574341
+testvggcd: Accuracy 6165/10000 (62%)
+Epoch 64 Testing loss: 2.770148992538452
+testvggcd: Accuracy 5804/10000 (58%)
+Epoch 65 Testing loss: 2.5887773036956787
+testvggcd: Accuracy 6027/10000 (60%)
+Epoch 66 Testing loss: 2.5678255558013916
+testvggcd: Accuracy 6019/10000 (60%)
+Epoch 67 Testing loss: 2.5648458003997803
+testvggcd: Accuracy 5998/10000 (60%)
+Epoch 68 Testing loss: 2.552170753479004
+testvggcd: Accuracy 5959/10000 (60%)
+Epoch 69 Testing loss: 2.4789633750915527
+testvggcd: Accuracy 6129/10000 (61%)
+Epoch 70 Testing loss: 2.471440076828003
+testvggcd: Accuracy 6210/10000 (62%)
+Epoch 71 Testing loss: 2.546320676803589
+testvggcd: Accuracy 6127/10000 (61%)
+Epoch 72 Testing loss: 2.5402843952178955
+testvggcd: Accuracy 6203/10000 (62%)
+Epoch 73 Testing loss: 2.5712170600891113
+testvggcd: Accuracy 6117/10000 (61%)
+Epoch 74 Testing loss: 2.771557331085205
+testvggcd: Accuracy 5954/10000 (60%)
+Epoch 75 Testing loss: 2.6652605533599854
+testvggcd: Accuracy 6077/10000 (61%)
+Epoch 76 Testing loss: 3.0045933723449707
+testvggcd: Accuracy 5830/10000 (58%)
+Epoch 77 Testing loss: 2.6548001766204834
+testvggcd: Accuracy 6035/10000 (60%)
+Epoch 78 Testing loss: 2.6810593605041504
+testvggcd: Accuracy 6128/10000 (61%)
+Epoch 79 Testing loss: 2.636535167694092
+testvggcd: Accuracy 6148/10000 (61%)
+Epoch 80 Testing loss: 2.4985783100128174
+testvggcd: Accuracy 6167/10000 (62%)
+Epoch 81 Testing loss: 2.5644071102142334
+testvggcd: Accuracy 6177/10000 (62%)
+Epoch 82 Testing loss: 2.654721975326538
+testvggcd: Accuracy 6089/10000 (61%)
+Epoch 83 Testing loss: 2.6940016746520996
+testvggcd: Accuracy 6151/10000 (62%)
+Epoch 84 Testing loss: 2.71484637260437
+testvggcd: Accuracy 6016/10000 (60%)
+Epoch 85 Testing loss: 2.646573305130005
+testvggcd: Accuracy 6156/10000 (62%)
+Epoch 86 Testing loss: 2.725059747695923
+testvggcd: Accuracy 6028/10000 (60%)
+Epoch 87 Testing loss: 2.5909669399261475
+testvggcd: Accuracy 6188/10000 (62%)
+Epoch 88 Testing loss: 2.6019492149353027
+testvggcd: Accuracy 6139/10000 (61%)
+Epoch 89 Testing loss: 2.543978452682495
+testvggcd: Accuracy 6286/10000 (63%)
+Epoch 90 Testing loss: 2.5338735580444336
+testvggcd: Accuracy 6307/10000 (63%)
+Epoch 91 Testing loss: 2.63555908203125
+testvggcd: Accuracy 6251/10000 (63%)
+Epoch 92 Testing loss: 2.636028528213501
+testvggcd: Accuracy 6117/10000 (61%)
+Epoch 93 Testing loss: 2.60188627243042
+testvggcd: Accuracy 6249/10000 (62%)
+Epoch 94 Testing loss: 3.1131820678710938
+testvggcd: Accuracy 5796/10000 (58%)
+Epoch 95 Testing loss: 2.8778955936431885
+testvggcd: Accuracy 5965/10000 (60%)
+Epoch 96 Testing loss: 2.65250563621521
+testvggcd: Accuracy 6153/10000 (62%)
+Epoch 97 Testing loss: 2.8737199306488037
+testvggcd: Accuracy 6038/10000 (60%)
+Epoch 98 Testing loss: 2.751699447631836
+testvggcd: Accuracy 6204/10000 (62%)
+Epoch 99 Testing loss: 2.6281495094299316
+testvggcd: Accuracy 6279/10000 (63%)
+Epoch 0 Testing loss: 4.605458736419678
+testvggcd0.5: Accuracy 100/10000 (1%)
+Epoch 1 Testing loss: 4.488223075866699
+testvggcd0.5: Accuracy 258/10000 (3%)
+Epoch 2 Testing loss: 4.172154903411865
+testvggcd0.5: Accuracy 516/10000 (5%)
+Epoch 3 Testing loss: 3.9455151557922363
+testvggcd0.5: Accuracy 727/10000 (7%)
+Epoch 4 Testing loss: 3.8152358531951904
+testvggcd0.5: Accuracy 948/10000 (9%)
+Epoch 5 Testing loss: 3.622343063354492
+testvggcd0.5: Accuracy 1135/10000 (11%)
+Epoch 6 Testing loss: 3.476830005645752
+testvggcd0.5: Accuracy 1425/10000 (14%)
+Epoch 7 Testing loss: 3.2268826961517334
+testvggcd0.5: Accuracy 1818/10000 (18%)
+Epoch 8 Testing loss: 3.08009672164917
+testvggcd0.5: Accuracy 2054/10000 (21%)
+Epoch 9 Testing loss: 2.994932174682617
+testvggcd0.5: Accuracy 2265/10000 (23%)
+Epoch 10 Testing loss: 3.0618796348571777
+testvggcd0.5: Accuracy 2230/10000 (22%)
+Epoch 11 Testing loss: 2.7855522632598877
+testvggcd0.5: Accuracy 2761/10000 (28%)
+Epoch 12 Testing loss: 2.734083890914917
+testvggcd0.5: Accuracy 2870/10000 (29%)
+Epoch 13 Testing loss: 2.61504864692688
+testvggcd0.5: Accuracy 3039/10000 (30%)
+Epoch 14 Testing loss: 2.57564640045166
+testvggcd0.5: Accuracy 3199/10000 (32%)
+Epoch 15 Testing loss: 2.502678632736206
+testvggcd0.5: Accuracy 3319/10000 (33%)
+Epoch 16 Testing loss: 2.339272975921631
+testvggcd0.5: Accuracy 3747/10000 (37%)
+Epoch 17 Testing loss: 2.2599480152130127
+testvggcd0.5: Accuracy 3886/10000 (39%)
+Epoch 18 Testing loss: 2.2669689655303955
+testvggcd0.5: Accuracy 3859/10000 (39%)
+Epoch 19 Testing loss: 2.240117311477661
+testvggcd0.5: Accuracy 4030/10000 (40%)
+Epoch 20 Testing loss: 2.1840717792510986
+testvggcd0.5: Accuracy 4197/10000 (42%)
+Epoch 21 Testing loss: 2.285022497177124
+testvggcd0.5: Accuracy 3967/10000 (40%)
+Epoch 22 Testing loss: 2.0426013469696045
+testvggcd0.5: Accuracy 4508/10000 (45%)
+Epoch 23 Testing loss: 2.0252768993377686
+testvggcd0.5: Accuracy 4481/10000 (45%)
+Epoch 24 Testing loss: 2.16499400138855
+testvggcd0.5: Accuracy 4336/10000 (43%)
+Epoch 25 Testing loss: 1.9806047677993774
+testvggcd0.5: Accuracy 4646/10000 (46%)
+Epoch 26 Testing loss: 1.886562705039978
+testvggcd0.5: Accuracy 4875/10000 (49%)
+Epoch 27 Testing loss: 1.9492243528366089
+testvggcd0.5: Accuracy 4719/10000 (47%)
+Epoch 28 Testing loss: 1.9150704145431519
+testvggcd0.5: Accuracy 4829/10000 (48%)
+Epoch 29 Testing loss: 1.915518045425415
+testvggcd0.5: Accuracy 4734/10000 (47%)
+Epoch 30 Testing loss: 1.8786791563034058
+testvggcd0.5: Accuracy 4918/10000 (49%)
+Epoch 31 Testing loss: 1.8298863172531128
+testvggcd0.5: Accuracy 5029/10000 (50%)
+Epoch 32 Testing loss: 1.820137858390808
+testvggcd0.5: Accuracy 5098/10000 (51%)
+Epoch 33 Testing loss: 1.8586269617080688
+testvggcd0.5: Accuracy 5002/10000 (50%)
+Epoch 34 Testing loss: 1.9587424993515015
+testvggcd0.5: Accuracy 4785/10000 (48%)
+Epoch 35 Testing loss: 1.7737573385238647
+testvggcd0.5: Accuracy 5206/10000 (52%)
+Epoch 36 Testing loss: 1.9546632766723633
+testvggcd0.5: Accuracy 4944/10000 (49%)
+Epoch 37 Testing loss: 1.804140329360962
+testvggcd0.5: Accuracy 5144/10000 (51%)
+Epoch 38 Testing loss: 1.854343056678772
+testvggcd0.5: Accuracy 5085/10000 (51%)
+Epoch 39 Testing loss: 1.7630304098129272
+testvggcd0.5: Accuracy 5260/10000 (53%)
+Epoch 40 Testing loss: 1.7755110263824463
+testvggcd0.5: Accuracy 5354/10000 (54%)
+Epoch 41 Testing loss: 1.831499695777893
+testvggcd0.5: Accuracy 5226/10000 (52%)
+Epoch 42 Testing loss: 1.7046902179718018
+testvggcd0.5: Accuracy 5391/10000 (54%)
+Epoch 43 Testing loss: 1.7222343683242798
+testvggcd0.5: Accuracy 5420/10000 (54%)
+Epoch 44 Testing loss: 1.7393922805786133
+testvggcd0.5: Accuracy 5394/10000 (54%)
+Epoch 45 Testing loss: 1.6837815046310425
+testvggcd0.5: Accuracy 5539/10000 (55%)
+Epoch 46 Testing loss: 1.6910759210586548
+testvggcd0.5: Accuracy 5461/10000 (55%)
+Epoch 47 Testing loss: 1.9044917821884155
+testvggcd0.5: Accuracy 5196/10000 (52%)
+Epoch 48 Testing loss: 1.6423542499542236
+testvggcd0.5: Accuracy 5629/10000 (56%)
+Epoch 49 Testing loss: 1.94082510471344
+testvggcd0.5: Accuracy 5148/10000 (51%)
+Epoch 50 Testing loss: 1.6417582035064697
+testvggcd0.5: Accuracy 5652/10000 (57%)
+Epoch 51 Testing loss: 1.6186599731445312
+testvggcd0.5: Accuracy 5709/10000 (57%)
+Epoch 52 Testing loss: 1.651283621788025
+testvggcd0.5: Accuracy 5675/10000 (57%)
+Epoch 53 Testing loss: 1.619802474975586
+testvggcd0.5: Accuracy 5714/10000 (57%)
+Epoch 54 Testing loss: 1.6358562707901
+testvggcd0.5: Accuracy 5689/10000 (57%)
+Epoch 55 Testing loss: 1.7214123010635376
+testvggcd0.5: Accuracy 5503/10000 (55%)
+Epoch 56 Testing loss: 1.582489252090454
+testvggcd0.5: Accuracy 5831/10000 (58%)
+Epoch 57 Testing loss: 1.6797558069229126
+testvggcd0.5: Accuracy 5722/10000 (57%)
+Epoch 58 Testing loss: 1.7230325937271118
+testvggcd0.5: Accuracy 5632/10000 (56%)
+Epoch 59 Testing loss: 1.6905940771102905
+testvggcd0.5: Accuracy 5705/10000 (57%)
+Epoch 60 Testing loss: 1.6942341327667236
+testvggcd0.5: Accuracy 5695/10000 (57%)
+Epoch 61 Testing loss: 1.6917946338653564
+testvggcd0.5: Accuracy 5751/10000 (58%)
+Epoch 62 Testing loss: 1.7721328735351562
+testvggcd0.5: Accuracy 5640/10000 (56%)
+Epoch 63 Testing loss: 1.7519769668579102
+testvggcd0.5: Accuracy 5575/10000 (56%)
+Epoch 64 Testing loss: 1.6776926517486572
+testvggcd0.5: Accuracy 5737/10000 (57%)
+Epoch 65 Testing loss: 1.6119358539581299
+testvggcd0.5: Accuracy 5879/10000 (59%)
+Epoch 66 Testing loss: 1.664955973625183
+testvggcd0.5: Accuracy 5874/10000 (59%)
+Epoch 67 Testing loss: 1.7212861776351929
+testvggcd0.5: Accuracy 5699/10000 (57%)
+Epoch 68 Testing loss: 1.6876081228256226
+testvggcd0.5: Accuracy 5805/10000 (58%)
+Epoch 69 Testing loss: 1.735210657119751
+testvggcd0.5: Accuracy 5836/10000 (58%)
+Epoch 70 Testing loss: 1.8589833974838257
+testvggcd0.5: Accuracy 5575/10000 (56%)
+Epoch 71 Testing loss: 1.6099042892456055
+testvggcd0.5: Accuracy 5968/10000 (60%)
+Epoch 72 Testing loss: 1.7384541034698486
+testvggcd0.5: Accuracy 5789/10000 (58%)
+Epoch 73 Testing loss: 1.668092966079712
+testvggcd0.5: Accuracy 5952/10000 (60%)
+Epoch 74 Testing loss: 1.752603530883789
+testvggcd0.5: Accuracy 5825/10000 (58%)
+Epoch 75 Testing loss: 1.7628071308135986
+testvggcd0.5: Accuracy 5835/10000 (58%)
+Epoch 76 Testing loss: 1.782910704612732
+testvggcd0.5: Accuracy 5684/10000 (57%)
+Epoch 77 Testing loss: 1.639700174331665
+testvggcd0.5: Accuracy 5967/10000 (60%)
+Epoch 78 Testing loss: 1.8142446279525757
+testvggcd0.5: Accuracy 5816/10000 (58%)
+Epoch 79 Testing loss: 1.7449175119400024
+testvggcd0.5: Accuracy 5861/10000 (59%)
+Epoch 80 Testing loss: 1.7707337141036987
+testvggcd0.5: Accuracy 5888/10000 (59%)
+Epoch 81 Testing loss: 1.8105230331420898
+testvggcd0.5: Accuracy 5879/10000 (59%)
+Epoch 82 Testing loss: 1.7818224430084229
+testvggcd0.5: Accuracy 5871/10000 (59%)
+Epoch 83 Testing loss: 1.8297510147094727
+testvggcd0.5: Accuracy 5881/10000 (59%)
+Epoch 84 Testing loss: 1.8255605697631836
+testvggcd0.5: Accuracy 5868/10000 (59%)
+Epoch 85 Testing loss: 1.8097549676895142
+testvggcd0.5: Accuracy 5889/10000 (59%)
+Epoch 86 Testing loss: 1.7530889511108398
+testvggcd0.5: Accuracy 5919/10000 (59%)
+Epoch 87 Testing loss: 1.9167919158935547
+testvggcd0.5: Accuracy 5845/10000 (58%)
+Epoch 88 Testing loss: 1.8911478519439697
+testvggcd0.5: Accuracy 5824/10000 (58%)
+Epoch 89 Testing loss: 1.8820075988769531
+testvggcd0.5: Accuracy 5905/10000 (59%)
+Epoch 90 Testing loss: 1.8373807668685913
+testvggcd0.5: Accuracy 5919/10000 (59%)
+Epoch 91 Testing loss: 1.800463318824768
+testvggcd0.5: Accuracy 6001/10000 (60%)
+Epoch 92 Testing loss: 1.9364778995513916
+testvggcd0.5: Accuracy 5806/10000 (58%)
+Epoch 93 Testing loss: 1.9235950708389282
+testvggcd0.5: Accuracy 5853/10000 (59%)
+Epoch 94 Testing loss: 1.854345679283142
+testvggcd0.5: Accuracy 5984/10000 (60%)
+Epoch 95 Testing loss: 2.0318117141723633
+testvggcd0.5: Accuracy 5808/10000 (58%)
+Epoch 96 Testing loss: 1.817466378211975
+testvggcd0.5: Accuracy 6061/10000 (61%)
+Epoch 97 Testing loss: 1.9684247970581055
+testvggcd0.5: Accuracy 5883/10000 (59%)
+Epoch 98 Testing loss: 1.8626511096954346
+testvggcd0.5: Accuracy 6059/10000 (61%)
+Epoch 99 Testing loss: 1.9053890705108643
+testvggcd0.5: Accuracy 5961/10000 (60%)
+Epoch 0 Testing loss: 2.3127105236053467
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3430967330932617
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.3500146865844727
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.350332736968994
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.349564552307129
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.3485381603240967
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.347620964050293
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.346965789794922
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 8 Testing loss: 2.3466527462005615
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 9 Testing loss: 2.346308708190918
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 10 Testing loss: 2.348618745803833
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 11 Testing loss: 2.3367068767547607
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 12 Testing loss: 2.294926166534424
+testnoniid: Accuracy 1000/10000 (10%)
+Epoch 13 Testing loss: 2.2097737789154053
+testnoniid: Accuracy 1539/10000 (15%)
+Epoch 14 Testing loss: 1.942895531654358
+testnoniid: Accuracy 1796/10000 (18%)
+Epoch 15 Testing loss: 1.8996295928955078
+testnoniid: Accuracy 1840/10000 (18%)
+Epoch 16 Testing loss: 1.8703495264053345
+testnoniid: Accuracy 1905/10000 (19%)
+Epoch 17 Testing loss: 1.8214915990829468
+testnoniid: Accuracy 2214/10000 (22%)
+Epoch 18 Testing loss: 1.7312744855880737
+testnoniid: Accuracy 2967/10000 (30%)
+Epoch 19 Testing loss: 1.6710456609725952
+testnoniid: Accuracy 3117/10000 (31%)
+Epoch 20 Testing loss: 1.5642110109329224
+testnoniid: Accuracy 3663/10000 (37%)
+Epoch 21 Testing loss: 1.5000319480895996
+testnoniid: Accuracy 3992/10000 (40%)
+Epoch 22 Testing loss: 1.5098474025726318
+testnoniid: Accuracy 3985/10000 (40%)
+Epoch 23 Testing loss: 1.466733455657959
+testnoniid: Accuracy 4266/10000 (43%)
+Epoch 24 Testing loss: 1.4539800882339478
+testnoniid: Accuracy 4252/10000 (43%)
+Epoch 25 Testing loss: 1.368026614189148
+testnoniid: Accuracy 4633/10000 (46%)
+Epoch 26 Testing loss: 1.3260478973388672
+testnoniid: Accuracy 4887/10000 (49%)
+Epoch 27 Testing loss: 1.2993625402450562
+testnoniid: Accuracy 5034/10000 (50%)
+Epoch 28 Testing loss: 1.2462389469146729
+testnoniid: Accuracy 5309/10000 (53%)
+Epoch 29 Testing loss: 1.2394483089447021
+testnoniid: Accuracy 5471/10000 (55%)
+Epoch 30 Testing loss: 1.1933151483535767
+testnoniid: Accuracy 5692/10000 (57%)
+Epoch 31 Testing loss: 1.1757060289382935
+testnoniid: Accuracy 5790/10000 (58%)
+Epoch 32 Testing loss: 1.1506359577178955
+testnoniid: Accuracy 5921/10000 (59%)
+Epoch 33 Testing loss: 1.1287134885787964
+testnoniid: Accuracy 6079/10000 (61%)
+Epoch 34 Testing loss: 1.1116549968719482
+testnoniid: Accuracy 6179/10000 (62%)
+Epoch 35 Testing loss: 1.0903254747390747
+testnoniid: Accuracy 6360/10000 (64%)
+Epoch 36 Testing loss: 1.0610582828521729
+testnoniid: Accuracy 6449/10000 (64%)
+Epoch 37 Testing loss: 1.0483123064041138
+testnoniid: Accuracy 6648/10000 (66%)
+Epoch 38 Testing loss: 1.0153387784957886
+testnoniid: Accuracy 6723/10000 (67%)
+Epoch 39 Testing loss: 1.0169446468353271
+testnoniid: Accuracy 6801/10000 (68%)
+Epoch 40 Testing loss: 1.0270851850509644
+testnoniid: Accuracy 6838/10000 (68%)
+Epoch 41 Testing loss: 1.0309406518936157
+testnoniid: Accuracy 6855/10000 (69%)
+Epoch 42 Testing loss: 1.0266607999801636
+testnoniid: Accuracy 6949/10000 (69%)
+Epoch 43 Testing loss: 1.0159474611282349
+testnoniid: Accuracy 7023/10000 (70%)
+Epoch 44 Testing loss: 1.0392744541168213
+testnoniid: Accuracy 7048/10000 (70%)
+Epoch 45 Testing loss: 1.044224739074707
+testnoniid: Accuracy 7119/10000 (71%)
+Epoch 46 Testing loss: 1.0580718517303467
+testnoniid: Accuracy 7131/10000 (71%)
+Epoch 47 Testing loss: 1.0748313665390015
+testnoniid: Accuracy 7163/10000 (72%)
+Epoch 48 Testing loss: 1.0970953702926636
+testnoniid: Accuracy 7173/10000 (72%)
+Epoch 49 Testing loss: 1.0898574590682983
+testnoniid: Accuracy 7204/10000 (72%)
+Epoch 50 Testing loss: 1.1079109907150269
+testnoniid: Accuracy 7233/10000 (72%)
+Epoch 51 Testing loss: 1.124526858329773
+testnoniid: Accuracy 7241/10000 (72%)
+Epoch 52 Testing loss: 1.116732120513916
+testnoniid: Accuracy 7302/10000 (73%)
+Epoch 53 Testing loss: 1.1302968263626099
+testnoniid: Accuracy 7299/10000 (73%)
+Epoch 54 Testing loss: 1.1619064807891846
+testnoniid: Accuracy 7277/10000 (73%)
+Epoch 55 Testing loss: 1.1288185119628906
+testnoniid: Accuracy 7352/10000 (74%)
+Epoch 56 Testing loss: 1.148594617843628
+testnoniid: Accuracy 7313/10000 (73%)
+Epoch 57 Testing loss: 1.1498607397079468
+testnoniid: Accuracy 7359/10000 (74%)
+Epoch 58 Testing loss: 1.1740734577178955
+testnoniid: Accuracy 7321/10000 (73%)
+Epoch 59 Testing loss: 1.1936149597167969
+testnoniid: Accuracy 7363/10000 (74%)
+Epoch 60 Testing loss: 1.1797164678573608
+testnoniid: Accuracy 7405/10000 (74%)
+Epoch 61 Testing loss: 1.2094205617904663
+testnoniid: Accuracy 7399/10000 (74%)
+Epoch 62 Testing loss: 1.2022831439971924
+testnoniid: Accuracy 7417/10000 (74%)
+Epoch 63 Testing loss: 1.2272791862487793
+testnoniid: Accuracy 7436/10000 (74%)
+Epoch 64 Testing loss: 1.2299085855484009
+testnoniid: Accuracy 7410/10000 (74%)
+Epoch 65 Testing loss: 1.263257384300232
+testnoniid: Accuracy 7428/10000 (74%)
+Epoch 66 Testing loss: 1.2640795707702637
+testnoniid: Accuracy 7419/10000 (74%)
+Epoch 67 Testing loss: 1.2714859247207642
+testnoniid: Accuracy 7418/10000 (74%)
+Epoch 68 Testing loss: 1.27101469039917
+testnoniid: Accuracy 7462/10000 (75%)
+Epoch 69 Testing loss: 1.283664584159851
+testnoniid: Accuracy 7438/10000 (74%)
+Epoch 70 Testing loss: 1.3013213872909546
+testnoniid: Accuracy 7449/10000 (74%)
+Epoch 71 Testing loss: 1.3135416507720947
+testnoniid: Accuracy 7438/10000 (74%)
+Epoch 72 Testing loss: 1.3063032627105713
+testnoniid: Accuracy 7451/10000 (75%)
+Epoch 73 Testing loss: 1.2976266145706177
+testnoniid: Accuracy 7445/10000 (74%)
+Epoch 74 Testing loss: 1.3381259441375732
+testnoniid: Accuracy 7443/10000 (74%)
+Epoch 75 Testing loss: 1.3892707824707031
+testnoniid: Accuracy 7414/10000 (74%)
+Epoch 76 Testing loss: 1.3432526588439941
+testnoniid: Accuracy 7475/10000 (75%)
+Epoch 77 Testing loss: 1.3298134803771973
+testnoniid: Accuracy 7483/10000 (75%)
+Epoch 78 Testing loss: 1.3536218404769897
+testnoniid: Accuracy 7478/10000 (75%)
+Epoch 79 Testing loss: 1.3836816549301147
+testnoniid: Accuracy 7500/10000 (75%)
+Epoch 80 Testing loss: 1.3579816818237305
+testnoniid: Accuracy 7495/10000 (75%)
+Epoch 81 Testing loss: 1.3940967321395874
+testnoniid: Accuracy 7480/10000 (75%)
+Epoch 82 Testing loss: 1.344448447227478
+testnoniid: Accuracy 7462/10000 (75%)
+Epoch 83 Testing loss: 1.3821214437484741
+testnoniid: Accuracy 7519/10000 (75%)
+Epoch 84 Testing loss: 1.3909441232681274
+testnoniid: Accuracy 7505/10000 (75%)
+Epoch 85 Testing loss: 1.4235683679580688
+testnoniid: Accuracy 7465/10000 (75%)
+Epoch 86 Testing loss: 1.4081627130508423
+testnoniid: Accuracy 7513/10000 (75%)
+Epoch 87 Testing loss: 1.3955371379852295
+testnoniid: Accuracy 7514/10000 (75%)
+Epoch 88 Testing loss: 1.432446837425232
+testnoniid: Accuracy 7516/10000 (75%)
+Epoch 89 Testing loss: 1.4443567991256714
+testnoniid: Accuracy 7514/10000 (75%)
+Epoch 90 Testing loss: 1.444963812828064
+testnoniid: Accuracy 7538/10000 (75%)
+Epoch 91 Testing loss: 1.4127975702285767
+testnoniid: Accuracy 7532/10000 (75%)
+Epoch 92 Testing loss: 1.438122034072876
+testnoniid: Accuracy 7534/10000 (75%)
+Epoch 93 Testing loss: 1.4588748216629028
+testnoniid: Accuracy 7539/10000 (75%)
+Epoch 94 Testing loss: 1.4489754438400269
+testnoniid: Accuracy 7526/10000 (75%)
+Epoch 95 Testing loss: 1.4933212995529175
+testnoniid: Accuracy 7519/10000 (75%)
+Epoch 96 Testing loss: 1.4796698093414307
+testnoniid: Accuracy 7516/10000 (75%)
+Epoch 97 Testing loss: 1.4582220315933228
+testnoniid: Accuracy 7550/10000 (76%)
+Epoch 98 Testing loss: 1.436692476272583
+testnoniid: Accuracy 7566/10000 (76%)
+Epoch 99 Testing loss: 1.4542529582977295
+testnoniid: Accuracy 7532/10000 (75%)
+Epoch 0 Testing loss: 2.3112223148345947
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 1 Testing loss: 2.3427388668060303
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 2 Testing loss: 2.349360704421997
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 3 Testing loss: 2.34865140914917
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 4 Testing loss: 2.347956418991089
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 5 Testing loss: 2.3471486568450928
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 6 Testing loss: 2.3464276790618896
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 7 Testing loss: 2.346060276031494
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 8 Testing loss: 2.344727039337158
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 9 Testing loss: 2.3453545570373535
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 10 Testing loss: 2.3423924446105957
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 11 Testing loss: 2.337661027908325
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 12 Testing loss: 2.3544812202453613
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 13 Testing loss: 2.3449175357818604
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 14 Testing loss: 2.2993948459625244
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 15 Testing loss: 2.284322500228882
+testnoniidcdnormal: Accuracy 1000/10000 (10%)
+Epoch 16 Testing loss: 2.18684458732605
+testnoniidcdnormal: Accuracy 1389/10000 (14%)
+Epoch 17 Testing loss: 2.1692299842834473
+testnoniidcdnormal: Accuracy 1378/10000 (14%)
+Epoch 18 Testing loss: 2.1519458293914795
+testnoniidcdnormal: Accuracy 1388/10000 (14%)
+Epoch 19 Testing loss: 2.106525421142578
+testnoniidcdnormal: Accuracy 1414/10000 (14%)
+Epoch 20 Testing loss: 2.053372621536255
+testnoniidcdnormal: Accuracy 1978/10000 (20%)
+Epoch 21 Testing loss: 1.9371258020401
+testnoniidcdnormal: Accuracy 2278/10000 (23%)
+Epoch 22 Testing loss: 1.9106714725494385
+testnoniidcdnormal: Accuracy 2494/10000 (25%)
+Epoch 23 Testing loss: 1.8520163297653198
+testnoniidcdnormal: Accuracy 2796/10000 (28%)
+Epoch 24 Testing loss: 1.7731856107711792
+testnoniidcdnormal: Accuracy 3035/10000 (30%)
+Epoch 25 Testing loss: 1.703555941581726
+testnoniidcdnormal: Accuracy 3290/10000 (33%)
+Epoch 26 Testing loss: 1.6656566858291626
+testnoniidcdnormal: Accuracy 3464/10000 (35%)
+Epoch 27 Testing loss: 1.6186598539352417
+testnoniidcdnormal: Accuracy 3770/10000 (38%)
+Epoch 28 Testing loss: 1.5672053098678589
+testnoniidcdnormal: Accuracy 3949/10000 (39%)
+Epoch 29 Testing loss: 1.528200387954712
+testnoniidcdnormal: Accuracy 4140/10000 (41%)
+Epoch 30 Testing loss: 1.489322543144226
+testnoniidcdnormal: Accuracy 4318/10000 (43%)
+Epoch 31 Testing loss: 1.4462414979934692
+testnoniidcdnormal: Accuracy 4474/10000 (45%)
+Epoch 32 Testing loss: 1.4275233745574951
+testnoniidcdnormal: Accuracy 4663/10000 (47%)
+Epoch 33 Testing loss: 1.370895504951477
+testnoniidcdnormal: Accuracy 4822/10000 (48%)
+Epoch 34 Testing loss: 1.3572312593460083
+testnoniidcdnormal: Accuracy 4939/10000 (49%)
+Epoch 35 Testing loss: 1.3661104440689087
+testnoniidcdnormal: Accuracy 5051/10000 (51%)
+Epoch 36 Testing loss: 1.343619704246521
+testnoniidcdnormal: Accuracy 5162/10000 (52%)
+Epoch 37 Testing loss: 1.1854467391967773
+testnoniidcdnormal: Accuracy 5863/10000 (59%)
+Epoch 38 Testing loss: 1.179701805114746
+testnoniidcdnormal: Accuracy 6054/10000 (61%)
+Epoch 39 Testing loss: 1.1897293329238892
+testnoniidcdnormal: Accuracy 6155/10000 (62%)
+Epoch 40 Testing loss: 1.2523020505905151
+testnoniidcdnormal: Accuracy 6073/10000 (61%)
+Epoch 41 Testing loss: 1.2164446115493774
+testnoniidcdnormal: Accuracy 6218/10000 (62%)
+Epoch 42 Testing loss: 1.1918983459472656
+testnoniidcdnormal: Accuracy 6466/10000 (65%)
+Epoch 43 Testing loss: 1.1459505558013916
+testnoniidcdnormal: Accuracy 6641/10000 (66%)
+Epoch 44 Testing loss: 1.0810621976852417
+testnoniidcdnormal: Accuracy 6918/10000 (69%)
+Epoch 45 Testing loss: 1.0721092224121094
+testnoniidcdnormal: Accuracy 6983/10000 (70%)
+Epoch 46 Testing loss: 1.1064857244491577
+testnoniidcdnormal: Accuracy 6961/10000 (70%)
+Epoch 47 Testing loss: 1.0989384651184082
+testnoniidcdnormal: Accuracy 7037/10000 (70%)
+Epoch 48 Testing loss: 1.1092963218688965
+testnoniidcdnormal: Accuracy 7117/10000 (71%)
+Epoch 49 Testing loss: 1.118233561515808
+testnoniidcdnormal: Accuracy 7099/10000 (71%)
+Epoch 50 Testing loss: 1.104564905166626
+testnoniidcdnormal: Accuracy 7162/10000 (72%)
+Epoch 51 Testing loss: 1.1471643447875977
+testnoniidcdnormal: Accuracy 7129/10000 (71%)
+Epoch 52 Testing loss: 1.1503446102142334
+testnoniidcdnormal: Accuracy 7188/10000 (72%)
+Epoch 53 Testing loss: 1.130379557609558
+testnoniidcdnormal: Accuracy 7220/10000 (72%)
+Epoch 54 Testing loss: 1.1793476343154907
+testnoniidcdnormal: Accuracy 7230/10000 (72%)
+Epoch 55 Testing loss: 1.1736620664596558
+testnoniidcdnormal: Accuracy 7248/10000 (72%)
+Epoch 56 Testing loss: 1.1933164596557617
+testnoniidcdnormal: Accuracy 7292/10000 (73%)
+Epoch 57 Testing loss: 1.2069076299667358
+testnoniidcdnormal: Accuracy 7274/10000 (73%)
+Epoch 58 Testing loss: 1.2253048419952393
+testnoniidcdnormal: Accuracy 7279/10000 (73%)
+Epoch 59 Testing loss: 1.197412133216858
+testnoniidcdnormal: Accuracy 7289/10000 (73%)
+Epoch 60 Testing loss: 1.1956276893615723
+testnoniidcdnormal: Accuracy 7326/10000 (73%)
+Epoch 61 Testing loss: 1.2284648418426514
+testnoniidcdnormal: Accuracy 7290/10000 (73%)
+Epoch 62 Testing loss: 1.2403041124343872
+testnoniidcdnormal: Accuracy 7352/10000 (74%)
+Epoch 63 Testing loss: 1.252589225769043
+testnoniidcdnormal: Accuracy 7364/10000 (74%)
+Epoch 64 Testing loss: 1.2667710781097412
+testnoniidcdnormal: Accuracy 7327/10000 (73%)
+Epoch 65 Testing loss: 1.2794843912124634
+testnoniidcdnormal: Accuracy 7362/10000 (74%)
+Epoch 66 Testing loss: 1.2721385955810547
+testnoniidcdnormal: Accuracy 7369/10000 (74%)
+Epoch 67 Testing loss: 1.3058176040649414
+testnoniidcdnormal: Accuracy 7369/10000 (74%)
+Epoch 68 Testing loss: 1.3222270011901855
+testnoniidcdnormal: Accuracy 7389/10000 (74%)
+Epoch 69 Testing loss: 1.2846286296844482
+testnoniidcdnormal: Accuracy 7426/10000 (74%)
+Epoch 70 Testing loss: 1.3330328464508057
+testnoniidcdnormal: Accuracy 7403/10000 (74%)
+Epoch 71 Testing loss: 1.299104928970337
+testnoniidcdnormal: Accuracy 7420/10000 (74%)
+Epoch 72 Testing loss: 1.3190491199493408
+testnoniidcdnormal: Accuracy 7419/10000 (74%)
+Epoch 73 Testing loss: 1.341241478919983
+testnoniidcdnormal: Accuracy 7430/10000 (74%)
+Epoch 74 Testing loss: 1.3015722036361694
+testnoniidcdnormal: Accuracy 7447/10000 (74%)
+Epoch 75 Testing loss: 1.3462879657745361
+testnoniidcdnormal: Accuracy 7429/10000 (74%)
+Epoch 76 Testing loss: 1.34723961353302
+testnoniidcdnormal: Accuracy 7481/10000 (75%)
+Epoch 77 Testing loss: 1.3525090217590332
+testnoniidcdnormal: Accuracy 7452/10000 (75%)
+Epoch 78 Testing loss: 1.3697552680969238
+testnoniidcdnormal: Accuracy 7483/10000 (75%)
+Epoch 79 Testing loss: 1.3651071786880493
+testnoniidcdnormal: Accuracy 7445/10000 (74%)
+Epoch 80 Testing loss: 1.3851643800735474
+testnoniidcdnormal: Accuracy 7462/10000 (75%)
+Epoch 81 Testing loss: 1.4037193059921265
+testnoniidcdnormal: Accuracy 7481/10000 (75%)
+Epoch 82 Testing loss: 1.4110695123672485
+testnoniidcdnormal: Accuracy 7455/10000 (75%)
+Epoch 83 Testing loss: 1.4482821226119995
+testnoniidcdnormal: Accuracy 7475/10000 (75%)
+Epoch 84 Testing loss: 1.4159448146820068
+testnoniidcdnormal: Accuracy 7465/10000 (75%)
+Epoch 85 Testing loss: 1.441968321800232
+testnoniidcdnormal: Accuracy 7481/10000 (75%)
+Epoch 86 Testing loss: 1.407594084739685
+testnoniidcdnormal: Accuracy 7497/10000 (75%)
+Epoch 87 Testing loss: 1.4131511449813843
+testnoniidcdnormal: Accuracy 7489/10000 (75%)
+Epoch 88 Testing loss: 1.4241703748703003
+testnoniidcdnormal: Accuracy 7506/10000 (75%)
+Epoch 89 Testing loss: 1.4391587972640991
+testnoniidcdnormal: Accuracy 7493/10000 (75%)
+Epoch 90 Testing loss: 1.4478482007980347
+testnoniidcdnormal: Accuracy 7491/10000 (75%)
+Epoch 91 Testing loss: 1.4236592054367065
+testnoniidcdnormal: Accuracy 7496/10000 (75%)
+Epoch 92 Testing loss: 1.43864107131958
+testnoniidcdnormal: Accuracy 7493/10000 (75%)
+Epoch 93 Testing loss: 1.5113649368286133
+testnoniidcdnormal: Accuracy 7499/10000 (75%)
+Epoch 94 Testing loss: 1.4516505002975464
+testnoniidcdnormal: Accuracy 7513/10000 (75%)
+Epoch 95 Testing loss: 1.4885339736938477
+testnoniidcdnormal: Accuracy 7539/10000 (75%)
+Epoch 96 Testing loss: 1.4583030939102173
+testnoniidcdnormal: Accuracy 7536/10000 (75%)
+Epoch 97 Testing loss: 1.4706882238388062
+testnoniidcdnormal: Accuracy 7506/10000 (75%)
+Epoch 98 Testing loss: 1.5058645009994507
+testnoniidcdnormal: Accuracy 7523/10000 (75%)
+Epoch 99 Testing loss: 1.4671330451965332
+testnoniidcdnormal: Accuracy 7526/10000 (75%)
